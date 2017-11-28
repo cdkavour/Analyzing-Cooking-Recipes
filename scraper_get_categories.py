@@ -16,7 +16,7 @@ def main():
 	for category in soup.find_all('a', href=True, class_="hero-link__item"):
 		href = category['href']
 		if href[0] == '/':
-			category_urls.append('allrecipes.com' + href + '\n')
+			category_urls.append('http://allrecipes.com' + href + '\n')
 	with open("Category_urls.txt", 'w') as output:
 		for URL in category_urls:
 			if "ingredients" in URL:
