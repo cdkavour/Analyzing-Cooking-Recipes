@@ -1,5 +1,4 @@
 # Parse allrecipes.com to get all categories.
-# Ingredients category manually removed
 
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
@@ -16,11 +15,10 @@ def main():
 	for category in soup.find_all('a', href=True, class_="hero-link__item"):
 		href = category['href']
 		if href[0] == '/':
-			category_urls.append('http://allrecipes.com' + href + '\n')
+			href_tag = href[href.rfind('/', 0, len(href) - 1) + 1:len(href) - 1]
+			category_urls.append('http://allrecipes.com' + href + ' ' + href_tag + '\n')
 	with open("Category_urls.txt", 'w') as output:
 		for URL in category_urls:
-			if "ingredients" in URL:
-				continue
 			output.write(URL)
 
 if __name__ == '__main__':
