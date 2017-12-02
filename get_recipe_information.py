@@ -38,7 +38,7 @@ class Recipe:
 
 def main():
     URLS = open("Recipe_urls.txt").read().splitlines()
-    output = open("Recipes.json", 'w')
+    output = open("Recipes_1.json", 'w')
     recipes = defaultdict(dict)
 
     for line in URLS:
