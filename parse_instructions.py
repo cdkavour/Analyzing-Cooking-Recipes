@@ -1,3 +1,14 @@
+"""
+Usage:
+	python parse_instructions.py DIR
+
+	DIR - a directory containing the scraped data from allrecipes in JSON format (get_recipe_information.py)
+
+Function:
+	Generates processed/instructions.json, which maps recipeID to counts of the imperatives in its instructions
+
+"""
+
 import os, sys
 import json
 import nltk
