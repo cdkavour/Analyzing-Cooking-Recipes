@@ -38,11 +38,14 @@ def get_imperatives(jsonDir):
 
 				imperative_map[recipe_id] = imperatives
 
-	return imperative_map
+	filename = 'processed/instructions.json'
+	with open(filename, 'w') as fp:
+		json.dump(imperative_map, fp, sort_keys=True, indent=4, separators=(',', ': '))
+
 
 #map uniqueid -> cooktime
 #def get_labels(jsonDir):
 
 if __name__ == '__main__':
 	inDir = sys.argv[1]
-	out = get_imperatives(inDir)
+	get_imperatives(inDir)

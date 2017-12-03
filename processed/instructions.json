@@ -1,0 +1,4157 @@
+{
+    "100072": {
+        "are": 1,
+        "place": 1,
+        "spoon": 1,
+        "sprinkle": 1,
+        "stir": 1,
+        "wrap": 1
+    },
+    "10033": {
+        "add": 2,
+        "bake": 1,
+        "combine": 1,
+        "cool": 1,
+        "drop": 1,
+        "flatten": 1,
+        "mix": 1,
+        "preheat": 1
+    },
+    "102049": {
+        "divide": 1,
+        "eat": 1,
+        "set": 1,
+        "stir": 1
+    },
+    "10402": {
+        "bake": 1,
+        "beat": 1,
+        "cool": 1,
+        "cover": 1,
+        "place": 1,
+        "preheat": 1,
+        "roll": 1,
+        "stir": 1
+    },
+    "104850": {
+        "cook": 1,
+        "heat": 1,
+        "mix": 1,
+        "place": 2,
+        "stir": 2
+    },
+    "10497": {
+        "bake": 1,
+        "combine": 1,
+        "do": 2,
+        "drop": 1,
+        "get": 1,
+        "let": 1,
+        "make": 1,
+        "preheat": 1,
+        "stir": 2,
+        "store": 1
+    },
+    "10549": {
+        "are": 1,
+        "bake": 1,
+        "beat": 1,
+        "do": 1,
+        "flour": 1,
+        "frost": 1,
+        "grease": 1,
+        "preheat": 1,
+        "remove": 1,
+        "spread": 1,
+        "stir": 1
+    },
+    "10687": {
+        "bake": 1,
+        "blend": 1,
+        "cream": 1,
+        "mix": 1,
+        "place": 1,
+        "preheat": 1,
+        "remove": 1,
+        "roll": 1,
+        "shape": 1
+    },
+    "10813": {
+        "add": 1,
+        "are": 1,
+        "bake": 1,
+        "beat": 1,
+        "cream": 1,
+        "dissolve": 1,
+        "drop": 1,
+        "preheat": 1,
+        "stir": 1
+    },
+    "109190": {
+        "cover": 1,
+        "pour": 2,
+        "remove": 1,
+        "sprinkle": 1,
+        "stir": 1
+    },
+    "112239": {
+        "add": 2,
+        "bake": 2,
+        "beat": 1,
+        "cheesecake": 1,
+        "coat": 1,
+        "cool": 1,
+        "mix": 1,
+        "pour": 1,
+        "preheat": 1,
+        "press": 1,
+        "remove": 1,
+        "stir": 1,
+        "turn": 1
+    },
+    "11438": {
+        "combine": 1,
+        "deep": 1,
+        "form": 1,
+        "fry": 1,
+        "heat": 1,
+        "let": 1,
+        "mix": 1,
+        "set": 1
+    },
+    "11646": {
+        "add": 1,
+        "bake": 1,
+        "cool": 1,
+        "preheat": 1,
+        "sift": 1,
+        "spread": 2,
+        "stir": 2
+    },
+    "11679": {
+        "add": 2,
+        "bake": 1,
+        "cook": 1,
+        "drain": 1,
+        "melt": 2,
+        "pour": 1,
+        "serve": 1,
+        "spread": 1,
+        "sprinkle": 1,
+        "stir": 3
+    },
+    "11688": {
+        "cook": 2,
+        "drain": 1,
+        "pour": 1,
+        "sauce": 1,
+        "serve": 1,
+        "simmer": 1,
+        "stir": 2
+    },
+    "11729": {
+        "add": 1,
+        "bake": 1,
+        "bring": 1,
+        "cover": 1,
+        "drain": 2,
+        "layer": 1,
+        "let": 1,
+        "mix": 1,
+        "preheat": 1,
+        "repeat": 1,
+        "simmer": 1,
+        "sprinkle": 1,
+        "top": 1
+    },
+    "11731": {
+        "cook": 1,
+        "drain": 1,
+        "peel": 1,
+        "place": 1,
+        "serve": 1,
+        "simmer": 1,
+        "transfer": 1
+    },
+    "11758": {
+        "add": 2,
+        "are": 1,
+        "bake": 1,
+        "bring": 1,
+        "butter": 1,
+        "drain": 1,
+        "layer": 1,
+        "preheat": 1,
+        "top": 1
+    },
+    "11853": {
+        "cover": 1,
+        "garnish": 1,
+        "melt": 1,
+        "mix": 1,
+        "stir": 2,
+        "transfer": 1
+    },
+    "11864": {
+        "bake": 1,
+        "bring": 1,
+        "cook": 1,
+        "drain": 1,
+        "melt": 1,
+        "place": 1,
+        "poach": 1,
+        "remove": 1,
+        "stir": 2,
+        "top": 1
+    },
+    "11967": {
+        "arrange": 1,
+        "bake": 1,
+        "blend": 1,
+        "cook": 1,
+        "do": 1,
+        "drain": 1,
+        "heat": 1,
+        "mix": 1,
+        "pour": 1,
+        "preheat": 1,
+        "serve": 1,
+        "stir": 1,
+        "twenty": 1
+    },
+    "12009": {
+        "add": 2,
+        "bring": 1,
+        "cook": 1,
+        "drain": 1,
+        "run": 1,
+        "sprinkle": 1
+    },
+    "12142": {
+        "add": 1,
+        "bake": 1,
+        "beat": 1,
+        "boil": 1,
+        "break": 1,
+        "pie": 1,
+        "pour": 1,
+        "run": 1,
+        "stir": 1
+    },
+    "12218": {
+        "are": 1,
+        "bake": 1,
+        "bring": 1,
+        "butter": 2,
+        "combine": 1,
+        "cook": 1,
+        "fold": 1,
+        "freeze": 2,
+        "grind": 1,
+        "leave": 1,
+        "let": 1,
+        "microwave": 1,
+        "place": 2,
+        "pour": 1,
+        "preheat": 1,
+        "press": 1,
+        "remove": 1,
+        "run": 1,
+        "scatter": 1,
+        "set": 1,
+        "spread": 1,
+        "sprinkle": 1,
+        "stir": 3,
+        "top": 1,
+        "transfer": 2,
+        "turn": 1
+    },
+    "12409": {
+        "bake": 1,
+        "combine": 1,
+        "crumble": 1,
+        "mix": 1,
+        "place": 1,
+        "pour": 1,
+        "preheat": 1
+    },
+    "12682": {
+        "add": 1,
+        "are": 1,
+        "bake": 1,
+        "continue": 1,
+        "cover": 1,
+        "fill": 1,
+        "place": 1,
+        "pour": 2,
+        "preheat": 1,
+        "stir": 1
+    },
+    "127167": {
+        "place": 1,
+        "spinach": 1,
+        "sprinkle": 1,
+        "top": 1
+    },
+    "12718": {
+        "add": 2,
+        "attach": 1,
+        "bring": 1,
+        "combine": 1,
+        "cook": 1,
+        "discard": 1,
+        "do": 2,
+        "handle": 1,
+        "heat": 1,
+        "pour": 1,
+        "pull": 1,
+        "remove": 1,
+        "scrub": 1,
+        "strain": 1
+    },
+    "12720": {
+        "cook": 1,
+        "place": 2,
+        "preheat": 1,
+        "refrigerate": 1
+    },
+    "12801": {
+        "add": 1,
+        "are": 1,
+        "arrange": 1,
+        "bake": 1,
+        "bring": 1,
+        "clean": 1,
+        "cook": 2,
+        "pour": 1,
+        "preheat": 1,
+        "remove": 1,
+        "sauce": 1,
+        "spoon": 1,
+        "sprinkle": 1,
+        "stir": 1
+    },
+    "12891": {
+        "are": 1,
+        "cover": 1,
+        "drop": 1,
+        "simmer": 1,
+        "stir": 1
+    },
+    "12942": {
+        "cover": 1,
+        "remove": 1,
+        "soup": 1,
+        "stir": 2
+    },
+    "12974": {
+        "add": 1,
+        "bring": 1,
+        "cook": 1,
+        "do": 1,
+        "puree": 1,
+        "return": 1
+    },
+    "13041": {
+        "add": 1,
+        "are": 1,
+        "cook": 1,
+        "do": 1,
+        "drain": 1,
+        "get": 1,
+        "heat": 1,
+        "stir": 2,
+        "whisk": 2
+    },
+    "13045": {
+        "cook": 2,
+        "mix": 1,
+        "simmer": 1,
+        "stir": 2
+    },
+    "130995": {
+        "are": 1,
+        "bake": 1,
+        "cover": 1,
+        "fit": 1,
+        "mix": 1,
+        "place": 1,
+        "preheat": 1,
+        "simmer": 3,
+        "spoon": 1,
+        "whisk": 1
+    },
+    "132692": {
+        "arrange": 1,
+        "bake": 1,
+        "continue": 2,
+        "cover": 1,
+        "do": 1,
+        "place": 1,
+        "pour": 5,
+        "preheat": 1,
+        "refrigerate": 1,
+        "remove": 2,
+        "serve": 1,
+        "set": 3,
+        "spoon": 1,
+        "stir": 3,
+        "whisk": 2
+    },
+    "13309": {
+        "add": 2,
+        "bowls": 1,
+        "do": 1,
+        "heat": 1,
+        "ladle": 1,
+        "layer": 1,
+        "place": 1,
+        "prefer": 1,
+        "soup": 1
+    },
+    "133128": {
+        "add": 1,
+        "bring": 2,
+        "cook": 1,
+        "drain": 1,
+        "pour": 1,
+        "stir": 4
+    },
+    "13313": {
+        "add": 1,
+        "hold": 1,
+        "pour": 2,
+        "puree": 1,
+        "stir": 1
+    },
+    "13333": {
+        "add": 5,
+        "drain": 1,
+        "fill": 1,
+        "ladle": 1,
+        "simmer": 1,
+        "spray": 1
+    },
+    "13436": {
+        "add": 1,
+        "bring": 1,
+        "remove": 1,
+        "saute": 1,
+        "simmer": 2,
+        "skim": 1,
+        "sprinkle": 1,
+        "stir": 2
+    },
+    "13566": {
+        "add": 1,
+        "bake": 1,
+        "combine": 1,
+        "cool": 2,
+        "grease": 1,
+        "mix": 1,
+        "pour": 1,
+        "preheat": 1,
+        "spoon": 1
+    },
+    "13580": {
+        "chop": 1,
+        "cover": 1,
+        "stir": 1,
+        "toss": 1
+    },
+    "13651": {
+        "add": 1,
+        "allow": 1,
+        "bake": 1,
+        "cook": 1,
+        "drizzle": 1,
+        "mix": 1,
+        "pour": 1,
+        "preheat": 1,
+        "spread": 1,
+        "transfer": 1
+    },
+    "13717": {
+        "add": 1,
+        "bake": 1,
+        "preheat": 1,
+        "spread": 1,
+        "stir": 2,
+        "transfer": 1
+    },
+    "137428": {
+        "add": 1,
+        "are": 1,
+        "bake": 1,
+        "blend": 1,
+        "caramelize": 1,
+        "cook": 2,
+        "drain": 1,
+        "preheat": 1,
+        "set": 1,
+        "spray": 1,
+        "stuff": 1
+    },
+    "13838": {
+        "add": 1,
+        "bake": 1,
+        "grease": 1,
+        "preheat": 1,
+        "remove": 1,
+        "spread": 1,
+        "stir": 1
+    },
+    "139012": {
+        "microwave": 1,
+        "pour": 1,
+        "stir": 2
+    },
+    "13933": {
+        "are": 1,
+        "cover": 1,
+        "place": 1,
+        "pour": 1,
+        "shake": 1,
+        "stir": 1
+    },
+    "13941": {
+        "combine": 1,
+        "drop": 1,
+        "heat": 1,
+        "stir": 1
+    },
+    "13978": {
+        "add": 1,
+        "bring": 1,
+        "cook": 2,
+        "stir": 4
+    },
+    "140829": {
+        "add": 2,
+        "cook": 1,
+        "cover": 1,
+        "heat": 1,
+        "mix": 1,
+        "place": 1,
+        "simmer": 1,
+        "stir": 2
+    },
+    "14132": {
+        "blend": 1,
+        "heat": 1,
+        "ladle": 1,
+        "soup": 1
+    },
+    "141678": {
+        "cook": 1,
+        "cover": 1,
+        "drain": 1,
+        "note": 1,
+        "place": 1,
+        "pour": 1,
+        "serve": 1,
+        "stir": 1
+    },
+    "14169": {
+        "chill": 1,
+        "mix": 1,
+        "pour": 1,
+        "serve": 1,
+        "whisk": 1
+    },
+    "14172": {
+        "add": 1,
+        "cook": 2,
+        "heat": 1,
+        "lettuce": 1,
+        "mince": 1,
+        "place": 1,
+        "refrigerate": 1,
+        "remove": 1,
+        "stir": 1,
+        "toss": 1
+    },
+    "141828": {
+        "blend": 1,
+        "chill": 1,
+        "let": 1,
+        "pour": 1,
+        "stand": 1,
+        "stir": 2,
+        "strain": 1
+    },
+    "142027": {
+        "blend": 1,
+        "chill": 1,
+        "combine": 1,
+        "pour": 1,
+        "whisk": 1
+    },
+    "14231": {
+        "mix": 1,
+        "refrigerate": 1,
+        "serve": 1,
+        "stir": 1
+    },
+    "142614": {
+        "add": 1,
+        "assemble": 1,
+        "combine": 1,
+        "cover": 2,
+        "drizzle": 1,
+        "grill": 1,
+        "place": 1,
+        "pour": 1,
+        "preheat": 1,
+        "remove": 1,
+        "set": 1,
+        "stir": 1
+    },
+    "14276": {
+        "combine": 1,
+        "cover": 1,
+        "pour": 1,
+        "refrigerate": 1
+    },
+    "14278": {
+        "combine": 1,
+        "cook": 1,
+        "cover": 1,
+        "drain": 1,
+        "stir": 1
+    },
+    "14280": {
+        "combine": 1,
+        "cool": 1,
+        "place": 1,
+        "stir": 1
+    },
+    "14281": {
+        "combine": 1,
+        "cook": 1,
+        "cover": 1,
+        "drain": 1,
+        "place": 1,
+        "prepare": 1
+    },
+    "143069": {
+        "add": 1,
+        "are": 1,
+        "bring": 1,
+        "cook": 3,
+        "drain": 2,
+        "heat": 1,
+        "mix": 1,
+        "pour": 1,
+        "stir": 1
+    },
+    "143226": {
+        "are": 1,
+        "grill": 1,
+        "place": 1,
+        "pour": 1,
+        "preheat": 1,
+        "set": 1
+    },
+    "143667": {
+        "bake": 1,
+        "beat": 1,
+        "combine": 1,
+        "preheat": 1,
+        "remove": 1,
+        "sift": 1,
+        "spread": 1,
+        "stir": 2
+    },
+    "143809": {
+        "add": 1,
+        "blend": 1,
+        "cook": 1,
+        "cover": 1,
+        "place": 1,
+        "pour": 1
+    },
+    "14399": {
+        "combine": 1,
+        "mix": 1
+    },
+    "14469": {
+        "combine": 1,
+        "cook": 1,
+        "remove": 1,
+        "toss": 1
+    },
+    "14495": {
+        "cook": 1,
+        "place": 3,
+        "preheat": 1,
+        "seal": 1,
+        "slice": 1
+    },
+    "14512": {
+        "cook": 1,
+        "place": 2,
+        "preheat": 1,
+        "repeat": 1,
+        "serve": 1,
+        "wrap": 1
+    },
+    "14685": {
+        "cover": 1,
+        "place": 1,
+        "pour": 1,
+        "stir": 1
+    },
+    "147103": {
+        "bring": 1,
+        "cover": 1,
+        "place": 2,
+        "remove": 1,
+        "serve": 1,
+        "stir": 1
+    },
+    "147363": {
+        "add": 1,
+        "do": 1,
+        "fill": 1,
+        "garnish": 1,
+        "place": 1,
+        "pour": 1,
+        "stir": 1,
+        "use": 1
+    },
+    "147804": {
+        "add": 1,
+        "mix": 1,
+        "pour": 1,
+        "refrigerate": 1,
+        "return": 1,
+        "stand": 1,
+        "stir": 1,
+        "strain": 1
+    },
+    "148142": {
+        "add": 2,
+        "cover": 1,
+        "heat": 1,
+        "pour": 1,
+        "simmer": 1
+    },
+    "14830": {
+        "blend": 1,
+        "drizzle": 1,
+        "place": 1,
+        "sprinkle": 1,
+        "transfer": 1
+    },
+    "149218": {
+        "combine": 1,
+        "continue": 1,
+        "cook": 1,
+        "stir": 1
+    },
+    "14939": {
+        "arrange": 1,
+        "bake": 1,
+        "place": 1,
+        "preheat": 1
+    },
+    "14985": {
+        "bell": 1,
+        "bring": 1,
+        "combine": 1,
+        "cook": 1,
+        "drain": 1,
+        "place": 1,
+        "simmer": 1
+    },
+    "15004": {
+        "bake": 1,
+        "beat": 1,
+        "blend": 1,
+        "drop": 1,
+        "preheat": 1,
+        "sift": 1,
+        "stir": 1
+    },
+    "150306": {
+        "are": 1,
+        "drain": 1,
+        "dredge": 1,
+        "fry": 1,
+        "heat": 1,
+        "pat": 1,
+        "place": 2,
+        "return": 1,
+        "scrape": 1,
+        "spoon": 1,
+        "stir": 3,
+        "whisk": 1
+    },
+    "15057": {
+        "arrange": 1,
+        "bring": 1,
+        "burst": 1,
+        "cover": 2,
+        "mix": 1,
+        "pour": 1,
+        "preheat": 1,
+        "remove": 1,
+        "sprinkle": 1,
+        "stir": 1
+    },
+    "15184": {
+        "add": 1,
+        "are": 1,
+        "arrange": 1,
+        "bake": 1,
+        "break": 1,
+        "chop": 1,
+        "clean": 1,
+        "fry": 1,
+        "heat": 1,
+        "mixture": 1,
+        "preheat": 1,
+        "spray": 1
+    },
+    "15206": {
+        "add": 1,
+        "bake": 1,
+        "blend": 1,
+        "preheat": 1,
+        "roll": 1
+    },
+    "153650": {
+        "add": 1,
+        "bring": 1,
+        "serve": 1,
+        "simmer": 1
+    },
+    "154821": {
+        "bring": 1,
+        "cook": 1,
+        "discard": 1,
+        "drain": 1,
+        "heat": 1,
+        "serve": 1,
+        "stir": 2
+    },
+    "15633": {
+        "bake": 2,
+        "begin": 1,
+        "combine": 1,
+        "cool": 1,
+        "mix": 1,
+        "preheat": 1,
+        "sprinkle": 1,
+        "transfer": 1
+    },
+    "15679": {
+        "add": 3,
+        "combine": 1,
+        "heat": 1,
+        "serve": 1,
+        "stir-fry": 1
+    },
+    "158140": {
+        "are": 1,
+        "combine": 1,
+        "cook": 1,
+        "drain": 1,
+        "sauce": 1,
+        "simmer": 1,
+        "stir": 2
+    },
+    "15925": {
+        "bake": 1,
+        "butter": 1,
+        "cook": 1,
+        "layer": 1,
+        "mix": 1,
+        "pour": 1,
+        "preheat": 1,
+        "stir": 2,
+        "top": 1
+    },
+    "159374": {
+        "add": 1,
+        "continue": 1,
+        "cook": 1,
+        "melt": 1
+    },
+    "160399": {
+        "allow": 1,
+        "are": 2,
+        "bake": 1,
+        "cook": 2,
+        "cover": 1,
+        "have": 1,
+        "let": 1,
+        "make": 1,
+        "measure": 1,
+        "place": 2,
+        "pour": 2,
+        "preheat": 1,
+        "save": 1,
+        "sprinkle": 1,
+        "stir": 2,
+        "stuff": 1
+    },
+    "16066": {
+        "cook": 1,
+        "place": 1
+    },
+    "16098": {
+        "combine": 1,
+        "cook": 1,
+        "drain": 1,
+        "place": 1,
+        "pour": 1,
+        "refrigerate": 1
+    },
+    "16235": {
+        "add": 1,
+        "combine": 1,
+        "drain": 1,
+        "mix": 1
+    },
+    "162760": {
+        "appear": 1,
+        "are": 1,
+        "combine": 2,
+        "flip": 1,
+        "heat": 1,
+        "pour": 2,
+        "whisk": 1
+    },
+    "16348": {
+        "bake": 1,
+        "combine": 1,
+        "dredge": 1,
+        "fry": 1,
+        "have": 1,
+        "heat": 1,
+        "place": 1,
+        "preheat": 1,
+        "rinse": 1,
+        "transfer": 1
+    },
+    "16354": {
+        "bake": 1,
+        "combine": 2,
+        "mix": 1,
+        "pour": 1,
+        "preheat": 1
+    },
+    "16383": {
+        "add": 2,
+        "beat": 1,
+        "cook": 1,
+        "heat": 1,
+        "loosen": 1,
+        "pour": 1,
+        "scoop": 1,
+        "serve": 1,
+        "tilt": 1
+    },
+    "16409": {
+        "pour": 1
+    },
+    "16427": {
+        "combine": 1,
+        "cover": 1,
+        "place": 1,
+        "pour": 1,
+        "roast": 1,
+        "stir": 1
+    },
+    "16664": {
+        "allow": 1,
+        "bake": 1,
+        "pour": 1,
+        "preheat": 1,
+        "saute": 1,
+        "spoon": 1,
+        "sprinkle": 1,
+        "stir": 1
+    },
+    "16679": {
+        "add": 1,
+        "cook": 1,
+        "preheat": 1
+    },
+    "16699": {
+        "combine": 1,
+        "cover": 1,
+        "grill": 1,
+        "marinate": 1,
+        "place": 1,
+        "prepare": 1,
+        "turn": 1,
+        "whisk": 1
+    },
+    "16700": {
+        "bake": 1,
+        "pour": 1,
+        "preheat": 1,
+        "run": 1,
+        "sprinkle": 2,
+        "top": 1
+    },
+    "16715": {
+        "drain": 1,
+        "mix": 1,
+        "pour": 1,
+        "rinse": 1
+    },
+    "16872": {
+        "allow": 1,
+        "bake": 1,
+        "beat": 1,
+        "combine": 1,
+        "drop": 1,
+        "grease": 1,
+        "preheat": 1,
+        "stir": 2
+    },
+    "16895": {
+        "bread": 1,
+        "cook": 1,
+        "flour": 1,
+        "heat": 1,
+        "measure": 1,
+        "serve": 1,
+        "soak": 1,
+        "whisk": 2
+    },
+    "16955": {
+        "bake": 1,
+        "grease": 1,
+        "let": 1,
+        "mix": 1,
+        "pour": 1,
+        "preheat": 1,
+        "whisk": 1
+    },
+    "17036": {
+        "brown": 1,
+        "combine": 1,
+        "heat": 1,
+        "pour": 1,
+        "scoop": 1,
+        "serve": 1,
+        "stir": 1
+    },
+    "17066": {
+        "add": 1,
+        "bake": 1,
+        "combine": 1,
+        "cool": 1,
+        "grease": 1,
+        "preheat": 1,
+        "spread": 1
+    },
+    "17076": {
+        "bake": 1,
+        "combine": 1,
+        "divide": 1,
+        "freeze": 1,
+        "grease": 1,
+        "preheat": 1,
+        "spoon": 1
+    },
+    "17165": {
+        "allow": 1,
+        "bake": 1,
+        "beat": 1,
+        "place": 1,
+        "preheat": 1,
+        "shape": 1,
+        "sift": 1,
+        "stir": 1,
+        "store": 1
+    },
+    "17215": {
+        "add": 1,
+        "let": 1,
+        "place": 1,
+        "select": 1
+    },
+    "17219": {
+        "bake": 1,
+        "bring": 1,
+        "cook": 1,
+        "drain": 1,
+        "preheat": 1,
+        "transfer": 1
+    },
+    "17319": {
+        "combine": 1,
+        "mix": 1,
+        "sauce": 1,
+        "spread": 1
+    },
+    "17325": {
+        "cover": 1,
+        "discard": 1,
+        "grill": 1,
+        "place": 1,
+        "preheat": 1
+    },
+    "17652": {
+        "bake": 1,
+        "coarse": 1,
+        "grease": 1,
+        "preheat": 1,
+        "spoon": 1,
+        "sprinkle": 1,
+        "stir": 1
+    },
+    "17690": {
+        "bake": 1,
+        "cover": 1,
+        "divide": 1,
+        "place": 2,
+        "press": 1,
+        "roll": 3,
+        "select": 1,
+        "side": 1,
+        "start": 1,
+        "turn": 1
+    },
+    "176957": {
+        "are": 1,
+        "bake": 1,
+        "drizzle": 1,
+        "preheat": 1,
+        "wash": 1
+    },
+    "17753": {
+        "allow": 1,
+        "dip": 1,
+        "fry": 1,
+        "hold": 1,
+        "place": 1,
+        "refrigerate": 1,
+        "roll": 1,
+        "serve": 1
+    },
+    "17891": {
+        "bake": 1,
+        "pour": 1,
+        "preheat": 1,
+        "spray": 1,
+        "stir": 1
+    },
+    "18045": {
+        "bake": 1,
+        "cover": 1,
+        "drain": 1,
+        "place": 1,
+        "pour": 1,
+        "preheat": 1,
+        "spread": 1,
+        "sprinkle": 1,
+        "stir": 2
+    },
+    "18074": {
+        "cover": 1,
+        "grill": 1,
+        "place": 2,
+        "pour": 1,
+        "preheat": 1
+    },
+    "180977": {
+        "add": 1,
+        "bake": 1,
+        "cook": 1,
+        "cover": 1,
+        "discard": 1,
+        "drain": 1,
+        "grease": 1,
+        "heat": 1,
+        "pack": 1,
+        "place": 1,
+        "pour": 1,
+        "preheat": 1,
+        "scrape": 1,
+        "sprinkle": 1,
+        "stir": 4
+    },
+    "18255": {
+        "are": 1,
+        "arrange": 1,
+        "bake": 1,
+        "bring": 1,
+        "cover": 1,
+        "drain": 1,
+        "pour": 1,
+        "preheat": 1,
+        "remove": 1,
+        "reserve": 1,
+        "simmer": 1,
+        "soak": 1
+    },
+    "18324": {
+        "bake": 1,
+        "place": 1,
+        "preheat": 1,
+        "serve": 1,
+        "spread": 1
+    },
+    "18327": {
+        "add": 2,
+        "bring": 1,
+        "drain": 1,
+        "heat": 1,
+        "mix": 1,
+        "pour": 1,
+        "remove": 1,
+        "shake": 1,
+        "transfer": 1
+    },
+    "18344": {
+        "are": 1,
+        "bake": 1,
+        "brush": 1,
+        "continue": 1,
+        "place": 1,
+        "preheat": 1
+    },
+    "18417": {
+        "bake": 1,
+        "brush": 1,
+        "heat": 1,
+        "preheat": 1,
+        "remove": 1,
+        "saute": 1,
+        "serve": 1,
+        "spread": 1,
+        "stir": 2,
+        "tuck": 1
+    },
+    "185896": {
+        "allow": 1,
+        "are": 1,
+        "cook": 1,
+        "cover": 1,
+        "do": 1,
+        "garnish": 1,
+        "mix": 2,
+        "place": 3,
+        "pour": 1,
+        "preheat": 1,
+        "puree": 1,
+        "remove": 2,
+        "roast": 1,
+        "simmer": 1,
+        "spread": 1,
+        "sprinkle": 1,
+        "squash": 1,
+        "stir": 3
+    },
+    "185947": {
+        "chill": 3,
+        "pour": 1,
+        "spread": 3,
+        "sprinkle": 2
+    },
+    "18781": {
+        "bake": 1,
+        "cook": 1,
+        "drain": 1,
+        "pour": 1,
+        "preheat": 1,
+        "stir": 1
+    },
+    "18906": {
+        "bake": 1,
+        "preheat": 1,
+        "spoon": 1
+    },
+    "190226": {
+        "add": 1,
+        "are": 1,
+        "begin": 1,
+        "cook": 2,
+        "cover": 1,
+        "drain": 1,
+        "have": 1,
+        "microwave": 1,
+        "stir": 2
+    },
+    "19163": {
+        "boil": 1,
+        "bring": 1,
+        "combine": 1,
+        "divide": 1,
+        "repeat": 1,
+        "stir": 2
+    },
+    "19247": {
+        "allow": 1,
+        "bake": 1,
+        "beat": 1,
+        "combine": 1,
+        "cover": 1,
+        "flatten": 1,
+        "grease": 1,
+        "mix": 1,
+        "preheat": 1,
+        "roll": 1,
+        "stir": 1
+    },
+    "19304": {
+        "add": 4,
+        "are": 1,
+        "cook": 1,
+        "cover": 1,
+        "discard": 1,
+        "drain": 1,
+        "increase": 1,
+        "keep": 1,
+        "press": 1,
+        "reheat": 1,
+        "serve": 1,
+        "simmer": 1,
+        "sprinkle": 1,
+        "stir": 1,
+        "top": 1,
+        "transfer": 3
+    },
+    "19368": {
+        "bake": 1,
+        "bring": 1,
+        "drain": 1,
+        "preheat": 1,
+        "sprinkle": 1
+    },
+    "19402": {
+        "add": 2,
+        "melt": 1,
+        "remove": 1,
+        "sauce": 1,
+        "stir": 1,
+        "toss": 1
+    },
+    "19484": {
+        "cook": 1,
+        "discard": 1,
+        "pour": 1,
+        "preheat": 1,
+        "reserve": 1,
+        "seal": 1,
+        "thread": 1
+    },
+    "19644": {
+        "allow": 1,
+        "arrange": 1,
+        "bake": 1,
+        "cover": 2,
+        "pour": 3,
+        "set": 1,
+        "simmer": 1,
+        "sprinkle": 1,
+        "whisk": 1
+    },
+    "19673": {
+        "blend": 1,
+        "garnish": 1,
+        "mix": 1,
+        "place": 1,
+        "spread": 2,
+        "top": 1
+    },
+    "19687": {
+        "insert": 1,
+        "save": 1,
+        "secure": 1,
+        "set": 1,
+        "slice": 1
+    },
+    "19766": {
+        "open": 1,
+        "pour": 1,
+        "simmer": 1
+    },
+    "200165": {
+        "are": 1,
+        "cover": 1,
+        "place": 2,
+        "pour": 1,
+        "refrigerate": 1,
+        "remove": 1,
+        "serve": 1,
+        "set": 1
+    },
+    "20096": {
+        "bake": 1,
+        "preheat": 1,
+        "serve": 1,
+        "spread": 1,
+        "sprinkle": 1
+    },
+    "20144": {
+        "bake": 1,
+        "let": 1,
+        "pour": 1,
+        "preheat": 1,
+        "stir": 2
+    },
+    "20156": {
+        "are": 1,
+        "bake": 1,
+        "combine": 1,
+        "cover": 1,
+        "place": 2,
+        "press": 1,
+        "roll": 2,
+        "select": 1,
+        "spread": 2,
+        "start": 1,
+        "turn": 1
+    },
+    "20163": {
+        "bake": 1,
+        "blend": 1,
+        "grease": 1,
+        "mix": 1,
+        "pat": 1,
+        "preheat": 1,
+        "roll": 1,
+        "stir": 1,
+        "turn": 1
+    },
+    "20211": {
+        "add": 1,
+        "blend": 1,
+        "bring": 1,
+        "combine": 1,
+        "divide": 1,
+        "do": 1,
+        "remove": 1,
+        "simmer": 1,
+        "stir": 3,
+        "watch": 1
+    },
+    "20216": {
+        "allow": 1,
+        "bring": 1
+    },
+    "20334": {
+        "are": 1,
+        "batter": 1,
+        "combine": 1,
+        "cook": 1,
+        "heat": 1,
+        "pour": 1,
+        "scoop": 1,
+        "serve": 1,
+        "stir": 1
+    },
+    "20509": {
+        "allow": 1,
+        "insert": 1,
+        "remove": 1,
+        "serve": 1,
+        "slice": 1,
+        "sprinkle": 1
+    },
+    "20513": {
+        "beat": 1,
+        "cook": 1,
+        "ladle": 1,
+        "pour": 1,
+        "preheat": 1,
+        "serve": 1,
+        "stir": 1
+    },
+    "20580": {
+        "float": 1,
+        "pour": 1,
+        "slice": 1,
+        "stir": 1
+    },
+    "20669": {
+        "allow": 1,
+        "arrange": 1,
+        "broil": 2,
+        "combine": 1,
+        "divide": 1,
+        "preheat": 1,
+        "top": 1
+    },
+    "20791": {
+        "add": 1,
+        "drain": 1,
+        "melt": 1,
+        "pour": 1,
+        "saute": 1
+    },
+    "20792": {
+        "blend": 1,
+        "pour": 1,
+        "toss": 1
+    },
+    "20876": {
+        "add": 2,
+        "are": 1,
+        "bake": 1,
+        "have": 1,
+        "heat": 1,
+        "let": 1,
+        "preheat": 1,
+        "scoop": 1,
+        "stir": 1
+    },
+    "20934": {
+        "arrange": 1,
+        "bake": 1,
+        "butter": 1,
+        "heat": 1,
+        "pour": 2
+    },
+    "21014": {
+        "brown": 1,
+        "heat": 1,
+        "make": 1,
+        "mix": 1,
+        "pour": 1,
+        "scoop": 1,
+        "serve": 1
+    },
+    "21018": {
+        "cook": 2,
+        "make": 1,
+        "mix": 1,
+        "pour": 1,
+        "remove": 2,
+        "serve": 1,
+        "spray": 1,
+        "stir": 2
+    },
+    "21176": {
+        "bake": 1,
+        "brush": 1,
+        "preheat": 1
+    },
+    "212486": {
+        "have": 1,
+        "place": 1,
+        "serve": 1,
+        "stir": 1,
+        "turn": 1
+    },
+    "21261": {
+        "bake": 1,
+        "cook": 1,
+        "drain": 1,
+        "mash": 1,
+        "mix": 1,
+        "preheat": 1,
+        "sprinkle": 1,
+        "stir": 1,
+        "transfer": 1
+    },
+    "213230": {
+        "chill": 1,
+        "chop": 1,
+        "cook": 1,
+        "drain": 1,
+        "place": 2,
+        "pour": 1
+    },
+    "214071": {
+        "arrange": 1,
+        "bake": 1,
+        "drizzle": 1,
+        "preheat": 1,
+        "serve": 1,
+        "sprinkle": 3,
+        "squeeze": 1
+    },
+    "214167": {
+        "allow": 1,
+        "cook": 5,
+        "cool": 2,
+        "dice": 1,
+        "drain": 1,
+        "increase": 1,
+        "place": 2,
+        "pour": 1,
+        "preheat": 1,
+        "remove": 1,
+        "stir": 6
+    },
+    "21425": {
+        "adjust": 1,
+        "chill": 1,
+        "have": 1,
+        "pour": 1,
+        "slice": 1
+    },
+    "21465": {
+        "bring": 1
+    },
+    "214651": {
+        "are": 2,
+        "bake": 1,
+        "fill": 1,
+        "grease": 1,
+        "let": 1,
+        "mix": 1,
+        "preheat": 1,
+        "remove": 1,
+        "stir": 1
+    },
+    "214903": {
+        "arrange": 1,
+        "brush": 1,
+        "butter": 1,
+        "divide": 1,
+        "gill-side": 1,
+        "grill": 1,
+        "mix": 1,
+        "place": 1,
+        "preheat": 1,
+        "whisk": 1
+    },
+    "214973": {
+        "appear": 1,
+        "bring": 1,
+        "cook": 1,
+        "place": 2,
+        "remove": 1,
+        "stir": 1,
+        "strain": 1,
+        "top": 1
+    },
+    "21667": {
+        "adjust": 1,
+        "cover": 1,
+        "fill": 1,
+        "pour": 1
+    },
+    "21694": {
+        "add": 1,
+        "cook": 1,
+        "cover": 1,
+        "discard": 1,
+        "preheat": 1,
+        "thread": 1
+    },
+    "217266": {
+        "are": 1,
+        "bake": 1,
+        "combine": 1,
+        "cook": 1,
+        "cool": 1,
+        "have": 1,
+        "preheat": 1,
+        "stir": 2,
+        "toss": 1,
+        "transfer": 1
+    },
+    "217981": {
+        "cook": 1,
+        "preheat": 1,
+        "remove": 1,
+        "run": 1,
+        "secure": 1,
+        "sprinkle": 1,
+        "stay": 1,
+        "wrap": 1
+    },
+    "218791": {
+        "bring": 1,
+        "continue": 1,
+        "cook": 1,
+        "simmer": 1,
+        "stir": 2,
+        "whisk": 2
+    },
+    "219076": {
+        "bring": 1,
+        "cook": 4,
+        "have": 1,
+        "heat": 1,
+        "mix": 1,
+        "stir": 7
+    },
+    "219109": {
+        "bring": 1,
+        "combine": 1
+    },
+    "219965": {
+        "beat": 1,
+        "bring": 3,
+        "combine": 1,
+        "cook": 2,
+        "drain": 1,
+        "fold": 1,
+        "remove": 3,
+        "repeat": 1,
+        "return": 1,
+        "simmer": 1,
+        "stir": 2,
+        "turn": 1,
+        "whisk": 2
+    },
+    "220661": {
+        "bell": 1,
+        "bring": 1,
+        "cook": 1,
+        "form": 1,
+        "heat": 1,
+        "mash": 1,
+        "mix": 1
+    },
+    "220674": {
+        "cook": 1,
+        "cover": 1,
+        "dissolve": 1,
+        "melt": 1,
+        "pour": 1,
+        "simmer": 1,
+        "stir": 2
+    },
+    "220907": {
+        "add": 1,
+        "bring": 1,
+        "cook": 1,
+        "divide": 1,
+        "heat": 1,
+        "pour": 2,
+        "remove": 1,
+        "stir": 4
+    },
+    "221261": {
+        "blend": 1,
+        "place": 1
+    },
+    "22180": {
+        "beat": 2,
+        "cook": 1,
+        "pour": 1,
+        "preheat": 1,
+        "serve": 1,
+        "spray": 1
+    },
+    "22583": {
+        "chill": 1,
+        "melt": 1,
+        "pour": 1,
+        "remove": 1,
+        "stir": 1,
+        "store": 1
+    },
+    "22617": {
+        "chill": 1,
+        "fill": 1,
+        "remove": 1,
+        "tear": 1
+    },
+    "22775": {
+        "bring": 1,
+        "brush": 1,
+        "combine": 1,
+        "cover": 2,
+        "deflate": 1,
+        "divide": 1,
+        "do": 1,
+        "flour": 1,
+        "let": 3,
+        "pinch": 1,
+        "place": 2,
+        "remove": 1,
+        "reserve": 1,
+        "stir": 2,
+        "take": 1
+    },
+    "228118": {
+        "add": 1,
+        "bake": 1,
+        "combine": 1,
+        "cool": 1,
+        "fold": 1,
+        "grease": 1,
+        "mix": 1,
+        "preheat": 1,
+        "spoon": 1,
+        "stir": 1
+    },
+    "228340": {
+        "fold": 1,
+        "massage": 1,
+        "pour": 1
+    },
+    "228411": {
+        "bake": 1,
+        "bring": 1,
+        "cook": 1,
+        "drain": 2,
+        "let": 1,
+        "mix": 1,
+        "pour": 1,
+        "preheat": 1,
+        "rinse": 1,
+        "spread": 1,
+        "top": 1
+    },
+    "228542": {
+        "add": 1,
+        "are": 1,
+        "bake": 2,
+        "coat": 2,
+        "place": 3,
+        "preheat": 1,
+        "scoop": 1,
+        "scrape": 1,
+        "sprinkle": 1,
+        "squash": 1,
+        "stir": 1,
+        "transfer": 1,
+        "turn": 1
+    },
+    "229156": {
+        "bring": 1,
+        "combine": 1,
+        "pour": 1,
+        "serve": 1,
+        "stir": 1,
+        "toss": 1,
+        "whisk": 1
+    },
+    "229487": {
+        "add": 1,
+        "cook": 1,
+        "crumble": 1,
+        "place": 1,
+        "stir": 2
+    },
+    "230132": {
+        "add": 1,
+        "allow": 1,
+        "bake": 1,
+        "fit": 1,
+        "pour": 1,
+        "preheat": 1,
+        "whisk": 2
+    },
+    "230159": {
+        "add": 1,
+        "allow": 1,
+        "are": 1,
+        "bake": 1,
+        "combine": 1,
+        "cook": 1,
+        "heat": 1,
+        "pour": 1,
+        "preheat": 1,
+        "spread": 1,
+        "stir": 1,
+        "toss": 1,
+        "transfer": 1
+    },
+    "231702": {
+        "add": 1,
+        "bake": 1,
+        "cover": 1,
+        "place": 1,
+        "preheat": 1,
+        "reserve": 1,
+        "spread": 2,
+        "sprinkle": 1,
+        "whisk": 2
+    },
+    "231713": {
+        "add": 2,
+        "are": 2,
+        "bake": 1,
+        "combine": 1,
+        "cook": 2,
+        "drizzle": 1,
+        "melt": 1,
+        "pour": 4,
+        "preheat": 1,
+        "raise": 1,
+        "remove": 1,
+        "serve": 1,
+        "sprinkle": 1,
+        "stir": 2,
+        "transfer": 1
+    },
+    "231865": {
+        "bake": 1,
+        "beat": 2,
+        "cool": 1,
+        "do": 1,
+        "drag": 1,
+        "drizzle": 1,
+        "flour": 1,
+        "grease": 1,
+        "pour": 1,
+        "preheat": 1,
+        "remain": 1,
+        "smooth": 1,
+        "spoon": 1,
+        "stir": 3,
+        "store": 1,
+        "whisk": 1
+    },
+    "233329": {
+        "add": 1,
+        "bring": 1,
+        "cook": 3,
+        "heat": 1,
+        "remove": 1,
+        "stir": 5
+    },
+    "233743": {
+        "add": 1,
+        "drizzle": 1,
+        "toss": 2,
+        "whisk": 1
+    },
+    "234592": {
+        "add": 1,
+        "bake": 1,
+        "bring": 1,
+        "chicken": 1,
+        "cook": 2,
+        "drain": 3,
+        "heat": 1,
+        "melt": 1,
+        "preheat": 1,
+        "prepare": 1,
+        "refrigerate": 1,
+        "rinse": 1,
+        "spoon": 1,
+        "sprinkle": 1,
+        "squeeze": 1,
+        "stir": 2
+    },
+    "23534": {
+        "blend": 1,
+        "combine": 1,
+        "shake": 1,
+        "store": 1
+    },
+    "235359": {
+        "are": 1,
+        "bake": 1,
+        "blend": 1,
+        "bring": 1,
+        "butter": 1,
+        "divide": 1,
+        "let": 1,
+        "place": 1,
+        "pour": 1,
+        "preheat": 1,
+        "set": 1,
+        "stir": 1,
+        "transfer": 1,
+        "whisk": 2
+    },
+    "23539": {
+        "add": 1,
+        "blend": 1,
+        "combine": 1,
+        "pour": 1
+    },
+    "23600": {
+        "arrange": 1,
+        "bake": 1,
+        "bring": 1,
+        "cook": 1,
+        "cool": 1,
+        "cover": 1,
+        "drain": 1,
+        "preheat": 1,
+        "remove": 1,
+        "repeat": 1,
+        "sauce": 1,
+        "simmer": 1,
+        "spoon": 1,
+        "spread": 1,
+        "stir": 1,
+        "top": 1
+    },
+    "236411": {
+        "add": 3,
+        "are": 1,
+        "bring": 1,
+        "cilantro": 1,
+        "continue": 1,
+        "cook": 5,
+        "heat": 1,
+        "puree": 1,
+        "stir": 6,
+        "transfer": 2
+    },
+    "23720": {
+        "bake": 1,
+        "preheat": 1,
+        "spread": 1,
+        "sprinkle": 1,
+        "stir": 1
+    },
+    "23734": {
+        "add": 1,
+        "combine": 1,
+        "refrigerate": 1,
+        "serve": 1,
+        "stir": 1
+    },
+    "237827": {
+        "cook": 1,
+        "crush": 1,
+        "divide": 1,
+        "dust": 1,
+        "melt": 1,
+        "place": 1,
+        "stir": 1,
+        "wrap": 1
+    },
+    "23806": {
+        "add": 2,
+        "bake": 1,
+        "beat": 1,
+        "brush": 1,
+        "cover": 1,
+        "deflate": 1,
+        "divide": 1,
+        "heat": 1,
+        "place": 2,
+        "preheat": 1,
+        "stir": 1
+    },
+    "23847": {
+        "add": 1,
+        "bring": 1,
+        "drain": 1,
+        "pour": 1,
+        "saute": 1,
+        "simmer": 2,
+        "stir": 1
+    },
+    "23852": {
+        "bring": 1,
+        "cook": 2,
+        "cover": 1,
+        "remove": 1,
+        "stir": 2,
+        "whisk": 1
+    },
+    "23874": {
+        "bring": 1,
+        "remove": 1,
+        "run": 1,
+        "simmer": 1,
+        "stir": 1
+    },
+    "239055": {
+        "brush": 1,
+        "cook": 1,
+        "fold": 1,
+        "preheat": 1,
+        "spray": 1,
+        "sprinkle": 1,
+        "whisk": 1
+    },
+    "239180": {
+        "drizzle": 1,
+        "pour": 1,
+        "preheat": 1,
+        "roast": 1,
+        "spread": 1,
+        "toss": 1
+    },
+    "23971": {
+        "along": 1,
+        "are": 1,
+        "arrange": 1,
+        "bake": 1,
+        "cool": 1,
+        "cover": 1,
+        "divide": 1,
+        "dough": 1,
+        "drizzle": 1,
+        "form": 1,
+        "grease": 1,
+        "preheat": 1,
+        "prepare": 1,
+        "press": 1,
+        "repeat": 1,
+        "return": 1,
+        "spoon": 1,
+        "sprinkle": 1,
+        "stir": 1
+    },
+    "24059": {
+        "bring": 1,
+        "combine": 1,
+        "cook": 2,
+        "remove": 1,
+        "stir": 2
+    },
+    "240702": {
+        "place": 1,
+        "stir": 1,
+        "turn": 1
+    },
+    "24087": {
+        "are": 1,
+        "begin": 1,
+        "cayenne": 1,
+        "combine": 1,
+        "cover": 1,
+        "fry": 1,
+        "heat": 1,
+        "place": 1,
+        "remove": 2,
+        "serve": 1,
+        "stir": 1
+    },
+    "240977": {
+        "cook": 1,
+        "stir": 1
+    },
+    "241074": {
+        "add": 1,
+        "chop": 1,
+        "cook": 2,
+        "heat": 1,
+        "lift": 1,
+        "soak": 1,
+        "stir": 1
+    },
+    "241265": {
+        "are": 1,
+        "bring": 1,
+        "combine": 1,
+        "cover": 1,
+        "drain": 1,
+        "let": 1,
+        "mash": 1,
+        "place": 1,
+        "remove": 2
+    },
+    "241443": {
+        "add": 1,
+        "mix": 1
+    },
+    "241792": {
+        "marinate": 1,
+        "place": 1,
+        "pour": 1,
+        "whisk": 1
+    },
+    "24202": {
+        "add": 5,
+        "bake": 1,
+        "bring": 3,
+        "drain": 2,
+        "mash": 1,
+        "mix": 1,
+        "pour": 1,
+        "preheat": 1,
+        "spread": 1,
+        "top": 1
+    },
+    "24226": {
+        "are": 1,
+        "bake": 1,
+        "combine": 1,
+        "cover": 1,
+        "drain": 1,
+        "pour": 1,
+        "preheat": 1,
+        "stir": 1
+    },
+    "24264": {
+        "drain": 1,
+        "mix": 1,
+        "stir": 1
+    },
+    "24332": {
+        "are": 1,
+        "bake": 2,
+        "cook": 1,
+        "drain": 1,
+        "mix": 1,
+        "preheat": 1,
+        "save": 1,
+        "slice": 1,
+        "spoon": 1,
+        "top": 1
+    },
+    "244205": {
+        "add": 1,
+        "cook": 1,
+        "cool": 1,
+        "place": 1,
+        "preheat": 1,
+        "toss": 1,
+        "whisk": 1
+    },
+    "24445": {
+        "allow": 1,
+        "bake": 1,
+        "beat": 1,
+        "combine": 1,
+        "drop": 1,
+        "mix": 1,
+        "preheat": 1,
+        "stir": 1
+    },
+    "244623": {
+        "begin": 1,
+        "blend": 1,
+        "combine": 1,
+        "heat": 1,
+        "mix": 1,
+        "pour": 1,
+        "raise": 1,
+        "transfer": 1
+    },
+    "244796": {
+        "cover": 1,
+        "mix": 1,
+        "refrigerate": 1,
+        "salt": 1
+    },
+    "24517": {
+        "add": 1,
+        "bake": 1,
+        "make": 1,
+        "pour": 1,
+        "preheat": 1,
+        "stir": 1
+    },
+    "24530": {
+        "are": 1,
+        "brown": 1,
+        "do": 1,
+        "heat": 1,
+        "keep": 1,
+        "pour": 2,
+        "scoop": 1,
+        "separate": 1,
+        "serve": 1,
+        "stir": 1
+    },
+    "246097": {
+        "add": 3,
+        "blend": 1,
+        "place": 1
+    },
+    "246195": {
+        "add": 2,
+        "chill": 1,
+        "cover": 1,
+        "hold": 1,
+        "pan": 1,
+        "place": 3,
+        "refrigerate": 2,
+        "remove": 1,
+        "serve": 1,
+        "stir": 1,
+        "tend": 1,
+        "transfer": 1,
+        "whisk": 5
+    },
+    "246292": {
+        "grill": 1,
+        "preheat": 1,
+        "remove": 1,
+        "slice": 2,
+        "sprinkle": 1,
+        "transfer": 1,
+        "whisk": 1
+    },
+    "246591": {
+        "add": 2,
+        "appear": 1,
+        "are": 1,
+        "bake": 1,
+        "beat": 3,
+        "continue": 1,
+        "cool": 1,
+        "divide": 1,
+        "fold": 1,
+        "grease": 1,
+        "place": 2,
+        "preheat": 1,
+        "raspberry": 1,
+        "sift": 1,
+        "spread": 2
+    },
+    "246628": {
+        "add": 3,
+        "bring": 1,
+        "cook": 2,
+        "drain": 1,
+        "heat": 1,
+        "ladle": 1,
+        "scoop": 1,
+        "spaghetti": 1,
+        "stir": 2
+    },
+    "246866": {
+        "add": 4,
+        "bring": 1,
+        "cook": 6,
+        "cover": 2,
+        "drain": 1,
+        "heat": 1,
+        "raise": 1,
+        "remove": 1,
+        "seem": 1,
+        "serve": 1,
+        "skim": 1,
+        "stir": 4
+    },
+    "247275": {
+        "add": 1,
+        "coat": 1,
+        "continue": 1,
+        "drain": 1,
+        "flip": 1,
+        "place": 1,
+        "pour": 1,
+        "serve": 1,
+        "spread": 1,
+        "toss": 1
+    },
+    "24833": {
+        "add": 2,
+        "bring": 1,
+        "cover": 1,
+        "fluff": 1,
+        "let": 1
+    },
+    "25037": {
+        "are": 1,
+        "bake": 1,
+        "beat": 1,
+        "cookie": 1,
+        "cool": 1,
+        "drop": 1,
+        "grease": 1,
+        "mix": 1,
+        "preheat": 1,
+        "sift": 1,
+        "stir": 1
+    },
+    "25155": {
+        "add": 3,
+        "bring": 2,
+        "chill": 1,
+        "chop": 1,
+        "cook": 1,
+        "cover": 1,
+        "drain": 2,
+        "place": 2,
+        "remove": 1
+    },
+    "25203": {
+        "are": 1,
+        "bake": 1,
+        "place": 1,
+        "preheat": 1,
+        "press": 1
+    },
+    "25355": {
+        "brown": 1,
+        "combine": 1,
+        "heat": 1,
+        "serve": 1,
+        "spoon": 1,
+        "stir": 1
+    },
+    "25364": {
+        "bake": 1,
+        "place": 1,
+        "pour": 1,
+        "preheat": 1,
+        "slather": 1,
+        "sprinkle": 1
+    },
+    "254354": {
+        "add": 2,
+        "cook": 1,
+        "form": 1,
+        "heat": 1,
+        "simmer": 1,
+        "stir": 2
+    },
+    "254445": {
+        "add": 1,
+        "allow": 1,
+        "blend": 1,
+        "cook": 1,
+        "cool": 1,
+        "cover": 2,
+        "discard": 1,
+        "fill": 1,
+        "garnish": 1,
+        "place": 3,
+        "pour": 1,
+        "preheat": 1,
+        "refrigerate": 1,
+        "remove": 1,
+        "squeeze": 1,
+        "stir": 1,
+        "tent": 1,
+        "top": 1,
+        "toss": 2,
+        "transfer": 1,
+        "wrap": 1
+    },
+    "25445": {
+        "blend": 1,
+        "cover": 1,
+        "discard": 1,
+        "place": 1,
+        "preheat": 1,
+        "run": 1
+    },
+    "254685": {
+        "add": 2,
+        "bake": 1,
+        "bring": 1,
+        "discard": 1,
+        "drain": 1,
+        "fat": 1,
+        "heat": 1,
+        "pour": 1,
+        "preheat": 1,
+        "pull": 1,
+        "return": 1,
+        "sprinkle": 1,
+        "stir": 2,
+        "transfer": 2
+    },
+    "254818": {
+        "add": 1,
+        "are": 1,
+        "bake": 1,
+        "cook": 1,
+        "drain": 1,
+        "grease": 1,
+        "layer": 1,
+        "mix": 2,
+        "place": 1,
+        "pour": 1,
+        "remove": 1,
+        "set": 1,
+        "sprinkle": 1,
+        "stir": 3,
+        "top": 1
+    },
+    "25502": {
+        "arrange": 1,
+        "cook": 2,
+        "deep": 1,
+        "dice": 1,
+        "drain": 1,
+        "fold": 1,
+        "freeze": 1,
+        "heat": 1,
+        "microwave": 1,
+        "mix": 1,
+        "remove": 2,
+        "rub": 1,
+        "run": 1,
+        "secure": 1,
+        "stir": 3,
+        "wrap": 1
+    },
+    "255259": {
+        "add": 2,
+        "combine": 1,
+        "cook": 3,
+        "heat": 1,
+        "stir": 3,
+        "transfer": 1
+    },
+    "255865": {
+        "add": 1,
+        "bring": 1,
+        "combine": 2,
+        "cook": 2,
+        "cover": 1,
+        "drain": 1,
+        "preheat": 1,
+        "saute": 1,
+        "serve": 1,
+        "spinach": 1,
+        "stir": 3,
+        "transfer": 1
+    },
+    "255899": {
+        "add": 1,
+        "are": 1,
+        "bake": 1,
+        "continue": 1,
+        "dip": 1,
+        "melt": 1,
+        "place": 1,
+        "preheat": 1,
+        "run": 1,
+        "start": 1,
+        "turn": 1
+    },
+    "256016": {
+        "cover": 1,
+        "have": 1,
+        "pan": 1,
+        "pat": 1,
+        "place": 1,
+        "preheat": 1,
+        "remove": 1,
+        "roast": 1,
+        "serve": 1,
+        "spray": 1,
+        "spread": 1,
+        "toss": 1,
+        "whisk": 1
+    },
+    "256301": {
+        "add": 2,
+        "are": 2,
+        "brown": 1,
+        "brush": 1,
+        "burrito": 1,
+        "cook": 2,
+        "divide": 2,
+        "flip": 1,
+        "fold": 1,
+        "heat": 1,
+        "let": 1,
+        "place": 2,
+        "sprinkle": 1,
+        "stir": 2,
+        "toss": 1,
+        "transfer": 2
+    },
+    "256305": {
+        "add": 5,
+        "break": 1,
+        "bring": 1,
+        "cook": 4,
+        "mix": 1,
+        "place": 2,
+        "pour": 1,
+        "remove": 2,
+        "serve": 1,
+        "simmer": 1,
+        "stir": 2,
+        "transfer": 2
+    },
+    "256398": {
+        "add": 2,
+        "bake": 1,
+        "beat": 1,
+        "continue": 1,
+        "fold": 1,
+        "heat": 1,
+        "mix": 1,
+        "place": 2,
+        "pour": 1,
+        "preheat": 1,
+        "remove": 1,
+        "sift": 2,
+        "soak": 1,
+        "transfer": 1,
+        "turn": 1
+    },
+    "256482": {
+        "are": 1,
+        "cook": 1,
+        "dip": 1,
+        "melt": 1,
+        "turn": 1,
+        "whisk": 1
+    },
+    "256611": {
+        "add": 5,
+        "arrange": 1,
+        "bake": 1,
+        "bring": 2,
+        "coat": 1,
+        "combine": 2,
+        "cook": 2,
+        "cover": 2,
+        "fill": 1,
+        "fold": 1,
+        "mix": 1,
+        "overlap": 1,
+        "preheat": 1,
+        "remove": 1,
+        "repeat": 2,
+        "roll": 1,
+        "sauce": 1,
+        "separate": 1,
+        "simmer": 1,
+        "stir": 1,
+        "swirl": 1,
+        "transfer": 1
+    },
+    "256635": {
+        "brush": 2,
+        "divide": 1,
+        "drizzle": 2,
+        "flip": 1,
+        "glaze": 1,
+        "let": 1,
+        "mix": 1,
+        "place": 2,
+        "preheat": 1,
+        "remove": 1,
+        "set": 2,
+        "top": 1,
+        "whisk": 1
+    },
+    "25678": {
+        "bring": 1,
+        "cover": 1,
+        "dissolve": 2,
+        "simmer": 1,
+        "stir": 2
+    },
+    "257363": {
+        "add": 3,
+        "grill": 1,
+        "let": 1,
+        "marinate": 1,
+        "preheat": 1,
+        "process": 2,
+        "put": 1,
+        "remove": 1,
+        "scrape": 2,
+        "slice": 1,
+        "sprinkle": 1,
+        "transfer": 2,
+        "trim": 1
+    },
+    "257466": {
+        "add": 4,
+        "bring": 1,
+        "drain": 1,
+        "drizzle": 1,
+        "heat": 1,
+        "mix": 1,
+        "reserve": 1,
+        "simmer": 1,
+        "stir": 2,
+        "top": 1,
+        "transfer": 2
+    },
+    "257568": {
+        "continue": 1,
+        "cook": 1,
+        "cover": 1,
+        "make": 1,
+        "marinate": 1,
+        "place": 1,
+        "serve": 1,
+        "transfer": 2,
+        "turn": 1,
+        "whisk": 1
+    },
+    "257865": {
+        "add": 1,
+        "fill": 1,
+        "heat": 2,
+        "mix": 1,
+        "stack": 1,
+        "transfer": 1
+    },
+    "257938": {
+        "add": 2,
+        "continue": 2,
+        "cook": 3,
+        "drizzle": 1,
+        "heat": 1,
+        "pour": 1,
+        "remove": 1,
+        "serve": 1,
+        "start": 1,
+        "stir": 5,
+        "whisk": 1
+    },
+    "258207": {
+        "are": 1,
+        "foil": 1,
+        "grill": 1,
+        "let": 2,
+        "mix": 1,
+        "pierce": 1,
+        "preheat": 1,
+        "roast": 1,
+        "rub": 1,
+        "serve": 1,
+        "wrap": 1
+    },
+    "258406": {
+        "add": 1,
+        "are": 1,
+        "bake": 1,
+        "cook": 1,
+        "crimp": 1,
+        "flour": 1,
+        "fold": 1,
+        "heat": 1,
+        "pour": 1,
+        "preheat": 1,
+        "remove": 1,
+        "roll": 1,
+        "scoop": 1,
+        "serve": 1,
+        "soften": 1,
+        "stir": 2,
+        "transfer": 1,
+        "whisk": 1
+    },
+    "25871": {
+        "cover": 1,
+        "grill": 1,
+        "place": 1,
+        "pour": 1,
+        "preheat": 1,
+        "remove": 1,
+        "set": 1
+    },
+    "25874": {
+        "are": 1,
+        "arrange": 1,
+        "bake": 1,
+        "combine": 1,
+        "pour": 1,
+        "preheat": 1
+    },
+    "258817": {
+        "add": 3,
+        "bring": 1,
+        "cook": 2,
+        "drain": 1,
+        "mix": 1,
+        "pour": 2,
+        "stir": 3,
+        "toss": 1
+    },
+    "259473": {
+        "combine": 1,
+        "form": 1,
+        "fry": 1,
+        "heat": 1,
+        "mix": 1,
+        "run": 1
+    },
+    "260318": {
+        "are": 1,
+        "broil": 1,
+        "continue": 1,
+        "mix": 1,
+        "place": 1,
+        "remove": 1,
+        "transfer": 1,
+        "turn": 1
+    },
+    "260593": {
+        "add": 2,
+        "bake": 1,
+        "beat": 2,
+        "combine": 1,
+        "cool": 1,
+        "drizzle": 1,
+        "flour": 1,
+        "grease": 1,
+        "mix": 1,
+        "pour": 1,
+        "preheat": 1,
+        "top": 1,
+        "turn": 1
+    },
+    "261393": {
+        "combine": 1,
+        "let": 1,
+        "preheat": 1,
+        "spread": 1,
+        "start": 1,
+        "toast": 1,
+        "toss": 2
+    },
+    "261497": {
+        "add": 1,
+        "allow": 1,
+        "combine": 1,
+        "let": 1,
+        "release": 1,
+        "select": 1,
+        "unlock": 1
+    },
+    "26257": {
+        "bring": 1,
+        "cook": 2,
+        "drain": 1,
+        "heat": 1,
+        "simmer": 1,
+        "sprinkle": 1,
+        "stir": 3
+    },
+    "26317": {
+        "add": 1,
+        "bake": 1,
+        "cool": 1,
+        "cover": 1,
+        "make": 1,
+        "place": 1,
+        "pour": 1,
+        "preheat": 1,
+        "remove": 2,
+        "simmer": 1,
+        "stir": 2
+    },
+    "26460": {
+        "bring": 1,
+        "cook": 1,
+        "pour": 1
+    },
+    "26642": {
+        "bake": 1,
+        "blend": 1,
+        "combine": 2,
+        "cover": 1,
+        "drain": 1,
+        "mix": 1,
+        "place": 1,
+        "preheat": 1,
+        "shape": 1
+    },
+    "26692": {
+        "allow": 1,
+        "bake": 1,
+        "chill": 1,
+        "coat": 1,
+        "cover": 1,
+        "preheat": 1,
+        "repeat": 1,
+        "serve": 1,
+        "spray": 1,
+        "sprinkle": 1
+    },
+    "26819": {
+        "bake": 1,
+        "grease": 1,
+        "preheat": 1,
+        "stir": 1,
+        "top": 1,
+        "transfer": 1
+    },
+    "27072": {
+        "bring": 1,
+        "cook": 1,
+        "fluff": 1,
+        "heat": 1,
+        "stir": 2
+    },
+    "27781": {
+        "add": 1,
+        "cook": 1,
+        "deglaze": 1,
+        "heat": 1,
+        "remove": 1,
+        "return": 1,
+        "simmer": 1,
+        "spoon": 1,
+        "stir": 1
+    },
+    "30522": {
+        "cover": 1,
+        "discard": 1,
+        "place": 2,
+        "preheat": 1,
+        "run": 1,
+        "whisk": 1
+    },
+    "30523": {
+        "marinate": 1,
+        "stir": 1,
+        "use": 1
+    },
+    "32161": {
+        "grill": 1,
+        "heat": 1,
+        "place": 1,
+        "spread": 2,
+        "top": 1
+    },
+    "32385": {
+        "allow": 1,
+        "bring": 1,
+        "leave": 1,
+        "remove": 1
+    },
+    "32427": {
+        "refrigerate": 1,
+        "stir": 1
+    },
+    "32649": {
+        "blend": 1,
+        "fill": 1,
+        "pour": 2
+    },
+    "33385": {
+        "heat": 1,
+        "mix": 1,
+        "stir": 1
+    },
+    "33474": {
+        "are": 1,
+        "bake": 2,
+        "cool": 1,
+        "place": 1,
+        "preheat": 1,
+        "remove": 1,
+        "serve": 1
+    },
+    "34523": {
+        "bake": 2,
+        "cover": 1,
+        "debone": 1,
+        "let": 1,
+        "place": 1,
+        "pour": 3,
+        "preheat": 1,
+        "remove": 1,
+        "skim": 1
+    },
+    "34613": {
+        "allow": 1,
+        "continue": 1,
+        "pour": 1,
+        "transfer": 1
+    },
+    "34746": {
+        "marinate": 1,
+        "place": 3,
+        "preheat": 1
+    },
+    "35055": {
+        "arrange": 1,
+        "bake": 1,
+        "cook": 1,
+        "drain": 1,
+        "form": 1,
+        "place": 1,
+        "preheat": 1,
+        "randomly": 1,
+        "remove": 1,
+        "serve": 1
+    },
+    "35753": {
+        "'re": 1,
+        "bake": 1,
+        "bring": 1,
+        "brush": 1,
+        "cook": 1,
+        "grill": 1,
+        "have": 1,
+        "preheat": 2,
+        "remove": 3,
+        "serve": 1,
+        "simmer": 1,
+        "sprinkle": 1,
+        "stir": 2,
+        "wrap": 1
+    },
+    "40154": {
+        "add": 1,
+        "bring": 1,
+        "cook": 1,
+        "drain": 1,
+        "heat": 1,
+        "mix": 2,
+        "stir": 1
+    },
+    "40450": {
+        "alternate": 1,
+        "arrange": 1,
+        "cook": 1,
+        "cover": 1,
+        "place": 1,
+        "pour": 1,
+        "preheat": 1,
+        "remove": 1,
+        "run": 1,
+        "wrap": 1
+    },
+    "42719": {
+        "bake": 2,
+        "coat": 1,
+        "combine": 1,
+        "fold": 1,
+        "muffins": 1,
+        "preheat": 1,
+        "scoop": 1,
+        "sift": 1
+    },
+    "44491": {
+        "brush": 1,
+        "sauce": 1
+    },
+    "45426": {
+        "add": 1,
+        "are": 1,
+        "bring": 1,
+        "cook": 1,
+        "cover": 1,
+        "place": 1,
+        "stir": 2
+    },
+    "45736": {
+        "add": 1,
+        "grill": 1,
+        "melt": 1,
+        "preheat": 1,
+        "run": 1,
+        "saute": 1,
+        "simmer": 1,
+        "stir": 2,
+        "thread": 1,
+        "transfer": 1
+    },
+    "45833": {
+        "cover": 1,
+        "fry": 1,
+        "have": 1,
+        "heat": 1,
+        "pour": 1,
+        "remove": 2,
+        "serve": 1,
+        "spoon": 1
+    },
+    "45954": {
+        "bake": 1,
+        "let": 1,
+        "place": 3,
+        "preheat": 1,
+        "refrigerate": 1,
+        "remove": 1,
+        "rinse": 1,
+        "rub": 1,
+        "stand": 1
+    },
+    "46653": {
+        "store": 1
+    },
+    "46777": {
+        "blend": 1,
+        "combine": 1,
+        "stir": 1
+    },
+    "48036": {
+        "continue": 1,
+        "do": 1,
+        "pour": 2,
+        "remove": 1,
+        "whisk": 1
+    },
+    "49552": {
+        "bring": 1,
+        "cook": 1,
+        "cover": 1,
+        "heat": 1,
+        "mix": 2,
+        "stir": 1
+    },
+    "50435": {
+        "add": 1,
+        "break": 1,
+        "combine": 2,
+        "cook": 2,
+        "cover": 1,
+        "drain": 1,
+        "fry": 1,
+        "heat": 1,
+        "let": 1,
+        "prepare": 1,
+        "spoon": 1,
+        "stir": 1,
+        "top": 1
+    },
+    "50644": {
+        "arrange": 1,
+        "broil": 2,
+        "flip": 1,
+        "grease": 1,
+        "mix": 1,
+        "preheat": 1,
+        "remove": 1
+    },
+    "51283": {
+        "cover": 1,
+        "place": 2,
+        "preheat": 1
+    },
+    "51301": {
+        "allow": 1,
+        "are": 1,
+        "cover": 1
+    },
+    "51535": {
+        "bake": 2,
+        "blend": 1,
+        "coarse": 1,
+        "pour": 1,
+        "preheat": 1,
+        "remove": 1,
+        "sprinkle": 1,
+        "stir": 1,
+        "toss": 1
+    },
+    "51856": {
+        "are": 1,
+        "combine": 1,
+        "cover": 1,
+        "divide": 1,
+        "heat": 2,
+        "place": 1,
+        "preheat": 1,
+        "saute": 2,
+        "spread": 1,
+        "stir": 1,
+        "top": 1
+    },
+    "53729": {
+        "blend": 1,
+        "dip": 1,
+        "do": 1,
+        "drain": 1,
+        "dust": 1,
+        "fry": 1,
+        "heat": 1,
+        "stir": 1
+    },
+    "54342": {
+        "combine": 1,
+        "cook": 1,
+        "place": 1,
+        "preheat": 1,
+        "refrigerate": 1,
+        "remove": 1
+    },
+    "54675": {
+        "add": 1,
+        "bake": 1,
+        "grease": 1,
+        "place": 1,
+        "pour": 1,
+        "preheat": 1,
+        "top": 1
+    },
+    "56927": {
+        "are": 1,
+        "bring": 1,
+        "combine": 1,
+        "continue": 1,
+        "serve": 1,
+        "stir": 3,
+        "whisk": 1
+    },
+    "57028": {
+        "bring": 1,
+        "combine": 2,
+        "cook": 1,
+        "do": 1,
+        "pour": 1,
+        "refrigerate": 1,
+        "stir": 1,
+        "strain": 1,
+        "whisk": 2
+    },
+    "59671": {
+        "arrange": 1,
+        "bake": 1,
+        "coat": 1,
+        "pour": 1,
+        "preheat": 1,
+        "remove": 1
+    },
+    "60700": {
+        "add": 1,
+        "bake": 1,
+        "begin": 1,
+        "cook": 2,
+        "drain": 1,
+        "fill": 1,
+        "grease": 1,
+        "have": 1,
+        "mix": 1,
+        "preheat": 1,
+        "scrape": 1,
+        "sprinkle": 1,
+        "stir": 4,
+        "toss": 1
+    },
+    "60779": {
+        "add": 1,
+        "are": 1,
+        "bake": 1,
+        "beat": 1,
+        "cover": 2,
+        "crumble": 1,
+        "divide": 1,
+        "let": 1,
+        "mix": 1,
+        "place": 2,
+        "pour": 1,
+        "preheat": 1,
+        "punch": 1,
+        "remove": 1,
+        "roll": 1,
+        "spread": 1,
+        "use": 1
+    },
+    "61648": {
+        "cook": 1,
+        "cover": 1,
+        "drain": 1,
+        "fry": 1,
+        "heat": 1,
+        "place": 1,
+        "spread": 1,
+        "top": 1
+    },
+    "63191": {
+        "add": 1,
+        "adjust": 1,
+        "pour": 1,
+        "stir": 1
+    },
+    "64513": {
+        "cover": 1,
+        "grill": 1,
+        "let": 1,
+        "place": 1,
+        "preheat": 1,
+        "refrigerate": 1,
+        "run": 1,
+        "thread": 1
+    },
+    "65691": {
+        "boil": 1,
+        "combine": 1,
+        "cook": 2,
+        "fold": 1,
+        "preheat": 1,
+        "remove": 1,
+        "serve": 1,
+        "stir": 2,
+        "use": 1,
+        "whip": 1
+    },
+    "65896": {
+        "cover": 1,
+        "place": 1,
+        "pour": 1
+    },
+    "6698": {
+        "add": 1,
+        "bake": 1,
+        "beat": 1,
+        "cool": 1,
+        "flour": 1,
+        "grease": 1,
+        "pour": 1,
+        "preheat": 1,
+        "remove": 1,
+        "sift": 1,
+        "stir": 1
+    },
+    "6773": {
+        "add": 1,
+        "bake": 1,
+        "brush": 1,
+        "cool": 1,
+        "cover": 1,
+        "do": 1,
+        "flour": 1,
+        "let": 2,
+        "mix": 1,
+        "place": 2,
+        "punch": 1,
+        "stir": 1
+    },
+    "6788": {
+        "allow": 3,
+        "bake": 1,
+        "cover": 1,
+        "knead": 2,
+        "mix": 2,
+        "place": 1,
+        "punch": 1,
+        "shape": 1
+    },
+    "67952": {
+        "adjust": 1,
+        "brussels": 1,
+        "place": 1,
+        "pour": 1,
+        "preheat": 1,
+        "roast": 1,
+        "seal": 1,
+        "serve": 1
+    },
+    "6811": {
+        "add": 1,
+        "bake": 1,
+        "brush": 1,
+        "cover": 1,
+        "form": 1,
+        "let": 1,
+        "mix": 1,
+        "place": 1,
+        "preheat": 1,
+        "punch": 1,
+        "stir": 1,
+        "turn": 1
+    },
+    "6815": {
+        "are": 1,
+        "arrange": 2,
+        "bake": 1,
+        "boil": 1,
+        "continue": 1,
+        "do": 1,
+        "go": 1,
+        "grease": 1,
+        "let": 1,
+        "mix": 1,
+        "pour": 1,
+        "preheat": 1,
+        "shake": 1
+    },
+    "6820": {
+        "are": 1,
+        "bake": 1,
+        "flour": 1,
+        "grease": 1,
+        "pour": 1,
+        "preheat": 1,
+        "stir": 1
+    },
+    "68461": {
+        "cook": 1,
+        "heat": 1,
+        "mix": 1,
+        "serve": 1,
+        "sprinkle": 1,
+        "stir": 1
+    },
+    "68532": {
+        "add": 1,
+        "cover": 1,
+        "heat": 1,
+        "pour": 1,
+        "run": 1,
+        "simmer": 1,
+        "stir": 1
+    },
+    "6862": {
+        "bake": 1,
+        "combine": 1,
+        "divide": 1,
+        "flour": 1,
+        "grease": 1,
+        "preheat": 1,
+        "stir": 1
+    },
+    "6865": {
+        "add": 1,
+        "bake": 1,
+        "combine": 1,
+        "fill": 1,
+        "flour": 1,
+        "fold": 1,
+        "grease": 1,
+        "mix": 2,
+        "place": 1,
+        "preheat": 1
+    },
+    "69226": {
+        "bring": 1,
+        "chill": 1,
+        "chop": 1,
+        "cook": 1,
+        "cover": 1,
+        "drain": 2,
+        "place": 2,
+        "rotini": 1,
+        "stir": 1,
+        "toss": 1
+    },
+    "6984": {
+        "bake": 1,
+        "divide": 1,
+        "dust": 1,
+        "grease": 1,
+        "mix": 2,
+        "preheat": 1,
+        "stir": 1
+    },
+    "69919": {
+        "bake": 1,
+        "place": 1,
+        "preheat": 1,
+        "refrigerate": 1,
+        "sprinkle": 1,
+        "wrap": 1
+    },
+    "69984": {
+        "add": 1,
+        "bake": 1,
+        "let": 1,
+        "mix": 1,
+        "preheat": 1,
+        "press": 1,
+        "roll": 1
+    },
+    "70163": {
+        "are": 1,
+        "arrange": 1,
+        "cover": 1,
+        "grease": 1,
+        "place": 1,
+        "preheat": 1,
+        "top": 1
+    },
+    "70312": {
+        "cook": 1,
+        "have": 1,
+        "mash": 1,
+        "note": 1,
+        "place": 1,
+        "pour": 1
+    },
+    "70343": {
+        "add": 1,
+        "place": 1,
+        "remove": 1,
+        "serve": 1,
+        "set": 1,
+        "stir": 1
+    },
+    "7040": {
+        "bake": 1,
+        "begin": 1,
+        "brush": 1,
+        "pat": 1,
+        "preheat": 1,
+        "repeat": 1,
+        "roll": 1,
+        "stir": 1,
+        "turn": 1
+    },
+    "7109": {
+        "bake": 1,
+        "blend": 1,
+        "divide": 1,
+        "drain": 1,
+        "drop": 1,
+        "have": 1,
+        "make": 1,
+        "paint": 1,
+        "pat": 1,
+        "place": 2,
+        "preheat": 1,
+        "process": 1,
+        "remove": 1,
+        "stir": 2,
+        "stop": 1,
+        "turn": 1
+    },
+    "7149": {
+        "bake": 1,
+        "brush": 1,
+        "place": 2,
+        "preheat": 1,
+        "roll": 1,
+        "select": 1,
+        "separate": 1,
+        "turn": 1,
+        "whisk": 1
+    },
+    "71698": {
+        "coat": 1,
+        "divide": 1,
+        "heat": 1,
+        "place": 1,
+        "serve": 1,
+        "spread": 1,
+        "stir": 1
+    },
+    "71722": {
+        "add": 1,
+        "arrange": 1,
+        "cook": 3,
+        "drain": 1,
+        "heat": 1,
+        "lettuce": 1,
+        "rinse": 1,
+        "stir": 3,
+        "transfer": 1
+    },
+    "71808": {
+        "are": 1,
+        "bring": 1,
+        "heat": 1,
+        "mix": 1,
+        "place": 1,
+        "stir": 2
+    },
+    "72381": {
+        "are": 1,
+        "bake": 1,
+        "drizzle": 1,
+        "garnish": 1,
+        "place": 3,
+        "pour": 1,
+        "preheat": 1,
+        "push": 1,
+        "remove": 2,
+        "whisk": 1
+    },
+    "72612": {
+        "float": 1,
+        "refrigerate": 1
+    },
+    "72903": {
+        "place": 2,
+        "preheat": 1,
+        "rub": 1
+    },
+    "73634": {
+        "cover": 1,
+        "stir": 1
+    },
+    "7402": {
+        "bake": 1,
+        "beat": 1,
+        "flour": 1,
+        "fold": 1,
+        "frost": 1,
+        "grease": 1,
+        "let": 1,
+        "mix": 1,
+        "pour": 1,
+        "preheat": 1,
+        "stir": 2
+    },
+    "74169": {
+        "arrange": 1,
+        "bake": 1,
+        "i": 1,
+        "place": 1,
+        "preheat": 1,
+        "serve": 1,
+        "use": 1
+    },
+    "74174": {
+        "blend": 1
+    },
+    "74657": {
+        "bake": 1,
+        "beat": 1,
+        "cool": 1,
+        "fold": 2,
+        "preheat": 1,
+        "transfer": 1
+    },
+    "74915": {
+        "add": 1,
+        "bring": 1,
+        "chill": 1,
+        "cover": 1,
+        "drain": 1,
+        "pour": 1
+    },
+    "7565": {
+        "bake": 1,
+        "cake": 1,
+        "cool": 1,
+        "pour": 1,
+        "preheat": 1,
+        "stir": 1
+    },
+    "75861": {
+        "place": 1,
+        "pour": 1,
+        "serve": 1,
+        "spread": 1,
+        "sprinkle": 1
+    },
+    "76129": {
+        "add": 1,
+        "bring": 1,
+        "cook": 1,
+        "do": 1,
+        "drain": 1,
+        "get": 1,
+        "heat": 1,
+        "stir": 3,
+        "while": 1
+    },
+    "76594": {
+        "add": 1,
+        "bake": 1,
+        "combine": 1,
+        "grease": 1,
+        "melt": 1,
+        "pour": 1,
+        "preheat": 1,
+        "remain": 1,
+        "remove": 1,
+        "stir": 1
+    },
+    "77981": {
+        "are": 1,
+        "bring": 1,
+        "pour": 1,
+        "return": 1,
+        "transfer": 1
+    },
+    "78052": {
+        "add": 1,
+        "bring": 1,
+        "pour": 1,
+        "remove": 1
+    },
+    "78299": {
+        "add": 1,
+        "crumble": 1,
+        "drain": 1,
+        "heat": 1,
+        "pour": 1,
+        "remove": 1,
+        "serve": 1,
+        "stir": 1
+    },
+    "78370": {
+        "are": 1,
+        "flour": 1,
+        "form": 1,
+        "fry": 1,
+        "heat": 1,
+        "mix": 1,
+        "remove": 1,
+        "simmer": 1,
+        "sprinkle": 1,
+        "stir": 3,
+        "turn": 1
+    },
+    "79100": {
+        "brush": 1,
+        "cover": 2,
+        "crumble": 1,
+        "flour": 1,
+        "heat": 1,
+        "mix": 1,
+        "place": 1,
+        "preheat": 1,
+        "prepare": 1,
+        "punch": 1,
+        "roll": 2,
+        "stir": 2
+    },
+    "79470": {
+        "adjust": 1,
+        "bake": 1,
+        "cool": 1,
+        "grate": 1,
+        "place": 2,
+        "press": 1,
+        "serve": 1,
+        "sprinkle": 1,
+        "use": 3
+    },
+    "79518": {
+        "are": 1,
+        "bake": 1,
+        "drizzle": 1,
+        "peel": 1,
+        "place": 2,
+        "preheat": 1,
+        "remove": 1,
+        "return": 2,
+        "sprinkle": 1
+    },
+    "80388": {
+        "arrange": 1,
+        "bake": 1,
+        "drizzle": 1,
+        "layer": 1,
+        "preheat": 1,
+        "sprinkle": 1
+    },
+    "80867": {
+        "chill": 1,
+        "combine": 1,
+        "pour": 1,
+        "sprinkle": 1,
+        "whisk": 1
+    },
+    "80969": {
+        "bring": 1,
+        "heat": 1,
+        "mix": 1,
+        "place": 1,
+        "pour": 1,
+        "stir": 1
+    },
+    "81108": {
+        "add": 1,
+        "bring": 1,
+        "refrigerate": 1,
+        "rinse": 1,
+        "stir": 1
+    },
+    "81298": {
+        "bake": 1,
+        "begin": 1,
+        "cool": 1,
+        "do": 1,
+        "make": 1,
+        "mix": 1,
+        "pat": 1,
+        "preheat": 1
+    },
+    "83097": {
+        "add": 2,
+        "bring": 2,
+        "crumble": 2,
+        "drain": 1,
+        "fry": 1,
+        "heat": 1,
+        "place": 2,
+        "remove": 1,
+        "serve": 1
+    },
+    "8350": {
+        "bake": 1,
+        "blend": 1,
+        "chill": 1,
+        "grease": 1,
+        "mix": 1,
+        "pour": 1,
+        "preheat": 1,
+        "press": 1,
+        "turn": 1
+    },
+    "83537": {
+        "bake": 1,
+        "broil": 1,
+        "combine": 1,
+        "preheat": 1,
+        "set": 1,
+        "spread": 1
+    },
+    "83557": {
+        "arrange": 1,
+        "bake": 1,
+        "cover": 1,
+        "place": 2,
+        "preheat": 1,
+        "remove": 1,
+        "sprinkle": 1
+    },
+    "83844": {
+        "add": 1,
+        "cover": 1,
+        "discard": 1,
+        "i": 1,
+        "place": 1,
+        "pour": 1,
+        "set": 1,
+        "slice": 1,
+        "sprinkle": 1
+    },
+    "8444": {
+        "add": 1,
+        "bake": 1,
+        "beat": 4,
+        "cool": 1,
+        "cream": 2,
+        "frost": 1,
+        "pour": 1,
+        "preheat": 1,
+        "remove": 1,
+        "repeat": 1,
+        "sift": 1,
+        "spread": 1,
+        "sprinkle": 2,
+        "sugar": 1,
+        "top": 1,
+        "whip": 1
+    },
+    "85452": {
+        "divide": 1,
+        "mix": 1,
+        "preheat": 1,
+        "stir": 1
+    },
+    "8565": {
+        "chill": 1,
+        "combine": 1
+    },
+    "8584": {
+        "add": 1,
+        "blend": 1,
+        "chill": 1
+    },
+    "86230": {
+        "cook": 2,
+        "heat": 1,
+        "stir": 4
+    },
+    "8626": {
+        "brush": 1,
+        "cook": 1,
+        "drain": 1,
+        "place": 2,
+        "preheat": 1,
+        "run": 1,
+        "thread": 1,
+        "turn": 1
+    },
+    "8652": {
+        "bake": 1,
+        "combine": 1,
+        "dip": 1,
+        "heat": 1,
+        "preheat": 1,
+        "run": 1,
+        "transfer": 3
+    },
+    "8658": {
+        "arrange": 1,
+        "cover": 1,
+        "remove": 1,
+        "sprinkle": 1,
+        "turn": 1
+    },
+    "8665": {
+        "add": 1,
+        "cook": 2,
+        "heat": 1,
+        "pour": 1,
+        "run": 1,
+        "simmer": 1,
+        "stir": 1
+    },
+    "86662": {
+        "are": 1,
+        "bring": 1,
+        "chill": 1,
+        "cook": 1,
+        "cool": 1,
+        "drain": 1,
+        "place": 1,
+        "refrigerate": 1,
+        "remove": 1,
+        "stir": 2,
+        "transfer": 1
+    },
+    "8667": {
+        "combine": 1,
+        "cook": 1,
+        "mix": 1,
+        "place": 1,
+        "preheat": 1,
+        "refrigerate": 1,
+        "run": 1
+    },
+    "86687": {
+        "bring": 2,
+        "drain": 1,
+        "mix": 2,
+        "place": 1,
+        "pour": 1,
+        "serve": 1
+    },
+    "8669": {
+        "add": 1,
+        "are": 1,
+        "blend": 1,
+        "chicken": 1,
+        "cook": 1,
+        "fold": 1,
+        "heat": 1,
+        "mix": 1,
+        "place": 1,
+        "remove": 1,
+        "run": 1,
+        "serve": 1
+    },
+    "8694": {
+        "add": 1,
+        "bake": 1,
+        "combine": 1,
+        "fill": 1,
+        "grease": 1,
+        "mix": 1,
+        "place": 1,
+        "preheat": 1,
+        "reserve": 1,
+        "spoon": 1,
+        "stir": 1
+    },
+    "87076": {
+        "place": 1,
+        "preheat": 1,
+        "secure": 1,
+        "spread": 1,
+        "wrap": 1
+    },
+    "8720": {
+        "baste": 1,
+        "grill": 1,
+        "preheat": 1,
+        "run": 1,
+        "watch": 1
+    },
+    "8758": {
+        "arrange": 2,
+        "bake": 1,
+        "bring": 1,
+        "cook": 2,
+        "drain": 1,
+        "layer": 1,
+        "mix": 1,
+        "preheat": 1,
+        "remove": 1,
+        "spread": 1,
+        "sprinkle": 1,
+        "stir": 2
+    },
+    "87624": {
+        "arrange": 1,
+        "bake": 1,
+        "cook": 1,
+        "cover": 1,
+        "crumble": 1,
+        "drain": 1,
+        "preheat": 1,
+        "repeat": 1,
+        "spread": 1,
+        "sprinkle": 2,
+        "stir": 1
+    },
+    "87648": {
+        "add": 2,
+        "bring": 1,
+        "combine": 1,
+        "cook": 2,
+        "drain": 1,
+        "heat": 1,
+        "mix": 2,
+        "pulse": 1,
+        "simmer": 1,
+        "stir": 1,
+        "toss": 1
+    },
+    "8778": {
+        "add": 4,
+        "bring": 1,
+        "drain": 1,
+        "heat": 1,
+        "place": 1,
+        "saute": 2,
+        "shake": 1,
+        "sprinkle": 1,
+        "stir": 1
+    },
+    "87817": {
+        "broil": 1,
+        "dot": 1,
+        "place": 1,
+        "preheat": 1,
+        "see": 1,
+        "spoon": 2,
+        "sprinkle": 1
+    },
+    "8847": {
+        "bake": 2,
+        "combine": 1,
+        "let": 1,
+        "mix": 1,
+        "pour": 1,
+        "preheat": 1,
+        "run": 1,
+        "sprinkle": 1,
+        "turn": 1
+    },
+    "8887": {
+        "chicken": 1,
+        "coat": 1,
+        "cover": 1,
+        "place": 1,
+        "pour": 1,
+        "run": 1,
+        "simmer": 1,
+        "turn": 1
+    },
+    "89261": {
+        "bake": 1,
+        "place": 1,
+        "pour": 1,
+        "preheat": 1,
+        "rinse": 1,
+        "spray": 1,
+        "sprinkle": 1
+    },
+    "8932": {
+        "combine": 1,
+        "mix": 1,
+        "serve": 1
+    },
+    "8941": {
+        "cook": 1,
+        "cover": 1,
+        "place": 1
+    },
+    "89539": {
+        "bake": 1,
+        "brush": 1,
+        "cover": 1,
+        "place": 1,
+        "pour": 1,
+        "preheat": 1,
+        "stir": 1
+    },
+    "9023": {
+        "bake": 1,
+        "brush": 2,
+        "combine": 1,
+        "let": 1,
+        "place": 1,
+        "preheat": 1,
+        "run": 1,
+        "turn": 2
+    },
+    "90500": {
+        "are": 1,
+        "bring": 1,
+        "cook": 1,
+        "cool": 1,
+        "drain": 1,
+        "drizzle": 1,
+        "heat": 1,
+        "place": 3,
+        "stir": 1
+    },
+    "91192": {
+        "are": 1,
+        "arrange": 2,
+        "broil": 1,
+        "bundle": 1,
+        "cook": 1,
+        "cover": 1,
+        "discard": 1,
+        "do": 1,
+        "fill": 1,
+        "keep": 1,
+        "melt": 1,
+        "mix": 1,
+        "preheat": 1,
+        "prepare": 1,
+        "remove": 2,
+        "sauce": 1,
+        "serve": 1,
+        "simmer": 1,
+        "sprinkle": 1,
+        "stir": 1,
+        "top": 1
+    },
+    "9214": {
+        "allow": 1,
+        "bake": 1,
+        "brown": 1,
+        "do": 1,
+        "heat": 1,
+        "leave": 1,
+        "open": 1,
+        "place": 2,
+        "preheat": 1,
+        "prepare": 1,
+        "present": 1,
+        "roll": 1,
+        "spread": 1,
+        "sprinkle": 1,
+        "stuffing": 1,
+        "tuck": 1
+    },
+    "9247": {
+        "add": 1,
+        "bake": 1,
+        "cook": 1,
+        "cover": 2,
+        "drain": 1,
+        "pour": 1,
+        "preheat": 1
+    },
+    "9258": {
+        "pour": 1,
+        "serve": 1,
+        "whisk": 1
+    },
+    "9336": {
+        "bake": 1,
+        "brush": 1,
+        "cover": 1,
+        "place": 1,
+        "preheat": 1,
+        "serve": 1
+    },
+    "9377": {
+        "are": 2,
+        "combine": 1,
+        "preheat": 1,
+        "roast": 1,
+        "separate": 1,
+        "spread": 1,
+        "toss": 1
+    },
+    "9471": {
+        "add": 1,
+        "bake": 1,
+        "beat": 1,
+        "cool": 1,
+        "cream": 1,
+        "mix": 1,
+        "preheat": 1,
+        "remove": 1,
+        "shape": 1,
+        "sift": 1
+    },
+    "9477": {
+        "mix": 2,
+        "pour": 1,
+        "serve": 1
+    },
+    "98579": {
+        "mix": 1,
+        "serve": 1
+    },
+    "9870": {
+        "bake": 1,
+        "beat": 1,
+        "blend": 1,
+        "let": 1,
+        "preheat": 1,
+        "roll": 1
+    }
+}
