@@ -4,10 +4,10 @@ import sys
 import numpy as np
 from sklearn.utils import resample
 import extract_features
-
+#import extra_functions
 
 def get_accuracy(y_test, y_pred):
-    return np.average((np.absolute(np.subtract(y_test, y_pred))))
+    return np.average((np.square(np.subtract(y_test, y_pred))))
 
 def train_random_forest(train_x, train_y, m, n_clf=10):
     """
@@ -61,16 +61,59 @@ def test_random_forest(test_x, y_true, forest):
 
 def main():
     print("Getting training data")
-    train_x, train_y = extract_features.get_data()
+    #imperatives = extra_functions.json_to_dict("processed/instructions.json")
+    #ingredients = extra_functions.json_to_dict("processed/ingredients.json")
+    #times = extra_functions.json_to_dict("processed/times.json")
 
-    print("Getting testing data")
-    test_x, y_true = extract_features.get_data()
+    imperatives = {
+        "1": {
+            "cook": 1,
+            "bake": 1
+        },
+        "2": {
+            "cook": 2,
+            "clean": 1
+        },
+        "3": {
+            "bake": 3,
+            "cut": 2 
+        }
+    }
+    ingredients = {
+        "1" : {
+            "pork": 1,
+            "carrots": 3
+        },
+        "2" : {
+            "carrots": 1,
+            "tofu": 2
+        },
+        "3" : {
+            "zucchini": 2,
+            "henry": 3
+        }
+    }
+    times = {
+        "1": "20",
+        "2": "15",
+        "3": "10"
+    }
 
+    x, y = extract_features.generate_features(imperatives, ingredients, times)
+    train_split = int(len(x))/3*2
+    print(x)
+    print(y)
+    train_x, train_y = x[:train_split], y[:train_split]
+    test_x, test_y = x[train_split:], y[train_split:]
     print("Training Model")
+    print(train_x)
+    print(train_y)
+    print(test_x)
+    print(test_y)
     forest = train_random_forest(train_x, train_y, 2)
 
     print("Testing Model")
-    accuracy = test_random_forest(test_x, y_true, forest)
+    accuracy = test_random_forest(test_x, test_y, forest)
 
     print("Average minutes incorrect: " + str(accuracy))
 
