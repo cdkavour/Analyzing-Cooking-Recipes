@@ -1,75 +1,428 @@
-http://allrecipes.com/recipe/141828/lolas-horchata/ drinks
-http://allrecipes.com/recipe/16715/vegetarian-chickpea-sandwich-filling/ lunch
-http://allrecipes.com/recipe/255899/caramelized-onion-and-gouda-stuffed-chicken/ main-dish meat-and-poultry
-http://allrecipes.com/recipe/78052/beakers-vegetable-barley-soup/ lunch
-http://allrecipes.com/recipe/20211/creamy-hot-cocoa/ drinks
-http://allrecipes.com/recipe/12974/butternut-squash-soup/ soups-stews-and-chili
-http://allrecipes.com/recipe/12720/grilled-salmon-i/ bbq-grilling dinner main-dish seafood
-http://allrecipes.com/recipe/219076/chef-johns-turkey-chili/ soups-stews-and-chili
-http://allrecipes.com/recipe/6773/simple-whole-wheat-bread/ healthy-recipes
-http://allrecipes.com/recipe/19163/luscious-slush-punch/ drinks
-http://allrecipes.com/recipe/23971/danish-kringle/ breakfast-and-brunch
-http://allrecipes.com/recipe/85452/homemade-black-bean-veggie-burgers/ bbq-grilling healthy-recipes us-recipes
-http://allrecipes.com/recipe/214071/shrimp-francesca/ ingredients
-http://allrecipes.com/recipe/143667/brookes-best-bombshell-brownies/ desserts
-http://allrecipes.com/recipe/20509/best-ever-party-appetizer/ appetizers-and-snacks
-http://allrecipes.com/recipe/23852/creamy-chicken-and-wild-rice-soup/ soups-stews-and-chili
-http://allrecipes.com/recipe/20580/apple-orchard-punch/ drinks
-http://allrecipes.com/recipe/25155/red-skinned-potato-salad/ salad
-http://allrecipes.com/recipe/86687/broccoli-with-garlic-butter-and-cashews/ side-dish
-http://allrecipes.com/recipe/10813/best-chocolate-chip-cookies/ desserts everyday-cooking holidays-and-events ingredients
-http://allrecipes.com/recipe/69984/venice-high-school-cherry-butter-cookies/ us-recipes
-http://allrecipes.com/recipe/14281/bodacious-broccoli-salad/ salad
-http://allrecipes.com/recipe/8758/white-cheese-chicken-lasagna/ pasta-and-noodles
-http://allrecipes.com/recipe/11688/cajun-seafood-pasta/ everyday-cooking
-http://allrecipes.com/recipe/258817/chicken-pasta-with-artichoke-hearts/ main-dish
-http://allrecipes.com/recipe/6698/moms-zucchini-bread/ bread breakfast-and-brunch everyday-cooking fruits-and-vegetables holidays-and-events ingredients
-http://allrecipes.com/recipe/239180/greek-style-lemon-roasted-potatoes/ side-dish
-http://allrecipes.com/recipe/246292/grilled-fennel/ bbq-grilling
-http://allrecipes.com/recipe/76129/spinach-tomato-tortellini/ pasta-and-noodles
-http://allrecipes.com/recipe/23734/white-peach-sangria/ drinks
-http://allrecipes.com/recipe/14169/mexican-bean-salad/ salad
-http://allrecipes.com/recipe/11731/shrimp-fra-diavolo/ pasta-and-noodles
-http://allrecipes.com/recipe/24059/creamy-rice-pudding/ desserts
-http://allrecipes.com/recipe/45954/roast-sticky-chicken-rotisserie-style/ dinner us-recipes
-http://allrecipes.com/recipe/30522/unbelievable-chicken/ bbq-grilling healthy-recipes
-http://allrecipes.com/recipe/220907/shrimp-and-grits-louisiana-style/ us-recipes
-http://allrecipes.com/recipe/200165/southern-dill-potato-salad/ lunch
-http://allrecipes.com/recipe/16872/minnesotas-favorite-cookie/ us-recipes
-http://allrecipes.com/recipe/16427/slow-cooker-italian-beef-for-sandwiches/ us-recipes
+http://allrecipes.com/recipe/71134/crab-stuffed-haddock/ seafood
 http://allrecipes.com/recipe/214167/kens-kickin-posole/ soups-stews-and-chili
-http://allrecipes.com/recipe/254445/grilled-gazpacho-bloody-mary/ bbq-grilling
-http://allrecipes.com/recipe/68461/buffalo-chicken-dip/ appetizers-and-snacks meat-and-poultry us-recipes
-http://allrecipes.com/recipe/233329/quick-moroccan-couscous/ side-dish
-http://allrecipes.com/recipe/42719/banana-muffins-ii/ bread
-http://allrecipes.com/recipe/23847/pasta-pomodoro/ dinner
-http://allrecipes.com/recipe/241265/aarons-amazing-simple-beans/ side-dish
-http://allrecipes.com/recipe/246097/raw-super-food-oat-smoothie/ healthy-recipes
-http://allrecipes.com/recipe/14939/brown-sugar-smokies/ appetizers-and-snacks
-http://allrecipes.com/recipe/221261/peanut-butter-banana-smoothie/ drinks
-http://allrecipes.com/recipe/14231/guacamole/ appetizers-and-snacks fruits-and-vegetables holidays-and-events
-http://allrecipes.com/recipe/247275/smoked-chicken-wings/ bbq-grilling
-http://allrecipes.com/recipe/12409/apple-crisp-ii/ desserts fruits-and-vegetables ingredients
-http://allrecipes.com/recipe/257466/green-goodness-spaghetti/ main-dish
-http://allrecipes.com/recipe/32649/margaritas/ drinks
-http://allrecipes.com/recipe/14830/hummus-iii/ appetizers-and-snacks
-http://allrecipes.com/recipe/16955/homesteader-cornbread/ bread
-http://allrecipes.com/recipe/162760/fluffy-pancakes/ breakfast-and-brunch everyday-cooking holidays-and-events
-http://allrecipes.com/recipe/24517/honey-cornbread/ bread
-http://allrecipes.com/recipe/70163/easy-baked-tilapia/ healthy-recipes
-http://allrecipes.com/recipe/18781/pizza-casserole/ pasta-and-noodles
+http://allrecipes.com/recipe/13333/jamies-minestrone/ pasta-and-noodles soups-stews-and-chili
+http://allrecipes.com/recipe/257938/spicy-thai-basil-chicken-pad-krapow-gai/ main-dish meat-and-poultry world-cuisine
+http://allrecipes.com/recipe/140829/pork-marsala/ dinner
+http://allrecipes.com/recipe/258817/chicken-pasta-with-artichoke-hearts/ main-dish
+http://allrecipes.com/recipe/10549/best-brownies/ desserts everyday-cooking holidays-and-events ingredients
+http://allrecipes.com/recipe/6698/moms-zucchini-bread/ bread breakfast-and-brunch everyday-cooking fruits-and-vegetables holidays-and-events ingredients
+http://allrecipes.com/recipe/11758/baked-ziti-i/ dinner holidays-and-events ingredients main-dish meat-and-poultry pasta-and-noodles world-cuisine
+http://allrecipes.com/recipe/12718/mussels-mariniere/ seafood
+http://allrecipes.com/recipe/257865/easy-chorizo-street-tacos/ world-cuisine
+http://allrecipes.com/recipe/80867/cran-broccoli-salad/ salad
+http://allrecipes.com/recipe/19304/chicken-milano/ pasta-and-noodles
+http://allrecipes.com/recipe/13482/winter-fruit-salad-with-lemon-poppyseed-dressing/ salad
+http://allrecipes.com/recipe/17165/big-soft-ginger-cookies/ desserts
+http://allrecipes.com/recipe/20096/cheesy-ham-and-hash-brown-casserole/ breakfast-and-brunch
+http://allrecipes.com/recipe/20216/simple-syrup/ drinks
+http://allrecipes.com/recipe/80388/lemon-rosemary-salmon/ dinner
+http://allrecipes.com/recipe/69919/bacon-wrapped-smokies/ appetizers-and-snacks
+http://allrecipes.com/recipe/17066/janets-rich-banana-bread/ bread fruits-and-vegetables
+http://allrecipes.com/recipe/8669/chicken-cordon-bleu-ii/ dinner ingredients main-dish meat-and-poultry world-cuisine
+http://allrecipes.com/recipe/24833/black-bean-and-couscous-salad/ lunch salad
+http://allrecipes.com/recipe/240702/pine-cone-cheese-ball/ appetizers-and-snacks
+http://allrecipes.com/recipe/15004/award-winning-soft-chocolate-chip-cookies/ desserts everyday-cooking holidays-and-events ingredients
+http://allrecipes.com/recipe/17325/savory-garlic-marinated-steaks/ bbq-grilling
+http://allrecipes.com/recipe/6820/downeast-maine-pumpkin-bread/ bread breakfast-and-brunch everyday-cooking fruits-and-vegetables us-recipes
+http://allrecipes.com/recipe/239180/greek-style-lemon-roasted-potatoes/ side-dish
+http://allrecipes.com/recipe/15679/asian-beef-with-snow-peas/ dinner
+http://allrecipes.com/recipe/78052/beakers-vegetable-barley-soup/ lunch
+http://allrecipes.com/recipe/45833/ginger-glazed-mahi-mahi/ healthy-recipes seafood
+http://allrecipes.com/recipe/241792/greek-zoodle-salad/ healthy-recipes
+http://allrecipes.com/recipe/18906/awesome-and-easy-creamy-corn-casserole/ side-dish us-recipes
+http://allrecipes.com/recipe/229156/zesty-quinoa-salad/ lunch
+http://allrecipes.com/recipe/147363/the-real-mojito/ drinks
+http://allrecipes.com/recipe/83097/authentic-german-potato-salad/ lunch salad
+http://allrecipes.com/recipe/86230/szechwan-shrimp/ seafood world-cuisine
+http://allrecipes.com/recipe/32161/reuben-sandwich-i/ lunch
+http://allrecipes.com/recipe/245724/home-cured-holiday-ham/ main-dish
+http://allrecipes.com/recipe/8665/braised-balsamic-chicken/ healthy-recipes world-cuisine
+http://allrecipes.com/recipe/16409/spinach-and-strawberry-salad/ salad
+http://allrecipes.com/recipe/220907/shrimp-and-grits-louisiana-style/ us-recipes
+http://allrecipes.com/recipe/91192/french-onion-soup-gratinee/ soups-stews-and-chili
+http://allrecipes.com/recipe/16700/salsa-chicken/ dinner main-dish
+http://allrecipes.com/recipe/23971/danish-kringle/ breakfast-and-brunch
+http://allrecipes.com/recipe/23874/catherines-spicy-chicken-soup/ soups-stews-and-chili
+http://allrecipes.com/recipe/21694/marinated-grilled-shrimp/ bbq-grilling seafood
+http://allrecipes.com/recipe/143667/brookes-best-bombshell-brownies/ desserts
+http://allrecipes.com/recipe/8700/chicken-and-biscuit-casserole/ everyday-cooking
+http://allrecipes.com/recipe/15925/creamy-au-gratin-potatoes/ fruits-and-vegetables side-dish world-cuisine
+http://allrecipes.com/recipe/19766/six-can-chicken-tortilla-soup/ healthy-recipes
+http://allrecipes.com/recipe/14172/caesar-salad-supreme/ salad seafood
+http://allrecipes.com/recipe/10687/mrs-siggs-snickerdoodles/ desserts
+http://allrecipes.com/recipe/23852/creamy-chicken-and-wild-rice-soup/ soups-stews-and-chili
+http://allrecipes.com/recipe/8584/holiday-chicken-salad/ lunch salad
+http://allrecipes.com/recipe/11679/homemade-mac-and-cheese/ pasta-and-noodles
+http://allrecipes.com/recipe/19402/quick-and-easy-alfredo-sauce/ everyday-cooking
+http://allrecipes.com/recipe/17215/best-bread-machine-bread/ bread
+http://allrecipes.com/recipe/132692/panettone-bread-pudding-with-spiced-orange-sauce/ desserts
+http://allrecipes.com/recipe/137428/blue-bacon-stuffed-mushrooms/ appetizers-and-snacks
+http://allrecipes.com/recipe/23806/miriams-not-so-secret-challah/ bread
+http://allrecipes.com/recipe/139012/jalapeno-popper-spread/ appetizers-and-snacks
+http://allrecipes.com/recipe/258207/loris-campfire-potatoes/ bbq-grilling
 http://allrecipes.com/recipe/244205/grilled-potato-salad/ bbq-grilling
-http://allrecipes.com/recipe/7149/french-brioche/ bread
-http://allrecipes.com/recipe/14685/slow-cooker-beef-stew-i/ soups-stews-and-chili
-http://allrecipes.com/recipe/19673/seven-layer-taco-dip/ appetizers-and-snacks
-http://allrecipes.com/recipe/90500/beet-salad-with-goat-cheese/ fruits-and-vegetables
-http://allrecipes.com/recipe/147103/delicious-egg-salad-for-sandwiches/ salad
-http://allrecipes.com/recipe/8941/slow-cooker-chicken-and-dumplings/ everyday-cooking main-dish meat-and-poultry soups-stews-and-chili
-http://allrecipes.com/recipe/24445/chewy-chocolate-chip-oatmeal-cookies/ desserts
-http://allrecipes.com/recipe/12009/cajun-chicken-pasta/ pasta-and-noodles us-recipes
-http://allrecipes.com/recipe/49552/quinoa-and-black-beans/ fruits-and-vegetables healthy-recipes side-dish world-cuisine
+http://allrecipes.com/recipe/256611/paleo-stuffed-cabbage/ main-dish
+http://allrecipes.com/recipe/6865/to-die-for-blueberry-muffins/ bread everyday-cooking fruits-and-vegetables
+http://allrecipes.com/recipe/24517/honey-cornbread/ bread
+http://allrecipes.com/recipe/20792/b-and-ls-strawberry-smoothie/ drinks
+http://allrecipes.com/recipe/60779/butterhorns/ bread
+http://allrecipes.com/recipe/16354/easy-meatloaf/ dinner main-dish meat-and-poultry
+http://allrecipes.com/recipe/59671/baked-asparagus-with-balsamic-butter-sauce/ side-dish us-recipes
+http://allrecipes.com/recipe/257568/grilled-greek-chicken/ bbq-grilling
+http://allrecipes.com/recipe/261497/instant-pot-bone-broth-with-turmeric-and-ginger/ healthy-recipes
+http://allrecipes.com/recipe/23539/strawberry-oatmeal-breakfast-smoothie/ drinks
+http://allrecipes.com/recipe/16348/baked-pork-chops-i/ dinner main-dish meat-and-poultry
+http://allrecipes.com/recipe/33474/artichoke-spinach-dip-restaurant-style/ appetizers-and-snacks world-cuisine
+http://allrecipes.com/recipe/9870/easy-sugar-cookies/ desserts
+http://allrecipes.com/recipe/19247/soft-oatmeal-cookies/ desserts
+http://allrecipes.com/recipe/68461/buffalo-chicken-dip/ appetizers-and-snacks meat-and-poultry us-recipes
+http://allrecipes.com/recipe/87624/beefy-baked-ravioli/ dinner
+http://allrecipes.com/recipe/8658/paprika-chicken-with-mushrooms/ ingredients
+http://allrecipes.com/recipe/9336/alaska-salmon-bake-with-pecan-crunch-coating/ seafood
+http://allrecipes.com/recipe/78370/hamburger-steak-with-onions-and-gravy/ us-recipes
+http://allrecipes.com/recipe/18327/sesame-pasta-chicken-salad/ salad
+http://allrecipes.com/recipe/180977/southern-italian-thanksgiving-stuffing/ holidays-and-events
 http://allrecipes.com/recipe/109190/smooth-sweet-tea/ drinks
-http://allrecipes.com/recipe/70312/refried-beans-without-the-refry/ healthy-recipes side-dish
+http://allrecipes.com/recipe/72381/orange-roasted-salmon/ healthy-recipes
+http://allrecipes.com/recipe/26819/hot-artichoke-and-spinach-dip-ii/ appetizers-and-snacks
+http://allrecipes.com/recipe/17319/exquisite-pizza-sauce/ healthy-recipes
+http://allrecipes.com/recipe/20876/crustless-spinach-quiche/ breakfast-and-brunch
+http://allrecipes.com/recipe/39800/sugar-glazed-walnuts/ side-dish
+http://allrecipes.com/recipe/42719/banana-muffins-ii/ bread
+http://allrecipes.com/recipe/21667/easy-iced-coffee/ drinks
+http://allrecipes.com/recipe/24332/ultimate-twice-baked-potatoes/ side-dish
+http://allrecipes.com/recipe/32385/best-lemonade-ever/ drinks
+http://allrecipes.com/recipe/13313/best-cream-of-broccoli-soup/ lunch
+http://allrecipes.com/recipe/147103/delicious-egg-salad-for-sandwiches/ salad
+http://allrecipes.com/recipe/16872/minnesotas-favorite-cookie/ us-recipes
+http://allrecipes.com/recipe/64513/rosemary-ranch-chicken-kabobs/ bbq-grilling dinner
+http://allrecipes.com/recipe/81108/classic-macaroni-salad/ pasta-and-noodles salad
+http://allrecipes.com/recipe/45954/roast-sticky-chicken-rotisserie-style/ dinner us-recipes
+http://allrecipes.com/recipe/13941/zucchini-patties/ side-dish
+http://allrecipes.com/recipe/51283/maple-salmon/ dinner healthy-recipes main-dish seafood us-recipes
+http://allrecipes.com/recipe/10402/the-best-rolled-sugar-cookies/ desserts everyday-cooking holidays-and-events ingredients
+http://allrecipes.com/recipe/25155/red-skinned-potato-salad/ salad
+http://allrecipes.com/recipe/98579/barbies-tuna-salad/ lunch salad seafood
+http://allrecipes.com/recipe/17076/king-crab-appetizers/ appetizers-and-snacks
 http://allrecipes.com/recipe/112239/caramel-macchiato-cheesecake/ desserts
+http://allrecipes.com/recipe/8720/honey-mustard-grilled-chicken/ bbq-grilling
+http://allrecipes.com/recipe/254685/chicken-cacciatore-pasta/ meat-and-poultry
+http://allrecipes.com/recipe/158140/spaghetti-sauce-with-ground-beef/ pasta-and-noodles
+http://allrecipes.com/recipe/219076/chef-johns-turkey-chili/ soups-stews-and-chili
+http://allrecipes.com/recipe/8941/slow-cooker-chicken-and-dumplings/ everyday-cooking main-dish meat-and-poultry soups-stews-and-chili
+http://allrecipes.com/recipe/12142/sweet-potato-pie-i/ us-recipes
+http://allrecipes.com/recipe/234592/buffalo-chicken-stuffed-shells/ pasta-and-noodles
+http://allrecipes.com/recipe/235278/roasted-wild-mushrooms-and-potatoes/ fruits-and-vegetables
+http://allrecipes.com/recipe/89261/lemon-garlic-tilapia/ seafood
+http://allrecipes.com/recipe/65896/zesty-slow-cooker-chicken-barbecue/ dinner main-dish meat-and-poultry
+http://allrecipes.com/recipe/13580/cranberry-waldorf/ salad
+http://allrecipes.com/recipe/20334/banana-pancakes-i/ breakfast-and-brunch
+http://allrecipes.com/recipe/20144/banana-banana-bread/ bread everyday-cooking fruits-and-vegetables holidays-and-events
+http://allrecipes.com/recipe/20211/creamy-hot-cocoa/ drinks
+http://allrecipes.com/recipe/231702/chef-johns-baked-lemon-pepper-salmon/ seafood
+http://allrecipes.com/recipe/12942/italian-sausage-soup/ soups-stews-and-chili world-cuisine
+http://allrecipes.com/recipe/44125/shredded-beef-chimichangas/ dinner
+http://allrecipes.com/recipe/240977/blueberry-and-banana-steel-cut-oats/ healthy-recipes
+http://allrecipes.com/recipe/74657/blueberry-zucchini-bread/ bread
+http://allrecipes.com/recipe/254354/brazilian-rice/ world-cuisine
+http://allrecipes.com/recipe/12409/apple-crisp-ii/ desserts fruits-and-vegetables ingredients
+http://allrecipes.com/recipe/162760/fluffy-pancakes/ breakfast-and-brunch everyday-cooking holidays-and-events
+http://allrecipes.com/recipe/256301/carne-asada-breakfast-burrito/ meat-and-poultry
+http://allrecipes.com/recipe/18255/boston-baked-beans/ us-recipes
+http://allrecipes.com/recipe/45736/chicken-tikka-masala/ bbq-grilling
+http://allrecipes.com/recipe/23734/white-peach-sangria/ drinks
+http://allrecipes.com/recipe/228340/kale-and-feta-salad/ salad
+http://allrecipes.com/recipe/22180/waffles-i/ breakfast-and-brunch
+http://allrecipes.com/recipe/14399/the-best-chicken-salad-ever/ lunch
+http://allrecipes.com/recipe/9258/candy-cane-cocoa/ drinks
+http://allrecipes.com/recipe/9377/roasted-vegetables/ healthy-recipes side-dish
+http://allrecipes.com/recipe/61648/tomato-bacon-grilled-cheese/ lunch
+http://allrecipes.com/recipe/217266/roasted-yam-and-kale-salad/ fruits-and-vegetables healthy-recipes
+http://allrecipes.com/recipe/258406/roast-beef-hash-breakfast-empanadas/ main-dish
+http://allrecipes.com/recipe/228411/baked-ziti-casserole/ pasta-and-noodles
+http://allrecipes.com/recipe/8469/caramel-apple-cheesecake/ us-recipes
+http://allrecipes.com/recipe/17036/pumpkin-pancakes/ breakfast-and-brunch
+http://allrecipes.com/recipe/79518/hasselback-potatoes/ side-dish
+http://allrecipes.com/recipe/73634/colleens-slow-cooker-jambalaya/ seafood soups-stews-and-chili
+http://allrecipes.com/recipe/16427/slow-cooker-italian-beef-for-sandwiches/ us-recipes
+http://allrecipes.com/recipe/6773/simple-whole-wheat-bread/ healthy-recipes
+http://allrecipes.com/recipe/32427/holiday-punch-ii/ drinks
+http://allrecipes.com/recipe/219965/lighter-chicken-fettuccine-alfredo/ pasta-and-noodles
+http://allrecipes.com/recipe/213230/tortellini-bacon-broccoli-salad/ lunch
+http://allrecipes.com/recipe/22775/squash-braid/ bread
+http://allrecipes.com/recipe/246628/spaghetti-cacio-e-pepe/ pasta-and-noodles world-cuisine
+http://allrecipes.com/recipe/14132/black-bean-and-salsa-soup/ healthy-recipes
+http://allrecipes.com/recipe/218791/jersey-fresh-tomato-soup/ us-recipes
+http://allrecipes.com/recipe/260593/orange-pumpkin-bread/ bread
+http://allrecipes.com/recipe/15184/mouth-watering-stuffed-mushrooms/ appetizers-and-snacks
+http://allrecipes.com/recipe/257466/green-goodness-spaghetti/ main-dish
+http://allrecipes.com/recipe/11864/chicken-noodle-casserole-i/ pasta-and-noodles
+http://allrecipes.com/recipe/153014/mini-orange-mince-pies/ world-cuisine
+http://allrecipes.com/recipe/236411/indian-style-chicken-and-onions/ world-cuisine
+http://allrecipes.com/recipe/22617/best-spinach-dip-ever/ appetizers-and-snacks
+http://allrecipes.com/recipe/232825/chicken-with-artichokes-and-sundried-tomatoes/ pasta-and-noodles
+http://allrecipes.com/recipe/8847/baked-honey-mustard-chicken/ healthy-recipes
+http://allrecipes.com/recipe/229487/tonyas-terrific-sloppy-joes/ lunch
+http://allrecipes.com/recipe/14685/slow-cooker-beef-stew-i/ soups-stews-and-chili
+http://allrecipes.com/recipe/231865/red-velvet-cheesecake-swirl-brownies/ desserts
+http://allrecipes.com/recipe/14169/mexican-bean-salad/ salad
+http://allrecipes.com/recipe/231713/chef-johns-baked-mushroom-risotto/ side-dish
+http://allrecipes.com/recipe/16895/fluffy-french-toast/ breakfast-and-brunch
+http://allrecipes.com/recipe/247275/smoked-chicken-wings/ bbq-grilling
+http://allrecipes.com/recipe/15633/gourmet-sweet-potato-classic/ fruits-and-vegetables side-dish
+http://allrecipes.com/recipe/153650/cranberry-wassail/ drinks
+http://allrecipes.com/recipe/11967/angel-chicken-pasta/ pasta-and-noodles
+http://allrecipes.com/recipe/237827/chef-johns-salmon-cakes/ seafood
+http://allrecipes.com/recipe/14830/hummus-iii/ appetizers-and-snacks
+http://allrecipes.com/recipe/12974/butternut-squash-soup/ soups-stews-and-chili
+http://allrecipes.com/recipe/142027/sweet-restaurant-slaw/ lunch salad us-recipes
+http://allrecipes.com/recipe/15057/overnight-blueberry-french-toast/ breakfast-and-brunch
+http://allrecipes.com/recipe/48036/cinnamon-ice-cream/ desserts
+http://allrecipes.com/recipe/25678/beef-stew-vi/ soups-stews-and-chili
+http://allrecipes.com/recipe/51856/philly-cheesesteak-sandwich-with-garlic-mayo/ lunch
+http://allrecipes.com/recipe/24308/eggnog-cheesecake-iii/ desserts
+http://allrecipes.com/recipe/16235/debdoozies-blue-ribbon-chili/ soups-stews-and-chili
+http://allrecipes.com/recipe/176957/baked-kale-chips/ appetizers-and-snacks healthy-recipes
+http://allrecipes.com/recipe/241443/tuna-artichoke-salad/ salad
+http://allrecipes.com/recipe/254445/grilled-gazpacho-bloody-mary/ bbq-grilling
+http://allrecipes.com/recipe/8565/beckys-chicken-salad/ lunch
+http://allrecipes.com/recipe/10497/beths-spicy-oatmeal-raisin-cookies/ desserts fruits-and-vegetables
+http://allrecipes.com/recipe/17891/golden-sweet-cornbread/ bread
+http://allrecipes.com/recipe/214903/grilled-portobello-with-basil-mayonnaise-sandwich/ lunch
+http://allrecipes.com/recipe/256635/apricot-mustard-glazed-salmon-with-arugula/ main-dish
+http://allrecipes.com/recipe/143226/wisconsin-slow-cooker-brats/ us-recipes
+http://allrecipes.com/recipe/16955/homesteader-cornbread/ bread
+http://allrecipes.com/recipe/56927/delicious-ham-and-potato-soup/ everyday-cooking fruits-and-vegetables ingredients meat-and-poultry soups-stews-and-chili
+http://allrecipes.com/recipe/25874/shrimp-scampi-bake/ seafood
+http://allrecipes.com/recipe/154821/kendras-maid-rite-sandwiches/ us-recipes
+http://allrecipes.com/recipe/207282/chicago-style-roast-duck/ meat-and-poultry
+http://allrecipes.com/recipe/8652/garlic-chicken/ dinner fruits-and-vegetables main-dish meat-and-poultry
+http://allrecipes.com/recipe/50644/broiled-tilapia-parmesan/ dinner everyday-cooking ingredients main-dish seafood
+http://allrecipes.com/recipe/8626/yummy-honey-chicken-kabobs/ bbq-grilling
+http://allrecipes.com/recipe/212486/spiced-cranberry-apple-chutney/ holidays-and-events
+http://allrecipes.com/recipe/9214/cranberry-stuffed-turkey-breasts/ holidays-and-events
+http://allrecipes.com/recipe/13436/italian-sausage-soup-with-tortellini/ pasta-and-noodles soups-stews-and-chili
+http://allrecipes.com/recipe/78299/boilermaker-tailgate-chili/ holidays-and-events ingredients meat-and-poultry soups-stews-and-chili
+http://allrecipes.com/recipe/16699/firecracker-grilled-alaska-salmon/ bbq-grilling
+http://allrecipes.com/recipe/255865/slow-cooker-thai-curried-beef/ meat-and-poultry
+http://allrecipes.com/recipe/22583/chocolate-orange-fudge/ desserts
+http://allrecipes.com/recipe/74915/amish-macaroni-salad/ lunch
+http://allrecipes.com/recipe/9311/molasses-cookies/ holidays-and-events
+http://allrecipes.com/recipe/19163/luscious-slush-punch/ drinks
+http://allrecipes.com/recipe/21176/baked-dijon-salmon/ everyday-cooking seafood
+http://allrecipes.com/recipe/35753/scott-hibbs-amazing-whisky-grilled-baby-back-ribs/ bbq-grilling
+http://allrecipes.com/recipe/261393/autumn-apple-pepita-salad/ healthy-recipes
+http://allrecipes.com/recipe/228542/roasted-vegetables-with-spaghetti-squash/ side-dish
+http://allrecipes.com/recipe/9247/christmas-breakfast-sausage-casserole/ breakfast-and-brunch
+http://allrecipes.com/recipe/8350/chantals-new-york-cheesecake/ desserts holidays-and-events ingredients us-recipes
+http://allrecipes.com/recipe/26317/chicken-pot-pie-ix/ everyday-cooking ingredients main-dish meat-and-poultry
+http://allrecipes.com/recipe/246866/rigatoni-alla-genovese/ pasta-and-noodles
+http://allrecipes.com/recipe/45426/lentil-and-sausage-soup/ soups-stews-and-chili
+http://allrecipes.com/recipe/25871/grilled-fish-steaks/ seafood
+http://allrecipes.com/recipe/8758/white-cheese-chicken-lasagna/ pasta-and-noodles
+http://allrecipes.com/recipe/25203/brown-sugar-meatloaf/ dinner everyday-cooking main-dish meat-and-poultry
+http://allrecipes.com/recipe/70312/refried-beans-without-the-refry/ healthy-recipes side-dish
+http://allrecipes.com/recipe/89539/slow-cooker-chicken-tortilla-soup/ fruits-and-vegetables meat-and-poultry soups-stews-and-chili
+http://allrecipes.com/recipe/8444/black-forest-cake-ii/ desserts
+http://allrecipes.com/recipe/11646/pauls-pumpkin-bars/ holidays-and-events
+http://allrecipes.com/recipe/18344/cheese-and-bacon-potato-rounds/ ingredients
+http://allrecipes.com/recipe/23534/original-irish-cream/ drinks
+http://allrecipes.com/recipe/74174/all-around-good-smoothie/ drinks
+http://allrecipes.com/recipe/19673/seven-layer-taco-dip/ appetizers-and-snacks
+http://allrecipes.com/recipe/85452/homemade-black-bean-veggie-burgers/ bbq-grilling healthy-recipes us-recipes
+http://allrecipes.com/recipe/246097/raw-super-food-oat-smoothie/ healthy-recipes
+http://allrecipes.com/recipe/6811/panettone-i/ bread
+http://allrecipes.com/recipe/18074/marinated-flank-steak/ bbq-grilling
+http://allrecipes.com/recipe/141828/lolas-horchata/ drinks
+http://allrecipes.com/recipe/15206/cocktail-meatballs/ appetizers-and-snacks
+http://allrecipes.com/recipe/185947/layered-peppermint-bark/ desserts
+http://allrecipes.com/recipe/6862/pumpkin-bread-iv/ breakfast-and-brunch
+http://allrecipes.com/recipe/244796/labneh-lebanese-yogurt/ world-cuisine
+http://allrecipes.com/recipe/257363/tuscan-skirt-steak-with-salsa-verde/ bbq-grilling
+http://allrecipes.com/recipe/20513/classic-waffles/ breakfast-and-brunch
+http://allrecipes.com/recipe/24202/shepherds-pie-vi/ world-cuisine
+http://allrecipes.com/recipe/67952/roasted-brussels-sprouts/ side-dish us-recipes world-cuisine
+http://allrecipes.com/recipe/16098/alysons-broccoli-salad/ salad
+http://allrecipes.com/recipe/13838/sugar-coated-pecans/ appetizers-and-snacks
+http://allrecipes.com/recipe/79470/simple-scones/ bread
+http://allrecipes.com/recipe/53729/fish-tacos/ healthy-recipes seafood us-recipes
+http://allrecipes.com/recipe/13717/grandmas-green-bean-casserole/ everyday-cooking side-dish
+http://allrecipes.com/recipe/30523/marinade-for-chicken/ bbq-grilling
+http://allrecipes.com/recipe/11688/cajun-seafood-pasta/ everyday-cooking
+http://allrecipes.com/recipe/26692/annies-fruit-salsa-and-cinnamon-chips/ appetizers-and-snacks fruits-and-vegetables healthy-recipes world-cuisine
+http://allrecipes.com/recipe/185896/roasted-butternut-squash-soup-with-apples-and-bacon/ soups-stews-and-chili
+http://allrecipes.com/recipe/255259/homemade-chili/ meat-and-poultry
+http://allrecipes.com/recipe/159374/byrdhouse-blistered-cherry-tomatoes/ fruits-and-vegetables
+http://allrecipes.com/recipe/14280/fresh-broccoli-salad/ salad
+http://allrecipes.com/recipe/13933/black-bean-and-corn-salad-ii/ salad
+http://allrecipes.com/recipe/214651/donut-muffins/ bread
+http://allrecipes.com/recipe/7402/carrot-cake-iii/ desserts fruits-and-vegetables holidays-and-events ingredients
+http://allrecipes.com/recipe/241265/aarons-amazing-simple-beans/ side-dish
+http://allrecipes.com/recipe/40154/shrimp-lemon-pepper-linguini/ seafood
+http://allrecipes.com/recipe/239055/smokey-salmon/ bbq-grilling
+http://allrecipes.com/recipe/65691/pumpkin-waffles-with-apple-cider-syrup/ holidays-and-events
+http://allrecipes.com/recipe/200165/southern-dill-potato-salad/ lunch
+http://allrecipes.com/recipe/9023/baked-teriyaki-chicken/ dinner holidays-and-events main-dish meat-and-poultry
+http://allrecipes.com/recipe/149218/spiced-slow-cooker-applesauce/ side-dish
+http://allrecipes.com/recipe/7565/too-much-chocolate-cake/ desserts holidays-and-events ingredients
+http://allrecipes.com/recipe/14278/antipasto-pasta-salad/ salad
+http://allrecipes.com/recipe/71808/brazilian-black-bean-stew/ soups-stews-and-chili
+http://allrecipes.com/recipe/46653/taco-seasoning-i/ world-cuisine
+http://allrecipes.com/recipe/63191/beer-margaritas/ drinks
+http://allrecipes.com/recipe/148142/curried-quinoa/ ingredients
+http://allrecipes.com/recipe/7040/jps-big-daddy-biscuits/ bread
+http://allrecipes.com/recipe/259473/maple-apple-turkey-sausage/ breakfast-and-brunch
+http://allrecipes.com/recipe/86662/worlds-best-potato-salad/ lunch
+http://allrecipes.com/recipe/23847/pasta-pomodoro/ dinner
+http://allrecipes.com/recipe/25502/southwestern-egg-rolls/ appetizers-and-snacks
+http://allrecipes.com/recipe/11853/orzo-with-parmesan-and-basil/ side-dish
+http://allrecipes.com/recipe/256398/spongy-japanese-cheesecake/ world-cuisine
+http://allrecipes.com/recipe/24226/baked-beef-stew/ soups-stews-and-chili
+http://allrecipes.com/recipe/8932/fruity-curry-chicken-salad/ lunch
+http://allrecipes.com/recipe/246292/grilled-fennel/ bbq-grilling
+http://allrecipes.com/recipe/18417/spanakopita-greek-spinach-pie/ ingredients
+http://allrecipes.com/recipe/21465/apple-pie-cider/ drinks
+http://allrecipes.com/recipe/34613/roquefort-pear-salad/ salad
+http://allrecipes.com/recipe/13045/broccoli-cheese-soup/ soups-stews-and-chili
+http://allrecipes.com/recipe/68532/curried-coconut-chicken/ world-cuisine
+http://allrecipes.com/recipe/44491/big-als-kc-bar-b-q-sauce/ bbq-grilling
+http://allrecipes.com/recipe/71722/asian-lettuce-wraps/ appetizers-and-snacks
+http://allrecipes.com/recipe/24264/sloppy-joes-ii/ dinner holidays-and-events main-dish meat-and-poultry
+http://allrecipes.com/recipe/13566/cranberry-nut-bread-i/ bread
+http://allrecipes.com/recipe/14281/bodacious-broccoli-salad/ salad
+http://allrecipes.com/recipe/8694/chicken-enchiladas-ii/ dinner main-dish
+http://allrecipes.com/recipe/104850/black-bean-and-corn-quesadillas/ lunch
+http://allrecipes.com/recipe/32649/margaritas/ drinks
+http://allrecipes.com/recipe/16383/basic-crepes/ breakfast-and-brunch world-cuisine
+http://allrecipes.com/recipe/24574/overnight-caramel-pecan-rolls/ ingredients
+http://allrecipes.com/recipe/79100/swedish-saffron-buns/ breakfast-and-brunch
+http://allrecipes.com/recipe/256482/panettone-french-toast/ breakfast-and-brunch
+http://allrecipes.com/recipe/17357/grilled-marinated-salmon/ bbq-grilling
+http://allrecipes.com/recipe/217981/grilled-chicken-with-rosemary-and-bacon/ dinner
+http://allrecipes.com/recipe/24059/creamy-rice-pudding/ desserts
+http://allrecipes.com/recipe/23600/worlds-best-lasagna/ dinner everyday-cooking ingredients main-dish meat-and-poultry pasta-and-noodles
 http://allrecipes.com/recipe/21261/yummy-sweet-potato-casserole/ side-dish
-http://allrecipes.com/recipe/23720/spiced-pecans/ ingredients
+http://allrecipes.com/recipe/86687/broccoli-with-garlic-butter-and-cashews/ side-dish
+http://allrecipes.com/recipe/77981/butternut-squash-soup-ii/ fruits-and-vegetables
+http://allrecipes.com/recipe/255899/caramelized-onion-and-gouda-stuffed-chicken/ main-dish meat-and-poultry
+http://allrecipes.com/recipe/19484/grilled-marinated-shrimp/ bbq-grilling
+http://allrecipes.com/recipe/12720/grilled-salmon-i/ bbq-grilling dinner main-dish seafood
+http://allrecipes.com/recipe/10033/iced-pumpkin-cookies/ desserts
+http://allrecipes.com/recipe/14276/strawberry-spinach-salad-i/ salad
+http://allrecipes.com/recipe/30522/unbelievable-chicken/ bbq-grilling healthy-recipes
+http://allrecipes.com/recipe/7149/french-brioche/ bread
+http://allrecipes.com/recipe/254818/quick-taco-bake-pie/ meat-and-poultry
+http://allrecipes.com/recipe/75861/amazing-pork-tenderloin-in-the-slow-cooker/ healthy-recipes
+http://allrecipes.com/recipe/12682/apple-pie-by-grandma-ople/ desserts everyday-cooking fruits-and-vegetables holidays-and-events
+http://allrecipes.com/recipe/81298/playgroup-granola-bars/ appetizers-and-snacks
+http://allrecipes.com/recipe/8667/jays-jerk-chicken/ everyday-cooking
+http://allrecipes.com/recipe/25364/aimees-quick-chicken/ everyday-cooking
+http://allrecipes.com/recipe/14939/brown-sugar-smokies/ appetizers-and-snacks
+http://allrecipes.com/recipe/6815/monkey-bread-i/ breakfast-and-brunch
+http://allrecipes.com/recipe/24530/buttermilk-pancakes-ii/ breakfast-and-brunch
+http://allrecipes.com/recipe/24087/restaurant-style-buffalo-chicken-wings/ appetizers-and-snacks us-recipes
+http://allrecipes.com/recipe/54342/chipotle-crusted-pork-tenderloin/ bbq-grilling
+http://allrecipes.com/recipe/18045/yellow-squash-casserole/ side-dish
+http://allrecipes.com/recipe/87076/grilled-bacon-jalapeno-wraps/ bbq-grilling
+http://allrecipes.com/recipe/21018/gingerbread-waffles-with-hot-chocolate-sauce/ breakfast-and-brunch
+http://allrecipes.com/recipe/21014/good-old-fashioned-pancakes/ breakfast-and-brunch everyday-cooking holidays-and-events
+http://allrecipes.com/recipe/87648/fresh-tomato-shrimp-pasta/ dinner
+http://allrecipes.com/recipe/14512/grilled-potatoes-and-onion/ ingredients
+http://allrecipes.com/recipe/228118/cranberry-orange-bread/ holidays-and-events
+http://allrecipes.com/recipe/24445/chewy-chocolate-chip-oatmeal-cookies/ desserts
+http://allrecipes.com/recipe/51535/fresh-southern-peach-cobbler/ us-recipes
+http://allrecipes.com/recipe/76129/spinach-tomato-tortellini/ pasta-and-noodles
+http://allrecipes.com/recipe/17652/banana-crumb-muffins/ bread everyday-cooking fruits-and-vegetables holidays-and-events
+http://allrecipes.com/recipe/13978/lentil-soup/ healthy-recipes soups-stews-and-chili
+http://allrecipes.com/recipe/220661/quinoa-black-bean-burgers/ lunch
+http://allrecipes.com/recipe/17753/coconut-shrimp-i/ appetizers-and-snacks seafood
+http://allrecipes.com/recipe/83557/juicy-roasted-chicken/ world-cuisine
+http://allrecipes.com/recipe/256305/mexican-paella-with-cauliflower-rice/ meat-and-poultry
+http://allrecipes.com/recipe/33385/best-spanish-rice/ side-dish
+http://allrecipes.com/recipe/10813/best-chocolate-chip-cookies/ desserts everyday-cooking holidays-and-events ingredients
+http://allrecipes.com/recipe/18324/roast-potatoes/ fruits-and-vegetables
+http://allrecipes.com/recipe/16679/garlicky-appetizer-shrimp-scampi/ seafood
+http://allrecipes.com/recipe/25445/key-west-chicken/ bbq-grilling
+http://allrecipes.com/recipe/20580/apple-orchard-punch/ drinks
+http://allrecipes.com/recipe/260318/chorizo-fundido/ appetizers-and-snacks
+http://allrecipes.com/recipe/12009/cajun-chicken-pasta/ pasta-and-noodles us-recipes
+http://allrecipes.com/recipe/22629/asparagus-chicken-and-penne-pasta/ healthy-recipes
+http://allrecipes.com/recipe/20669/double-tomato-bruschetta/ appetizers-and-snacks world-cuisine
+http://allrecipes.com/recipe/230159/sweet-salty-spicy-party-nuts/ holidays-and-events
+http://allrecipes.com/recipe/25037/best-big-fat-chewy-chocolate-chip-cookie/ desserts everyday-cooking holidays-and-events ingredients
+http://allrecipes.com/recipe/27072/mexican-rice-ii/ side-dish world-cuisine
+http://allrecipes.com/recipe/141678/slow-cooker-pulled-pork/ dinner main-dish meat-and-poultry
+http://allrecipes.com/recipe/72612/sangria-sangria/ drinks
+http://allrecipes.com/recipe/20156/clone-of-a-cinnabon/ bread ingredients
+http://allrecipes.com/recipe/214071/shrimp-francesca/ ingredients
+http://allrecipes.com/recipe/11729/american-lasagna/ pasta-and-noodles
+http://allrecipes.com/recipe/221261/peanut-butter-banana-smoothie/ drinks
+http://allrecipes.com/recipe/11438/sufganiyot/ desserts
+http://allrecipes.com/recipe/76594/grandmothers-buttermilk-cornbread/ bread ingredients us-recipes
+http://allrecipes.com/recipe/133128/peppered-shrimp-alfredo/ pasta-and-noodles seafood
+http://allrecipes.com/recipe/13309/rich-and-simple-french-onion-soup/ everyday-cooking
+http://allrecipes.com/recipe/34746/baked-salmon-ii/ seafood
+http://allrecipes.com/recipe/50435/fry-bread-tacos-ii/ dinner
+http://allrecipes.com/recipe/46777/chai-tea-mix/ drinks
+http://allrecipes.com/recipe/246195/chef-johns-homemade-eggnog/ drinks
+http://allrecipes.com/recipe/190226/greens-with-cannellini-beans-and-pancetta/ fruits-and-vegetables
+http://allrecipes.com/recipe/14231/guacamole/ appetizers-and-snacks fruits-and-vegetables holidays-and-events
+http://allrecipes.com/recipe/57028/amazingly-good-eggnog/ drinks
+http://allrecipes.com/recipe/87817/broiled-grapefruit/ breakfast-and-brunch
+http://allrecipes.com/recipe/19687/cream-cheese-penguins/ appetizers-and-snacks
+http://allrecipes.com/recipe/80969/simple-turkey-chili/ healthy-recipes
+http://allrecipes.com/recipe/214973/quinoa-salad-with-grapefruit-avocado-and-arugula/ salad
+http://allrecipes.com/recipe/69226/bacon-ranch-pasta-salad/ salad
+http://allrecipes.com/recipe/16715/vegetarian-chickpea-sandwich-filling/ lunch
+http://allrecipes.com/recipe/241074/easy-garlic-kale/ side-dish
+http://allrecipes.com/recipe/219109/buffalo-chicken-wing-sauce/ us-recipes
+http://allrecipes.com/recipe/150306/the-best-chicken-fried-steak/ lunch
+http://allrecipes.com/recipe/20934/baked-french-toast/ breakfast-and-brunch everyday-cooking
+http://allrecipes.com/recipe/8778/cajun-chicken-pasta/ pasta-and-noodles
+http://allrecipes.com/recipe/26257/bow-ties-with-sausage-tomatoes-and-cream/ pasta-and-noodles
+http://allrecipes.com/recipe/127167/spinach-pomegranate-salad/ salad
+http://allrecipes.com/recipe/34523/glazed-ham/ ingredients
+http://allrecipes.com/recipe/143809/best-steak-marinade-in-existence/ bbq-grilling
+http://allrecipes.com/recipe/147804/rum-spiked-horchata/ drinks
+http://allrecipes.com/recipe/233329/quick-moroccan-couscous/ side-dish
+http://allrecipes.com/recipe/71698/sesame-seared-tuna/ seafood
+http://allrecipes.com/recipe/142614/grilled-fish-tacos-with-chipotle-lime-dressing/ lunch
+http://allrecipes.com/recipe/90500/beet-salad-with-goat-cheese/ fruits-and-vegetables
+http://allrecipes.com/recipe/256016/dijon-pork-with-apples-and-cabbage/ main-dish
+http://allrecipes.com/recipe/14495/marinated-pork-tenderloin/ bbq-grilling
+http://allrecipes.com/recipe/79098/turkey-wraps/ lunch
+http://allrecipes.com/recipe/21425/classic-spanish-sangria/ drinks
+http://allrecipes.com/recipe/60700/got-some-crust-macaroni-and-cheese/ pasta-and-noodles
+http://allrecipes.com/recipe/54675/roasted-garlic-cauliflower/ side-dish world-cuisine
+http://allrecipes.com/recipe/40450/chicken-and-bacon-shish-kabobs/ ingredients
+http://allrecipes.com/recipe/13041/my-best-clam-chowder/ seafood
+http://allrecipes.com/recipe/132261/cranberry-eggnog-cornbread-scones/ breakfast-and-brunch
+http://allrecipes.com/recipe/246591/classic-victoria-sponge-cake/ world-cuisine
+http://allrecipes.com/recipe/235721/nogtini/ drinks
+http://allrecipes.com/recipe/102049/asian-avocado/ fruits-and-vegetables
+http://allrecipes.com/recipe/18781/pizza-casserole/ pasta-and-noodles
+http://allrecipes.com/recipe/11731/shrimp-fra-diavolo/ pasta-and-noodles
+http://allrecipes.com/recipe/83844/slow-cooked-corned-beef-for-sandwiches/ lunch
+http://allrecipes.com/recipe/20171/quick-and-easy-pizza-crust/ bread
+http://allrecipes.com/recipe/8887/chicken-marsala/ dinner fruits-and-vegetables main-dish meat-and-poultry world-cuisine
+http://allrecipes.com/recipe/13651/awesome-sausage-apple-and-cranberry-stuffing/ side-dish world-cuisine
+http://allrecipes.com/recipe/6788/amish-white-bread/ bread us-recipes
+http://allrecipes.com/recipe/230132/chef-johns-pumpkin-pie/ holidays-and-events
+http://allrecipes.com/recipe/244623/turmeric-milk/ healthy-recipes
+http://allrecipes.com/recipe/16664/spinach-quiche/ breakfast-and-brunch
+http://allrecipes.com/recipe/14469/jamies-cranberry-spinach-salad/ salad
+http://allrecipes.com/recipe/20163/grandma-johnsons-scones/ bread
+http://allrecipes.com/recipe/70343/slow-cooker-chicken-taco-soup/ fruits-and-vegetables holidays-and-events ingredients meat-and-poultry soups-stews-and-chili
+http://allrecipes.com/recipe/143069/super-delicious-zuppa-toscana/ lunch soups-stews-and-chili
+http://allrecipes.com/recipe/17219/best-tuna-casserole/ pasta-and-noodles seafood
+http://allrecipes.com/recipe/9471/peanut-butter-cup-cookies/ desserts
+http://allrecipes.com/recipe/49552/quinoa-and-black-beans/ fruits-and-vegetables healthy-recipes side-dish world-cuisine
+http://allrecipes.com/recipe/17690/sweet-dinner-rolls/ bread us-recipes
+http://allrecipes.com/recipe/6984/banana-sour-cream-bread/ bread breakfast-and-brunch fruits-and-vegetables
+http://allrecipes.com/recipe/14985/its-chili-by-george/ soups-stews-and-chili
+http://allrecipes.com/recipe/26460/quick-and-easy-chicken-noodle-soup/ pasta-and-noodles soups-stews-and-chili
+http://allrecipes.com/recipe/20509/best-ever-party-appetizer/ appetizers-and-snacks
+http://allrecipes.com/recipe/16066/awesome-slow-cooker-pot-roast/ dinner everyday-cooking main-dish meat-and-poultry
+http://allrecipes.com/recipe/51301/sarahs-applesauce/ healthy-recipes side-dish
+http://allrecipes.com/recipe/12801/rockin-oysters-rockefeller/ seafood
+http://allrecipes.com/recipe/19368/chucks-favorite-mac-and-cheese/ pasta-and-noodles
