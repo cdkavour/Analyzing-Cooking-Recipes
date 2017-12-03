@@ -2,6 +2,7 @@ import os, sys
 import json
 import nltk
 import collections
+import code #DEBUG code.interact(local=locals())
 
 #Returns map from recipeIDs -> imperatives -> counts
 def get_imperatives(jsonDir):
@@ -30,14 +31,18 @@ def get_imperatives(jsonDir):
 						
 						for label in pos_labels:
 							if label[1] == 'VBP':
-								imperatives[label[0]] += 1
-
+								imperatives[label[0].lower()] += 1
+						
+						
 						#TODO: Strictly pick verbs related to 'They' as the subject
 
 				imperative_map[recipe_id] = imperatives
 
-	print(imperative_map)
+	return imperative_map
+
+#map uniqueid -> cooktime
+#def get_labels(jsonDir):
 
 if __name__ == '__main__':
 	inDir = sys.argv[1]
-	get_imperatives(inDir)
+	out = get_imperatives(inDir)
