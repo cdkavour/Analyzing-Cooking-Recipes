@@ -38,7 +38,7 @@ def main():
                     page_found = True
             i += 1
 
-        output = open("Recipe_urls_" + str(count) + ".txt", 'w')
+        output = open("recipe_urls/Recipe_urls_" + str(count) + ".txt", 'w')
         for recipe in recipe_tags.keys():
             recipe_out = 'http://allrecipes.com' + recipe
             for tag in recipe_tags[recipe]:
