@@ -140,15 +140,6 @@
         "sprinkle": 1,
         "stir": 3
     },
-    "11688": {
-        "cook": 2,
-        "drain": 1,
-        "pour": 1,
-        "sauce": 1,
-        "serve": 1,
-        "simmer": 1,
-        "stir": 2
-    },
     "11729": {
         "add": 1,
         "bake": 1,
@@ -163,15 +154,6 @@
         "simmer": 1,
         "sprinkle": 1,
         "top": 1
-    },
-    "11731": {
-        "cook": 1,
-        "drain": 1,
-        "peel": 1,
-        "place": 1,
-        "serve": 1,
-        "simmer": 1,
-        "transfer": 1
     },
     "11758": {
         "add": 2,
@@ -492,15 +474,6 @@
         "spray": 1,
         "stuff": 1
     },
-    "13838": {
-        "add": 1,
-        "bake": 1,
-        "grease": 1,
-        "preheat": 1,
-        "remove": 1,
-        "spread": 1,
-        "stir": 1
-    },
     "139012": {
         "microwave": 1,
         "pour": 1,
@@ -519,12 +492,6 @@
         "drop": 1,
         "heat": 1,
         "stir": 1
-    },
-    "13978": {
-        "add": 1,
-        "bring": 1,
-        "cook": 2,
-        "stir": 4
     },
     "140829": {
         "add": 2,
@@ -1090,13 +1057,6 @@
         "mix": 1,
         "sauce": 1,
         "spread": 1
-    },
-    "17325": {
-        "cover": 1,
-        "discard": 1,
-        "grill": 1,
-        "place": 1,
-        "preheat": 1
     },
     "17652": {
         "bake": 1,
@@ -3216,16 +3176,6 @@
         "spread": 1,
         "use": 1
     },
-    "61648": {
-        "cook": 1,
-        "cover": 1,
-        "drain": 1,
-        "fry": 1,
-        "heat": 1,
-        "place": 1,
-        "spread": 1,
-        "top": 1
-    },
     "63191": {
         "add": 1,
         "adjust": 1,
@@ -3579,14 +3529,6 @@
         "drain": 1,
         "pour": 1
     },
-    "7565": {
-        "bake": 1,
-        "cake": 1,
-        "cool": 1,
-        "pour": 1,
-        "preheat": 1,
-        "stir": 1
-    },
     "75861": {
         "place": 1,
         "pour": 1,
@@ -3666,17 +3608,6 @@
         "punch": 1,
         "roll": 2,
         "stir": 2
-    },
-    "79470": {
-        "adjust": 1,
-        "bake": 1,
-        "cool": 1,
-        "grate": 1,
-        "place": 2,
-        "press": 1,
-        "serve": 1,
-        "sprinkle": 1,
-        "use": 3
     },
     "79518": {
         "are": 1,
@@ -4136,11 +4067,6 @@
         "remove": 1,
         "shape": 1,
         "sift": 1
-    },
-    "9477": {
-        "mix": 2,
-        "pour": 1,
-        "serve": 1
     },
     "98579": {
         "mix": 1,

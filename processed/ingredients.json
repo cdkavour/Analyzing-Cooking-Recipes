@@ -155,22 +155,6 @@
         "paprika": 1,
         "parmesan cheese": 1
     },
-    "11688": {
-        "basil": 1,
-        "black pepper": 1,
-        "dry fettuccine pasta": 1,
-        "green onions": 1,
-        "heavy whipping cream": 1,
-        "parmesan cheese": 1,
-        "parsley": 1,
-        "red pepper flakes": 1,
-        "salt": 1,
-        "scallops": 1,
-        "shrimp": 1,
-        "swiss cheese": 1,
-        "thyme": 1,
-        "white pepper": 1
-    },
     "11729": {
         "basil": 1,
         "beef": 1,
@@ -186,15 +170,6 @@
         "ricotta cheese": 1,
         "salt": 2,
         "tomato paste": 1,
-        "tomatoes": 1
-    },
-    "11731": {
-        "crushed tomatoes with garlic": 1,
-        "garlic": 1,
-        "pasta": 1,
-        "red pepper flakes": 1,
-        "red wine": 1,
-        "shrimp": 1,
         "tomatoes": 1
     },
     "11758": {
@@ -569,14 +544,6 @@
         "mushrooms": 1,
         "onion": 1
     },
-    "13838": {
-        "cinnamon": 1,
-        "egg": 1,
-        "pecan": 1,
-        "salt": 1,
-        "water": 1,
-        "white sugar": 1
-    },
     "139012": {
         "chilies": 1,
         "cream cheese": 1,
@@ -607,23 +574,6 @@
         "salt": 1,
         "vegetable oil": 1,
         "zucchini": 1
-    },
-    "13978": {
-        "basil": 1,
-        "bay leaf": 1,
-        "black pepper": 1,
-        "carrots": 1,
-        "celery": 1,
-        "dry lentils": 1,
-        "garlic": 1,
-        "olive oil": 1,
-        "onion": 1,
-        "oregano": 1,
-        "salt": 1,
-        "spinach": 1,
-        "tomatoes": 1,
-        "vinegar": 1,
-        "water": 1
     },
     "140829": {
         "all-purpose flour": 1,
@@ -1360,20 +1310,6 @@
         "salt": 1,
         "tomato paste": 1,
         "water": 1
-    },
-    "17325": {
-        "balsamic vinegar": 1,
-        "black pepper": 1,
-        "cayenne pepper": 1,
-        "garlic": 1,
-        "honey": 1,
-        "liquid smoke flavoring": 1,
-        "olive oil": 1,
-        "onion powder": 1,
-        "rib-eye steaks": 1,
-        "salt": 1,
-        "soy sauce": 1,
-        "worcestershire sauce": 1
     },
     "17652": {
         "all-purpose flour": 2,
@@ -3791,13 +3727,6 @@
         "salt": 1,
         "white sugar": 2
     },
-    "61648": {
-        "american cheese": 1,
-        "bacon": 1,
-        "butter": 1,
-        "tomato": 1,
-        "white bread": 1
-    },
     "63191": {
         "beer": 1,
         "fluid ounces tequila": 1,
@@ -4213,15 +4142,6 @@
         "white sugar": 1,
         "white vinegar": 1
     },
-    "7565": {
-        "chocolate chips": 1,
-        "chocolate pudding mix": 1,
-        "devil's food cake mix": 1,
-        "eggs": 1,
-        "sour cream": 1,
-        "vegetable oil": 1,
-        "water": 1
-    },
     "75861": {
         "black pepper": 1,
         "garlic": 1,
@@ -4334,17 +4254,6 @@
         "salt": 1,
         "sugar": 1,
         "yeast": 1
-    },
-    "79470": {
-        "all-purpose flour": 1,
-        "baking powder": 1,
-        "baking soda": 1,
-        "egg": 1,
-        "raisins": 1,
-        "salt": 1,
-        "sour cream": 1,
-        "sugar": 1,
-        "unsalted butter": 1
     },
     "79518": {
         "baking potatoes": 1,
@@ -4864,14 +4773,6 @@
         "peanut butter": 1,
         "salt": 1,
         "vanilla extract": 1,
-        "white sugar": 1
-    },
-    "9477": {
-        "cinnamon": 1,
-        "creamer": 1,
-        "instant chocolate drink mix": 1,
-        "instant coffee granules": 1,
-        "nutmeg": 1,
         "white sugar": 1
     },
     "98579": {

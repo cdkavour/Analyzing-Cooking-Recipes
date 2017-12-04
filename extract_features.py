@@ -12,7 +12,7 @@ def create_feature(ids, parse_tree):
 			if item not in unique_items:
 				unique_items.append(item)
 
-	print(unique_items)
+	#print(unique_items)
 
 	fv = np.zeros((len(ids), len(unique_items)))
 	for i, id in enumerate(ids):
