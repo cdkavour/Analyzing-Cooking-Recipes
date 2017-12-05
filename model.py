@@ -1,5 +1,7 @@
 from sklearn.tree import DecisionTreeRegressor
-
+from sklearn import svm 
+from sklearn.neighbors import KNeighborsRegressor
+from sklearn.gaussian_process import GaussianProcessRegressor
 import sys
 import numpy as np
 from sklearn.utils import resample
@@ -21,10 +23,8 @@ def get_accuracy(y_test, y_pred):
 	fig = plt.figure()
 	plt.scatter(y_test, y_pred)
 	plt.plot(np.full(y_test.shape, np.median(y_test)), color='red')
-	plt.plot(np.arange(700))
+	plt.plot(np.arange(np.max(y_test)))
 	plt.show()
-
-
 	fig.savefig('accuracy.png')
 
 	return np.average(percentage) * 100
@@ -52,7 +52,10 @@ def train_random_forest(train_x, train_y, m, n_clf=10):
 
 	for i in range(n_clf):
 		#select features
-		forest.append(DecisionTreeRegressor(max_features=m))
+		#forest.append(DecisionTreeRegressor(max_features=m))
+		forest.append(svm.SVR(C=m))
+		#forest.append(KNeighborsRegressor(n_neighbors=m))
+		#forest.append(GaussianProcessRegressor(alpha=m))
 		x_train_sample, y_train_sample = resample(train_x, train_y, n_samples=n)
 		forest[i].fit(x_train_sample, y_train_sample)
 
@@ -80,9 +83,9 @@ def test_random_forest(test_x, y_true, forest):
 
 def baseline(truths):
 	median = np.median(truths)
-	print(median)
+	#print(median)
 
-	acc = get_accuracy( np.full(truths.shape, median), truths)
+	acc = get_accuracy( truths, np.full(truths.shape, median))
 
 	print('Baseline: {}'.format(acc))
 
@@ -93,8 +96,14 @@ def main():
 	times = extra_functions.json_to_dict("processed/times.json")
 	num_instructions = extra_functions.json_to_dict("processed/num_instructions.json")
 	num_ingredients = extra_functions.json_to_dict("processed/num_ingredients.json")
+	instruction_times = extra_functions.json_to_dict("processed/instruction_time.json")
 
-	x, y = extract_features.generate_features(imperatives, ingredients, times, num_instructions, num_ingredients)
+	recipeIDs = times.keys()
+	for recipeID in recipeIDs:
+		if times[recipeID] > 24*60: del times[recipeID]
+
+
+	x, y = extract_features.generate_features(imperatives, ingredients, times, num_instructions, num_ingredients, instruction_times)
 	s = np.arange(len(x))
 	x = x[s]
 	y = y[s]
@@ -102,23 +111,31 @@ def main():
 	m = 200
 	#f_range = (np.arange(10)+1)*5
 	#f_range = np.power((np.arange(10)+1), math.e).astype(int)
-	f_range = [10]
+	f = 10
+	c_range = [0.001, 0.01, 0.1, 1, 10, 100, 1000] #C = 100 / 1000
+	n_n_range = [3, 6, 9, 12, 15, 18, 21] 
+	alpha_range = [1e-12, 1e-11, 1e-10, 1e-9, 1e-8]
 
 	train_split = int(len(x))/10*7
 	train_x, train_y = x[:train_split], y[:train_split]
 	test_x, test_y = x[train_split:], y[train_split:]
-
 	baseline(train_y)
 
-	for f in f_range:
-		acc = []
-		#for i in range(40):
-		forest = train_random_forest(train_x, train_y, m, f)
-		accuracy = test_random_forest(test_x, test_y, forest)
-		acc.append(accuracy)
-
-		print("M = {0}: {1}".format(m, np.average(acc)))
+	c = 100
+	forest = train_random_forest(train_x, train_y, c, f)
+	accuracy = test_random_forest(test_x, test_y, forest)
+	print(accuracy)
+	#print("C = {0}: {1}".format(alpha, np.average(acc)))
 
 
 if __name__ == '__main__':
 	main()
+
+'''
+SVM
+SGD
+NeaNei
+Gauss
+
+Voting
+'''

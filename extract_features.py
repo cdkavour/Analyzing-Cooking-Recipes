@@ -30,7 +30,7 @@ def create_time_feature(ids, times):
 		y[i] = times[ID]
 	return y
 
-def generate_features(imperatives, ingredients, times, num_instructions, num_ingredients):
+def generate_features(imperatives, ingredients, times, num_instructions, num_ingredients, instruction_time):
 	'''
 		INPUT:
 			imperatives - a dictionary of recipe ids to imperatives to counts
@@ -44,8 +44,8 @@ def generate_features(imperatives, ingredients, times, num_instructions, num_ing
 	f3 = f3.reshape(f3.shape[0], 1)
 	f4 = create_time_feature(ids, num_ingredients)
 	f4 = f4.reshape(f4.shape[0], 1)
-	x = np.concatenate((f1, f2, f3, f4), axis=1)
+	f5 = create_feature(ids, instruction_time)
+	x = np.concatenate((f1, f2, f3, f4, f5), axis=1)
 	y = create_time_feature(ids, times)
-	code.interact(local=locals())
 
 	return x, y
