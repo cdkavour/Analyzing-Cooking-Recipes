@@ -39,7 +39,7 @@ class Recipe:
 
 def main():
     
-    i = '17'
+    i = '79'
     jsonDir = sys.argv[1]
     #for filename in os.listdir(jsonDir):
     filename = 'links_{}'.format(i)
@@ -72,6 +72,7 @@ def main():
             bytes = urlopen(url).read()
             soup = BeautifulSoup(bytes, 'lxml')
         except:
+            print(':(')
             continue
 
         # Get ID
