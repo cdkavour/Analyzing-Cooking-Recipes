@@ -75,6 +75,12 @@ def test_random_forest(test_x, y_true, forest):
 
 	return get_accuracy(y_true, y_pred)
 
+def baseline(truths):
+	avg = np.average(truths)
+
+	acc = get_accuracy( np.full(truths.shape, avg), truths)
+
+	print('Baseline: {}'.format(acc))
 
 def main():
 	print("Getting training data")
@@ -93,6 +99,8 @@ def main():
 	train_split = int(len(x))/10*7
 	train_x, train_y = x[:train_split], y[:train_split]
 	test_x, test_y = x[train_split:], y[train_split:]
+
+	baseline(train_y)
 
 	for f in f_range:
 		acc = []

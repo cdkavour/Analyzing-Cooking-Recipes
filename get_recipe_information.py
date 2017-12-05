@@ -1,8 +1,9 @@
-from urllib.request import urlopen
+from urllib2 import urlopen
 from bs4 import BeautifulSoup
 from collections import defaultdict
 import json
 import time
+import sys, os
 
 
 class Recipe:
@@ -37,67 +38,89 @@ class Recipe:
 
 
 def main():
-    URLS = open("Recipe_urls.txt").read().splitlines()
-    output = open("recipes/Recipes_2.json", 'w')
-    recipes = defaultdict(dict)
+    
+    i = 0
+    jsonDir = sys.argv[1]
+    for filename in os.listdir(jsonDir):
 
-    for line in URLS:
-        r = Recipe()
+        print('Processing link file {}'.format(i))
 
-        # Make soup for this recipe
-        line = line.split()
-        url = line[0]
-        time.sleep(0)
-        bytes = urlopen(url).read()
-        soup = BeautifulSoup(bytes, 'lxml')
+        URLS = open(os.path.join(jsonDir, filename)).read().splitlines()
+   
+        recipes = defaultdict(dict)
 
-        # Get ID
-        id = ''.join(ch for ch in url if ch.isdigit())
-        r.id = id
+        output = open('recipes/recipes_{}.json'.format(i), 'w')
 
-        # Get Tags
-        for tag in line[1:]:
-            r.tags.append(tag)
+        totLen = len(URLS)
+        curUrl = 0.
+        for line in URLS:
 
-        # Get ingredients
-        all_ingredients = soup.find_all('ul', 'dropdownwrapper')
-        for ingredients in all_ingredients:
-            for ingredient in ingredients.find_all('span', 'recipe-ingred_txt added'):
-                r.ingredients.append(ingredient.string)
+            if (curUrl % 20) == 0:
+                print('\t {}%'.format((curUrl/totLen) * 100))
+            curUrl += 1
 
-        # Get Instructions
-        instructions = soup.find('ol', 'list-numbers recipe-directions__list')
-        for instruction in instructions.find_all('span', 'recipe-directions__list--item'):
-            r.instructions.append(instruction.string)
+            r = Recipe()
 
-        # Get Ready In Time
-        times = soup.find_all('li', 'prepTime__item')
-        for time_option in times:
-            time_type = time_option.find('p', 'prepTime__item--type')
-            if time_type and time_type.string == 'Ready In':
-                T = time_option.find('time')['datetime'][2:]
-                minutes = 0
-                if 'Days' in T:
-                    days = T.partition('Days')
-                    minutes += 24 * 60 * int(days[0])
-                    T = days[2]
-                elif 'Day' in T:
-                    days = T.partition('Day')
-                    minutes += 24 * 60 * int(days[0])
-                    T = days[2]
-                if 'H' in T:
-                    hours = T.partition('H')
-                    minutes += 60 * int(hours[0])
-                    T = hours[2]
-                if 'M' in T:
-                    minutes += int(T.partition('M')[0])
-                r.ready = minutes
-        if r.ready == None or r.ready == 0:
-            continue
-        print(r.to_dict())
-        recipes[id] = r.to_dict()
+            # Make soup for this recipe
+            line = line.split()
+            url = line[0]
+            time.sleep(0)
+            try:
+                bytes = urlopen(url).read()
+                soup = BeautifulSoup(bytes, 'lxml')
+            except:
+                continue
 
-    output.write(json.dumps(recipes, sort_keys=True, indent=3))
+            # Get ID
+            id = ''.join(ch for ch in url if ch.isdigit())
+            r.id = id
+
+            # Get Tags
+            for tag in line[1:]:
+                r.tags.append(tag)
+
+            # Get ingredients
+            all_ingredients = soup.find_all('ul', 'dropdownwrapper')
+            for ingredients in all_ingredients:
+                for ingredient in ingredients.find_all('span', 'recipe-ingred_txt added'):
+                    r.ingredients.append(ingredient.string)
+
+            # Get Instructions
+            instructions = soup.find('ol', 'list-numbers recipe-directions__list')
+            for instruction in instructions.find_all('span', 'recipe-directions__list--item'):
+                r.instructions.append(instruction.string)
+
+            # Get Ready In Time
+            times = soup.find_all('li', 'prepTime__item')
+            for time_option in times:
+                time_type = time_option.find('p', 'prepTime__item--type')
+                if time_type and time_type.string == 'Ready In':
+                    T = time_option.find('time')['datetime'][2:]
+                    minutes = 0
+                    if 'Days' in T:
+                        days = T.partition('Days')
+                        minutes += 24 * 60 * int(days[0])
+                        T = days[2]
+                    elif 'Day' in T:
+                        days = T.partition('Day')
+                        minutes += 24 * 60 * int(days[0])
+                        T = days[2]
+                    if 'H' in T:
+                        hours = T.partition('H')
+                        minutes += 60 * int(hours[0])
+                        T = hours[2]
+                    if 'M' in T:
+                        minutes += int(T.partition('M')[0])
+                    r.ready = minutes
+            if r.ready == None or r.ready == 0:
+                continue
+            recipes[id] = r.to_dict()
+
+        output.write(json.dumps(recipes, sort_keys=True, indent=3))
+
+        output.close()
+
+        i += 1
 
 if __name__ == '__main__':
     main()
