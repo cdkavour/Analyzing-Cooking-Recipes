@@ -1,4 +1,5 @@
 import numpy as np
+#import ipdb
 from sets import Set
 
 def create_feature(ids, parse_tree):
@@ -28,7 +29,7 @@ def create_time_feature(ids, times):
 		y[i] = times[id]
 	return y
 
-def generate_features(imperatives, ingredients, times):
+def generate_features(imperatives, ingredients, times, num_instructions, num_ingredients):
 	'''
 		INPUT:
 			imperatives - a dictionary of recipe ids to imperatives to counts
@@ -38,7 +39,11 @@ def generate_features(imperatives, ingredients, times):
 	ids = list(times.keys())
 	f1 = create_feature(ids, imperatives)
 	f2 = create_feature(ids, ingredients)
-	x = np.concatenate((f1, f2), axis=1)
+	f3 = create_time_feature(ids, num_instructions)
+	f3 = f3.reshape(f3.shape[0], 1)
+	f4 = create_time_feature(ids, num_ingredients)
+	f4 = f4.reshape(f4.shape[0], 1)
+	x = np.concatenate((f1, f2, f3, f4), axis=1)
 	y = create_time_feature(ids, times)
 
 	return x, y

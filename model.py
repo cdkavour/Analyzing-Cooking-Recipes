@@ -9,6 +9,8 @@ import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import code #DEBUG code.interact(local=locals())
+#import ipdb
+import math
 
 def get_accuracy(y_test, y_pred):
 	
@@ -87,14 +89,18 @@ def main():
 	imperatives = extra_functions.json_to_dict("processed/instructions.json")
 	ingredients = extra_functions.json_to_dict("processed/ingredients.json")
 	times = extra_functions.json_to_dict("processed/times.json")
+	num_instructions = extra_functions.json_to_dict("processed/num_instructions.json")
+	num_ingredients = extra_functions.json_to_dict("processed/num_ingredients.json")
 
-	x, y = extract_features.generate_features(imperatives, ingredients, times) 
+	x, y = extract_features.generate_features(imperatives, ingredients, times, num_instructions, num_ingredients)
 	s = np.arange(len(x))
 	x = x[s]
 	y = y[s]
 
 	m = 200
-	f_range = (np.arange(10)+1)*5
+	#f_range = (np.arange(10)+1)*5
+	#f_range = np.power((np.arange(10)+1), math.e).astype(int)
+	f_range = [10]
 
 	train_split = int(len(x))/10*7
 	train_x, train_y = x[:train_split], y[:train_split]
@@ -104,11 +110,10 @@ def main():
 
 	for f in f_range:
 		acc = []
-		for i in range(40):
-			forest = train_random_forest(train_x, train_y, m, f)
-			accuracy = test_random_forest(test_x, test_y, forest)
-			acc.append(accuracy)
-
+		#for i in range(40):
+		forest = train_random_forest(train_x, train_y, m, f)
+		accuracy = test_random_forest(test_x, test_y, forest)
+		acc.append(accuracy)
 
 		print("M = {0}: {1}".format(m, np.average(acc)))
 
