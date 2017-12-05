@@ -38,7 +38,7 @@ class Recipe:
 
 def main():
     URLS = open("Recipe_urls.txt").read().splitlines()
-    output = open("Recipes_1.json", 'w')
+    output = open("recipes/Recipes_2.json", 'w')
     recipes = defaultdict(dict)
 
     for line in URLS:
@@ -77,9 +77,13 @@ def main():
             if time_type and time_type.string == 'Ready In':
                 T = time_option.find('time')['datetime'][2:]
                 minutes = 0
-                if 'D' in T:
+                if 'Days' in T:
+                    days = T.partition('Days')
+                    minutes += 24 * 60 * int(days[0])
+                    T = days[2]
+                elif 'Day' in T:
                     days = T.partition('Day')
-                    minutes += 3600 * int(days[0])
+                    minutes += 24 * 60 * int(days[0])
                     T = days[2]
                 if 'H' in T:
                     hours = T.partition('H')
@@ -88,6 +92,8 @@ def main():
                 if 'M' in T:
                     minutes += int(T.partition('M')[0])
                 r.ready = minutes
+        if r.ready == None or r.ready == 0:
+            continue
         print(r.to_dict())
         recipes[id] = r.to_dict()
 
