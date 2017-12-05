@@ -51,6 +51,7 @@ def main():
 
         output = open('recipes/recipes_{}.json'.format(i), 'w')
 
+        # TODO -- Verify Uniqueness across link files
         totLen = len(URLS)
         curUrl = 0.
         for line in URLS:
