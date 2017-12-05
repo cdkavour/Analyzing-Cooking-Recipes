@@ -1,32 +1,33 @@
 import numpy as np
 #import ipdb
 from sets import Set
+import code #DEBUG code.interact(local=locals())
 
 def create_feature(ids, parse_tree):
 	'''
 		INPUT:
 		imperatives - a dictionary of recipe ids to imperatives to counts
 	'''
+
 	unique_items = []
-	for id in ids:
-		for item in parse_tree[id].keys():
+	for ID in ids:
+		for item in parse_tree[ID].keys():
 			if item not in unique_items:
 				unique_items.append(item)
-
 	#print(unique_items)
 
 	fv = np.zeros((len(ids), len(unique_items)))
-	for i, id in enumerate(ids):
-		for item in parse_tree[id].keys():
+	for i, ID in enumerate(ids):
+		for item in parse_tree[ID].keys():
 			j = unique_items.index(item)
-			fv[i][j] = parse_tree[id][item]
+			fv[i][j] = parse_tree[ID][item]
 
 	return fv
 
 def create_time_feature(ids, times):
 	y = np.zeros(len(ids))
-	for i, id in enumerate(ids):
-		y[i] = times[id]
+	for i, ID in enumerate(ids):
+		y[i] = times[ID]
 	return y
 
 def generate_features(imperatives, ingredients, times, num_instructions, num_ingredients):
@@ -45,5 +46,6 @@ def generate_features(imperatives, ingredients, times, num_instructions, num_ing
 	f4 = f4.reshape(f4.shape[0], 1)
 	x = np.concatenate((f1, f2, f3, f4), axis=1)
 	y = create_time_feature(ids, times)
+	code.interact(local=locals())
 
 	return x, y

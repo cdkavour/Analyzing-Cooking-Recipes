@@ -17,14 +17,15 @@ def get_accuracy(y_test, y_pred):
 	diff = np.absolute(np.subtract(y_test, y_pred))
 	percentage = np.divide(diff, y_test)
 
-	# #Plotting
-	# fig = plt.figure()
-	# plt.scatter(y_test, y_pred)
-	# plt.plot(np.arange(700))
-	# plt.show()
+	#Plotting
+	fig = plt.figure()
+	plt.scatter(y_test, y_pred)
+	plt.plot(np.full(y_test.shape, np.median(y_test)), color='red')
+	plt.plot(np.arange(700))
+	plt.show()
 
 
-	# fig.savefig('accuracy.png')
+	fig.savefig('accuracy.png')
 
 	return np.average(percentage) * 100
 
@@ -78,9 +79,10 @@ def test_random_forest(test_x, y_true, forest):
 	return get_accuracy(y_true, y_pred)
 
 def baseline(truths):
-	avg = np.average(truths)
+	median = np.median(truths)
+	print(median)
 
-	acc = get_accuracy( np.full(truths.shape, avg), truths)
+	acc = get_accuracy( np.full(truths.shape, median), truths)
 
 	print('Baseline: {}'.format(acc))
 

@@ -13,12 +13,14 @@ import os, sys
 import json
 import nltk
 import collections
+import re
 import code #DEBUG code.interact(local=locals())
 
 #Returns map from recipeIDs -> imperatives -> counts
 def get_imperatives(jsonDir):
 
 	imperative_map = {}
+	reg = re.compile('[^\x00-\x7F]+')
 
 	for filename in os.listdir(jsonDir):
 		if filename.endswith('.json'):
@@ -34,10 +36,19 @@ def get_imperatives(jsonDir):
 				#Iterate through sentences
 				for s in sentences:
 					for raw_clause in s.split('; '):
+						if not raw_clause:
+							continue
 
+						raw_clause = re.sub(reg,' ', raw_clause)
+						
 						clause = 'They {}'.format(raw_clause.rstrip('.'))
 						words = nltk.word_tokenize(clause)
+						
+						if len(words) == 1:
+							continue
+						
 						words[1] = words[1].lower()
+
 						pos_labels = nltk.pos_tag(words)
 						
 						for label in pos_labels:
