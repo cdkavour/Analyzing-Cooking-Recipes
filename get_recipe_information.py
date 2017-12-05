@@ -39,7 +39,7 @@ class Recipe:
 
 def main():
     
-    i = '11'
+    i = '17'
     jsonDir = sys.argv[1]
     #for filename in os.listdir(jsonDir):
     filename = 'links_{}'.format(i)
@@ -55,10 +55,11 @@ def main():
     # TODO -- Verify Uniqueness across link files
     totLen = len(URLS)
     curUrl = 0.
-    for line in URLS:
+    for idx, line in enumerate(URLS):
 
         if (curUrl % 20) == 0:
             print('\t {}%'.format((curUrl/totLen) * 100))
+
         curUrl += 1
 
         r = Recipe()
