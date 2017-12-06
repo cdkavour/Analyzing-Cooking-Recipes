@@ -39,7 +39,7 @@ class Recipe:
 
 def main():
     
-    i = '79'
+    i = '76'
     jsonDir = sys.argv[1]
     #for filename in os.listdir(jsonDir):
     filename = 'links_{}'.format(i)
@@ -57,7 +57,7 @@ def main():
     curUrl = 0.
     for idx, line in enumerate(URLS):
 
-        if (curUrl % 20) == 0:
+        if (curUrl % 6) == 0:
             print('\t {}%'.format((curUrl/totLen) * 100))
 
         curUrl += 1
