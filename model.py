@@ -105,13 +105,14 @@ def main():
 
 	x, y = extract_features.generate_features(imperatives, ingredients, times, num_instructions, num_ingredients, instruction_times)
 	s = np.arange(len(x))
+	np.random.shuffle(s)
 	x = x[s]
 	y = y[s]
 
 	m = 200
 	#f_range = (np.arange(10)+1)*5
 	#f_range = np.power((np.arange(10)+1), math.e).astype(int)
-	f = 10
+	f = 3
 	c_range = [0.001, 0.01, 0.1, 1, 10, 100, 1000] #C = 100 / 1000
 	n_n_range = [3, 6, 9, 12, 15, 18, 21] 
 	alpha_range = [1e-12, 1e-11, 1e-10, 1e-9, 1e-8]
