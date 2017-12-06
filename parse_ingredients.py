@@ -33,6 +33,8 @@ def save_cook_nouns(jsonDir):
 
 				ingFile = open('tmp/ingredients.in', 'wb')
 				for ingredient in recipe['ingredients']:
+					if not ingredient:
+						continue
 					ingredient = re.sub(reg,' ', ingredient)
 					ingFile.write(ingredient + '\n')
 				ingFile.close()

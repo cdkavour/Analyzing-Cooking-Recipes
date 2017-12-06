@@ -1,4 +1,8 @@
 {
+    "10003": {
+        "hours": 0,
+        "minutes": 9.0
+    },
     "10027": {
         "hours": 0,
         "minutes": 14.0
@@ -47,6 +51,14 @@
         "hours": 0,
         "minutes": 9.0
     },
+    "102744": {
+        "hours": 0,
+        "minutes": 70
+    },
+    "103117": {
+        "hours": 0,
+        "minutes": 60
+    },
     "103805": {
         "hours": 0,
         "minutes": 15
@@ -59,13 +71,29 @@
         "hours": 0,
         "minutes": 20
     },
+    "104594": {
+        "hours": 0,
+        "minutes": 11.5
+    },
+    "104769": {
+        "hours": 0,
+        "minutes": 10
+    },
     "104921": {
         "hours": 0,
         "minutes": 0
     },
+    "104925": {
+        "hours": 0,
+        "minutes": 15
+    },
     "104951": {
         "hours": 0,
         "minutes": 18.5
+    },
+    "104967": {
+        "hours": 0,
+        "minutes": 45
     },
     "10511": {
         "hours": 0,
@@ -83,9 +111,17 @@
         "hours": 0,
         "minutes": 32
     },
+    "10618": {
+        "hours": 0,
+        "minutes": 20.5
+    },
     "106231": {
         "hours": 0,
         "minutes": 5
+    },
+    "106933": {
+        "hours": 0,
+        "minutes": 0
     },
     "107234": {
         "hours": 0,
@@ -99,17 +135,45 @@
         "hours": 0,
         "minutes": 7
     },
+    "10856": {
+        "hours": 0,
+        "minutes": 3.5
+    },
+    "108859": {
+        "hours": 0,
+        "minutes": 0
+    },
     "108974": {
         "hours": 0,
         "minutes": 142.5
+    },
+    "109118": {
+        "hours": 0,
+        "minutes": 0
     },
     "109211": {
         "hours": 0,
         "minutes": 67.5
     },
+    "109254": {
+        "hours": 4,
+        "minutes": 30
+    },
+    "109288": {
+        "hours": 0,
+        "minutes": 0
+    },
     "109291": {
         "hours": 0,
         "minutes": 27.0
+    },
+    "109782": {
+        "hours": 8,
+        "minutes": 5
+    },
+    "109895": {
+        "hours": 0,
+        "minutes": 42.0
     },
     "111135": {
         "hours": 0,
@@ -127,6 +191,14 @@
         "hours": 1.5,
         "minutes": 0
     },
+    "112336": {
+        "hours": 0,
+        "minutes": 20
+    },
+    "112464": {
+        "hours": 0,
+        "minutes": 65.0
+    },
     "112618": {
         "hours": 3,
         "minutes": 12
@@ -134,6 +206,14 @@
     "11318": {
         "hours": 0,
         "minutes": 35
+    },
+    "11389": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "11406": {
+        "hours": 0,
+        "minutes": 60
     },
     "11504": {
         "hours": 0,
@@ -159,6 +239,10 @@
         "hours": 0,
         "minutes": 0
     },
+    "11849": {
+        "hours": 0,
+        "minutes": 39.0
+    },
     "11951": {
         "hours": 0,
         "minutes": 0
@@ -175,6 +259,26 @@
         "hours": 0,
         "minutes": 7.5
     },
+    "12068": {
+        "hours": 0,
+        "minutes": 17.5
+    },
+    "12088": {
+        "hours": 0,
+        "minutes": 45
+    },
+    "12153": {
+        "hours": 0,
+        "minutes": 35
+    },
+    "12254": {
+        "hours": 0,
+        "minutes": 7
+    },
+    "12275": {
+        "hours": 0,
+        "minutes": 47.5
+    },
     "12278": {
         "hours": 0,
         "minutes": 55
@@ -186,6 +290,10 @@
     "12408": {
         "hours": 0,
         "minutes": 37.5
+    },
+    "12480": {
+        "hours": 2,
+        "minutes": 13.5
     },
     "12503": {
         "hours": 0,
@@ -203,6 +311,10 @@
         "hours": 0,
         "minutes": 10.0
     },
+    "12587": {
+        "hours": 0,
+        "minutes": 0
+    },
     "126079": {
         "hours": 0,
         "minutes": 0
@@ -219,6 +331,14 @@
         "hours": 0,
         "minutes": 30
     },
+    "12683": {
+        "hours": 0,
+        "minutes": 32.0
+    },
+    "12709": {
+        "hours": 0,
+        "minutes": 0
+    },
     "12710": {
         "hours": 2,
         "minutes": 5
@@ -227,17 +347,37 @@
         "hours": 0,
         "minutes": 101.5
     },
+    "12725": {
+        "hours": 5.0,
+        "minutes": 10
+    },
     "127491": {
         "hours": 0,
         "minutes": 0
     },
+    "127533": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "12767": {
+        "hours": 0,
+        "minutes": 45
+    },
     "12770": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "12779": {
         "hours": 0,
         "minutes": 0
     },
     "12786": {
         "hours": 0,
         "minutes": 25
+    },
+    "12799": {
+        "hours": 0,
+        "minutes": 30
     },
     "12821": {
         "hours": 2.5,
@@ -251,9 +391,21 @@
         "hours": 0,
         "minutes": 3.5
     },
+    "128824": {
+        "hours": 0,
+        "minutes": 3
+    },
+    "128967": {
+        "hours": 0,
+        "minutes": 30
+    },
     "12900": {
         "hours": 5.5,
         "minutes": 0
+    },
+    "12924": {
+        "hours": 0,
+        "minutes": 37.5
     },
     "12934": {
         "hours": 0,
@@ -263,9 +415,29 @@
         "hours": 0,
         "minutes": 0
     },
+    "12990": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "12996": {
+        "hours": 0,
+        "minutes": 9.5
+    },
     "129996": {
         "hours": 0,
         "minutes": 0
+    },
+    "13004": {
+        "hours": 0,
+        "minutes": 80
+    },
+    "13029": {
+        "hours": 0,
+        "minutes": 45
+    },
+    "13044": {
+        "hours": 0,
+        "minutes": 55
     },
     "130503": {
         "hours": 2,
@@ -274,6 +446,10 @@
     "130635": {
         "hours": 0,
         "minutes": 40
+    },
+    "130669": {
+        "hours": 0,
+        "minutes": 12.5
     },
     "130821": {
         "hours": 0,
@@ -287,6 +463,14 @@
         "hours": 2,
         "minutes": 3
     },
+    "131686": {
+        "hours": 0,
+        "minutes": 66.5
+    },
+    "131743": {
+        "hours": 0,
+        "minutes": 32
+    },
     "131936": {
         "hours": 2,
         "minutes": 0
@@ -298,6 +482,10 @@
     "13274": {
         "hours": 0,
         "minutes": 0
+    },
+    "13278": {
+        "hours": 0,
+        "minutes": 5
     },
     "13288": {
         "hours": 2,
@@ -327,6 +515,18 @@
         "hours": 0,
         "minutes": 0
     },
+    "134329": {
+        "hours": 0,
+        "minutes": 20
+    },
+    "134483": {
+        "hours": 0,
+        "minutes": 7
+    },
+    "13452": {
+        "hours": 3,
+        "minutes": 0
+    },
     "13489": {
         "hours": 0,
         "minutes": 0
@@ -334,6 +534,10 @@
     "13517": {
         "hours": 0,
         "minutes": 40
+    },
+    "135232": {
+        "hours": 0,
+        "minutes": 5
     },
     "135900": {
         "hours": 0,
@@ -347,13 +551,29 @@
         "hours": 0,
         "minutes": 0
     },
+    "13715": {
+        "hours": 0,
+        "minutes": 55
+    },
     "13762": {
         "hours": 0,
         "minutes": 17.5
     },
+    "13793": {
+        "hours": 24,
+        "minutes": 0
+    },
+    "13795": {
+        "hours": 0,
+        "minutes": 0
+    },
     "13882": {
         "hours": 0,
         "minutes": 0
+    },
+    "13915": {
+        "hours": 0,
+        "minutes": 37.5
     },
     "139173": {
         "hours": 0,
@@ -371,9 +591,33 @@
         "hours": 0,
         "minutes": 1.5
     },
+    "139614": {
+        "hours": 0,
+        "minutes": 9.5
+    },
+    "139890": {
+        "hours": 3,
+        "minutes": 0
+    },
+    "13995": {
+        "hours": 0,
+        "minutes": 12
+    },
+    "140032": {
+        "hours": 0,
+        "minutes": 7.0
+    },
+    "140392": {
+        "hours": 0,
+        "minutes": 25
+    },
     "140407": {
         "hours": 0,
         "minutes": 11.0
+    },
+    "140413": {
+        "hours": 0,
+        "minutes": 29
     },
     "140546": {
         "hours": 0,
@@ -387,9 +631,17 @@
         "hours": 0,
         "minutes": 0
     },
+    "14097": {
+        "hours": 0,
+        "minutes": 10
+    },
     "141006": {
         "hours": 0,
         "minutes": 0
+    },
+    "141009": {
+        "hours": 18.0,
+        "minutes": 35.0
     },
     "141110": {
         "hours": 0,
@@ -399,6 +651,10 @@
         "hours": 0,
         "minutes": 43.5
     },
+    "141268": {
+        "hours": 0,
+        "minutes": 7.5
+    },
     "141371": {
         "hours": 0,
         "minutes": 0
@@ -406,6 +662,14 @@
     "14165": {
         "hours": 0,
         "minutes": 0
+    },
+    "14176": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "141787": {
+        "hours": 0,
+        "minutes": 18
     },
     "14180": {
         "hours": 0,
@@ -451,16 +715,44 @@
         "hours": 0,
         "minutes": 30
     },
+    "14294": {
+        "hours": 0,
+        "minutes": 0
+    },
     "142961": {
         "hours": 0,
         "minutes": 0
+    },
+    "143005": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "14301": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "143069": {
+        "hours": 0,
+        "minutes": 47.5
     },
     "143089": {
         "hours": 0,
         "minutes": 17.5
     },
+    "143104": {
+        "hours": 0,
+        "minutes": 15
+    },
+    "143114": {
+        "hours": 0,
+        "minutes": 45
+    },
     "143225": {
         "hours": 48,
+        "minutes": 0
+    },
+    "143308": {
+        "hours": 0,
         "minutes": 0
     },
     "143333": {
@@ -471,6 +763,10 @@
         "hours": 0,
         "minutes": 35.0
     },
+    "143339": {
+        "hours": 0,
+        "minutes": 24.0
+    },
     "14364": {
         "hours": 0,
         "minutes": 0
@@ -478,6 +774,10 @@
     "14381": {
         "hours": 0,
         "minutes": 0
+    },
+    "143870": {
+        "hours": 2,
+        "minutes": 8
     },
     "14393": {
         "hours": 0,
@@ -491,7 +791,19 @@
         "hours": 0,
         "minutes": 20
     },
+    "14424": {
+        "hours": 0,
+        "minutes": 1.5
+    },
+    "144291": {
+        "hours": 0,
+        "minutes": 8.5
+    },
     "14453": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "14463": {
         "hours": 0,
         "minutes": 0
     },
@@ -503,9 +815,21 @@
         "hours": 0,
         "minutes": 30
     },
+    "144931": {
+        "hours": 10,
+        "minutes": 32
+    },
     "14495": {
         "hours": 9.0,
         "minutes": 20
+    },
+    "14511": {
+        "hours": 0,
+        "minutes": 5.0
+    },
+    "145182": {
+        "hours": 0,
+        "minutes": 17.5
     },
     "14522": {
         "hours": 0,
@@ -519,7 +843,15 @@
         "hours": 0,
         "minutes": 0
     },
+    "145731": {
+        "hours": 0,
+        "minutes": 0
+    },
     "145748": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "14589": {
         "hours": 0,
         "minutes": 0
     },
@@ -531,21 +863,45 @@
         "hours": 0,
         "minutes": 0
     },
+    "14607": {
+        "hours": 12.5,
+        "minutes": 20
+    },
     "146091": {
         "hours": 0,
         "minutes": 15
+    },
+    "14611": {
+        "hours": 0,
+        "minutes": 3
     },
     "14615": {
         "hours": 0,
         "minutes": 0
     },
+    "14616": {
+        "hours": 0,
+        "minutes": 20
+    },
     "14619": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "146334": {
         "hours": 0,
         "minutes": 0
     },
     "146375": {
         "hours": 0,
         "minutes": 2
+    },
+    "146881": {
+        "hours": 2,
+        "minutes": 30
+    },
+    "14691": {
+        "hours": 0,
+        "minutes": 0
     },
     "146916": {
         "hours": 0,
@@ -555,9 +911,25 @@
         "hours": 2,
         "minutes": 45
     },
+    "147218": {
+        "hours": 0,
+        "minutes": 103
+    },
+    "14723": {
+        "hours": 13.0,
+        "minutes": 0
+    },
     "147251": {
         "hours": 0,
         "minutes": 0
+    },
+    "14745": {
+        "hours": 0,
+        "minutes": 36.0
+    },
+    "147458": {
+        "hours": 0,
+        "minutes": 8
     },
     "14776": {
         "hours": 0,
@@ -583,19 +955,39 @@
         "hours": 0,
         "minutes": 22.5
     },
+    "14836": {
+        "hours": 4,
+        "minutes": 15
+    },
+    "14848": {
+        "hours": 0,
+        "minutes": 9
+    },
     "148515": {
         "hours": 0,
         "minutes": 27
     },
+    "14854": {
+        "hours": 0,
+        "minutes": 45
+    },
     "14858": {
         "hours": 0,
         "minutes": 0
+    },
+    "148747": {
+        "hours": 0,
+        "minutes": 35
     },
     "148793": {
         "hours": 0,
         "minutes": 0
     },
     "14881": {
+        "hours": 4,
+        "minutes": 0
+    },
+    "14883": {
         "hours": 4,
         "minutes": 0
     },
@@ -606,6 +998,18 @@
     "149202": {
         "hours": 0,
         "minutes": 40
+    },
+    "14948": {
+        "hours": 0,
+        "minutes": 19.0
+    },
+    "149543": {
+        "hours": 0,
+        "minutes": 15
+    },
+    "149548": {
+        "hours": 0,
+        "minutes": 20
     },
     "149550": {
         "hours": 0,
@@ -647,11 +1051,27 @@
         "hours": 0,
         "minutes": 42.5
     },
+    "15055": {
+        "hours": 0,
+        "minutes": 0
+    },
     "15093": {
         "hours": 0,
         "minutes": 10
     },
+    "150942": {
+        "hours": 0,
+        "minutes": 10
+    },
     "150995": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "151060": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "151092": {
         "hours": 0,
         "minutes": 0
     },
@@ -662,6 +1082,10 @@
     "15124": {
         "hours": 0,
         "minutes": 10
+    },
+    "151343": {
+        "hours": 0,
+        "minutes": 37.5
     },
     "15144": {
         "hours": 0,
@@ -682,6 +1106,10 @@
     "15178": {
         "hours": 0,
         "minutes": 0
+    },
+    "151893": {
+        "hours": 12,
+        "minutes": 5
     },
     "152227": {
         "hours": 0,
@@ -707,9 +1135,17 @@
         "hours": 0,
         "minutes": 0
     },
+    "15261": {
+        "hours": 0,
+        "minutes": 13.5
+    },
     "152931": {
         "hours": 0,
         "minutes": 15
+    },
+    "152952": {
+        "hours": 0,
+        "minutes": 55.0
     },
     "153154": {
         "hours": 0,
@@ -719,9 +1155,33 @@
         "hours": 0,
         "minutes": 42.0
     },
+    "15323": {
+        "hours": 0,
+        "minutes": 12.5
+    },
+    "153329": {
+        "hours": 0,
+        "minutes": 7
+    },
     "153375": {
         "hours": 0,
         "minutes": 32
+    },
+    "153615": {
+        "hours": 0,
+        "minutes": 7.5
+    },
+    "153898": {
+        "hours": 0,
+        "minutes": 50
+    },
+    "15414": {
+        "hours": 12,
+        "minutes": 0
+    },
+    "15431": {
+        "hours": 0,
+        "minutes": 72.5
     },
     "154584": {
         "hours": 0,
@@ -730,6 +1190,10 @@
     "155108": {
         "hours": 0,
         "minutes": 15
+    },
+    "155492": {
+        "hours": 0,
+        "minutes": 0
     },
     "15569": {
         "hours": 2,
@@ -743,9 +1207,17 @@
         "hours": 0,
         "minutes": 40
     },
+    "155971": {
+        "hours": 0,
+        "minutes": 22.5
+    },
     "15603": {
         "hours": 3,
         "minutes": 0
+    },
+    "156037": {
+        "hours": 0,
+        "minutes": 141.5
     },
     "156433": {
         "hours": 0,
@@ -763,6 +1235,14 @@
         "hours": 0,
         "minutes": 20.5
     },
+    "15707": {
+        "hours": 0,
+        "minutes": 30
+    },
+    "15728": {
+        "hours": 0,
+        "minutes": 55
+    },
     "15740": {
         "hours": 0,
         "minutes": 45
@@ -771,9 +1251,17 @@
         "hours": 3.5,
         "minutes": 25
     },
+    "157899": {
+        "hours": 8,
+        "minutes": 5.5
+    },
     "15825": {
         "hours": 0,
         "minutes": 71
+    },
+    "158383": {
+        "hours": 0,
+        "minutes": 6
     },
     "15860": {
         "hours": 3,
@@ -807,6 +1295,10 @@
         "hours": 0,
         "minutes": 5.5
     },
+    "159357": {
+        "hours": 0,
+        "minutes": 0
+    },
     "159370": {
         "hours": 0,
         "minutes": 30
@@ -819,13 +1311,33 @@
         "hours": 0,
         "minutes": 10
     },
+    "160042": {
+        "hours": 0,
+        "minutes": 27.5
+    },
     "160124": {
+        "hours": 0,
+        "minutes": 15
+    },
+    "160157": {
         "hours": 0,
         "minutes": 15
     },
     "160630": {
         "hours": 0,
         "minutes": 82.5
+    },
+    "160633": {
+        "hours": 2.5,
+        "minutes": 0
+    },
+    "16092": {
+        "hours": 0,
+        "minutes": 20.0
+    },
+    "160929": {
+        "hours": 2,
+        "minutes": 10
     },
     "161108": {
         "hours": 0,
@@ -847,6 +1359,14 @@
         "hours": 0,
         "minutes": 0
     },
+    "161571": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "16160": {
+        "hours": 0,
+        "minutes": 12.5
+    },
     "16162": {
         "hours": 0,
         "minutes": 126.0
@@ -867,13 +1387,33 @@
         "hours": 2,
         "minutes": 20
     },
+    "162690": {
+        "hours": 2,
+        "minutes": 10
+    },
     "162828": {
         "hours": 0,
         "minutes": 0
     },
+    "162899": {
+        "hours": 0,
+        "minutes": 25
+    },
     "162935": {
         "hours": 0,
         "minutes": 0
+    },
+    "163001": {
+        "hours": 8.0,
+        "minutes": 10
+    },
+    "163044": {
+        "hours": 0,
+        "minutes": 27
+    },
+    "16311": {
+        "hours": 0,
+        "minutes": 17.5
     },
     "163162": {
         "hours": 0,
@@ -919,6 +1459,18 @@
         "hours": 0,
         "minutes": 0
     },
+    "16494": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "165047": {
+        "hours": 0,
+        "minutes": 35.5
+    },
+    "165112": {
+        "hours": 0,
+        "minutes": 82.5
+    },
     "165225": {
         "hours": 2,
         "minutes": 0
@@ -927,9 +1479,25 @@
         "hours": 0,
         "minutes": 0
     },
+    "165289": {
+        "hours": 0,
+        "minutes": 27.5
+    },
     "16541": {
         "hours": 0,
         "minutes": 35
+    },
+    "16546": {
+        "hours": 0,
+        "minutes": 4.5
+    },
+    "165657": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "16578": {
+        "hours": 0,
+        "minutes": 0
     },
     "165987": {
         "hours": 0,
@@ -938,6 +1506,18 @@
     "16599": {
         "hours": 0,
         "minutes": 17.5
+    },
+    "16601": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "16616": {
+        "hours": 0,
+        "minutes": 35
+    },
+    "166252": {
+        "hours": 0,
+        "minutes": 0
     },
     "16644": {
         "hours": 0,
@@ -959,6 +1539,14 @@
         "hours": 0,
         "minutes": 15
     },
+    "16703": {
+        "hours": 0,
+        "minutes": 35.0
+    },
+    "167120": {
+        "hours": 0,
+        "minutes": 45
+    },
     "167139": {
         "hours": 3,
         "minutes": 0
@@ -967,12 +1555,28 @@
         "hours": 0,
         "minutes": 13.5
     },
+    "167351": {
+        "hours": 0,
+        "minutes": 0
+    },
     "16738": {
         "hours": 0,
         "minutes": 17.5
     },
     "167390": {
         "hours": 2.5,
+        "minutes": 17.5
+    },
+    "16746": {
+        "hours": 0,
+        "minutes": 60
+    },
+    "16765": {
+        "hours": 0,
+        "minutes": 42.0
+    },
+    "16789": {
+        "hours": 0,
         "minutes": 17.5
     },
     "16800": {
@@ -1027,6 +1631,10 @@
         "hours": 0,
         "minutes": 47.5
     },
+    "168904": {
+        "hours": 0,
+        "minutes": 90.5
+    },
     "16898": {
         "hours": 0,
         "minutes": 0
@@ -1039,6 +1647,10 @@
         "hours": 0,
         "minutes": 27.5
     },
+    "16911": {
+        "hours": 0,
+        "minutes": 52
+    },
     "16940": {
         "hours": 0,
         "minutes": 30
@@ -1047,9 +1659,21 @@
         "hours": 0,
         "minutes": 0
     },
+    "169587": {
+        "hours": 0,
+        "minutes": 20
+    },
+    "169702": {
+        "hours": 0,
+        "minutes": 10
+    },
     "16988": {
         "hours": 0,
         "minutes": 60
+    },
+    "169974": {
+        "hours": 0,
+        "minutes": 4
     },
     "169982": {
         "hours": 7.0,
@@ -1079,13 +1703,37 @@
         "hours": 0,
         "minutes": 0
     },
+    "17043": {
+        "hours": 4.5,
+        "minutes": 10
+    },
+    "170600": {
+        "hours": 0,
+        "minutes": 19.5
+    },
     "17074": {
         "hours": 0,
         "minutes": 2
     },
+    "171142": {
+        "hours": 6,
+        "minutes": 15
+    },
+    "17116": {
+        "hours": 0,
+        "minutes": 20
+    },
     "17129": {
         "hours": 0,
         "minutes": 19
+    },
+    "17136": {
+        "hours": 0,
+        "minutes": 15
+    },
+    "171420": {
+        "hours": 2,
+        "minutes": 9.5
     },
     "171463": {
         "hours": 0,
@@ -1119,9 +1767,21 @@
         "hours": 0,
         "minutes": 27.5
     },
+    "172172": {
+        "hours": 0,
+        "minutes": 4
+    },
+    "17222": {
+        "hours": 0,
+        "minutes": 35.0
+    },
     "17229": {
         "hours": 0,
         "minutes": 15
+    },
+    "17239": {
+        "hours": 0,
+        "minutes": 25.0
     },
     "17242": {
         "hours": 0,
@@ -1131,6 +1791,10 @@
         "hours": 0,
         "minutes": 0
     },
+    "172476": {
+        "hours": 0,
+        "minutes": 5
+    },
     "17258": {
         "hours": 0,
         "minutes": 0
@@ -1139,7 +1803,15 @@
         "hours": 0,
         "minutes": 0
     },
+    "172683": {
+        "hours": 0,
+        "minutes": 7
+    },
     "172777": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "172778": {
         "hours": 0,
         "minutes": 0
     },
@@ -1167,6 +1839,18 @@
         "hours": 0,
         "minutes": 25
     },
+    "17520": {
+        "hours": 0,
+        "minutes": 10
+    },
+    "175520": {
+        "hours": 0,
+        "minutes": 8
+    },
+    "175547": {
+        "hours": 3,
+        "minutes": 17.5
+    },
     "17570": {
         "hours": 0,
         "minutes": 5
@@ -1178,6 +1862,10 @@
     "17609": {
         "hours": 0,
         "minutes": 0
+    },
+    "17641": {
+        "hours": 0,
+        "minutes": 15.0
     },
     "17653": {
         "hours": 0,
@@ -1191,6 +1879,10 @@
         "hours": 0,
         "minutes": 19.5
     },
+    "17753": {
+        "hours": 0,
+        "minutes": 32.5
+    },
     "177777": {
         "hours": 0,
         "minutes": 45
@@ -1198,6 +1890,10 @@
     "17785": {
         "hours": 0,
         "minutes": 15
+    },
+    "17788": {
+        "hours": 0,
+        "minutes": 0
     },
     "17793": {
         "hours": 0,
@@ -1207,9 +1903,25 @@
         "hours": 0,
         "minutes": 70
     },
+    "17813": {
+        "hours": 2.5,
+        "minutes": 20
+    },
     "17815": {
         "hours": 3,
         "minutes": 0
+    },
+    "178152": {
+        "hours": 0,
+        "minutes": 17.5
+    },
+    "178166": {
+        "hours": 0,
+        "minutes": 35
+    },
+    "17820": {
+        "hours": 0,
+        "minutes": 30
     },
     "17832": {
         "hours": 0,
@@ -1267,6 +1979,14 @@
         "hours": 0,
         "minutes": 45
     },
+    "180150": {
+        "hours": 7.0,
+        "minutes": 10
+    },
+    "180194": {
+        "hours": 0,
+        "minutes": 0
+    },
     "180195": {
         "hours": 0,
         "minutes": 0
@@ -1291,6 +2011,10 @@
         "hours": 4,
         "minutes": 37.5
     },
+    "181025": {
+        "hours": 0,
+        "minutes": 112.5
+    },
     "18112": {
         "hours": 0,
         "minutes": 50
@@ -1299,13 +2023,37 @@
         "hours": 0,
         "minutes": 0
     },
+    "18128": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "181340": {
+        "hours": 0,
+        "minutes": 20
+    },
     "18153": {
         "hours": 0,
         "minutes": 14.0
     },
+    "18176": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "18190": {
+        "hours": 0,
+        "minutes": 12.5
+    },
     "18218": {
         "hours": 0,
         "minutes": 20
+    },
+    "18236": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "18244": {
+        "hours": 0,
+        "minutes": 45
     },
     "18249": {
         "hours": 0,
@@ -1319,13 +2067,33 @@
         "hours": 0,
         "minutes": 32
     },
+    "182679": {
+        "hours": 0,
+        "minutes": 25
+    },
+    "18319": {
+        "hours": 0,
+        "minutes": 40
+    },
+    "18346": {
+        "hours": 0,
+        "minutes": 90
+    },
     "18355": {
         "hours": 3,
         "minutes": 30
     },
+    "18385": {
+        "hours": 0,
+        "minutes": 42
+    },
     "184197": {
         "hours": 8,
         "minutes": 10
+    },
+    "18433": {
+        "hours": 0,
+        "minutes": 0
     },
     "18438": {
         "hours": 0,
@@ -1334,6 +2102,14 @@
     "18442": {
         "hours": 0,
         "minutes": 36.5
+    },
+    "18493": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "185339": {
+        "hours": 0,
+        "minutes": 55
     },
     "18536": {
         "hours": 0,
@@ -1355,17 +2131,53 @@
         "hours": 0,
         "minutes": 12
     },
+    "185977": {
+        "hours": 0,
+        "minutes": 13.5
+    },
+    "186428": {
+        "hours": 0,
+        "minutes": 37.5
+    },
+    "186447": {
+        "hours": 0,
+        "minutes": 60.0
+    },
     "186509": {
         "hours": 0,
         "minutes": 60
+    },
+    "186691": {
+        "hours": 24,
+        "minutes": 5
     },
     "186731": {
         "hours": 0,
         "minutes": 3.0
     },
+    "186910": {
+        "hours": 0,
+        "minutes": 50.0
+    },
+    "187502": {
+        "hours": 0,
+        "minutes": 5.5
+    },
+    "18778": {
+        "hours": 0,
+        "minutes": 13.0
+    },
+    "187924": {
+        "hours": 0,
+        "minutes": 30
+    },
     "18798": {
         "hours": 0,
         "minutes": 52.5
+    },
+    "18802": {
+        "hours": 0,
+        "minutes": 54.5
     },
     "18811": {
         "hours": 0,
@@ -1383,6 +2195,10 @@
         "hours": 0,
         "minutes": 25.0
     },
+    "18855": {
+        "hours": 0,
+        "minutes": 25
+    },
     "188688": {
         "hours": 0,
         "minutes": 40.5
@@ -1390,6 +2206,10 @@
     "188690": {
         "hours": 0,
         "minutes": 37.5
+    },
+    "18919": {
+        "hours": 0,
+        "minutes": 0
     },
     "18921": {
         "hours": 0,
@@ -1407,9 +2227,17 @@
         "hours": 0,
         "minutes": 0
     },
+    "18953": {
+        "hours": 0,
+        "minutes": 0
+    },
     "18954": {
         "hours": 0,
         "minutes": 62
+    },
+    "18958": {
+        "hours": 0,
+        "minutes": 0
     },
     "18979": {
         "hours": 0,
@@ -1427,6 +2255,10 @@
         "hours": 0,
         "minutes": 63
     },
+    "190813": {
+        "hours": 0,
+        "minutes": 0
+    },
     "19118": {
         "hours": 0,
         "minutes": 0
@@ -1439,17 +2271,41 @@
         "hours": 0,
         "minutes": 10.5
     },
+    "19156": {
+        "hours": 0,
+        "minutes": 39.5
+    },
+    "19159": {
+        "hours": 0,
+        "minutes": 0
+    },
     "19203": {
         "hours": 0,
         "minutes": 37.5
+    },
+    "192070": {
+        "hours": 0,
+        "minutes": 37.5
+    },
+    "19221": {
+        "hours": 0,
+        "minutes": 14.0
     },
     "19273": {
         "hours": 0,
         "minutes": 14
     },
+    "19275": {
+        "hours": 0,
+        "minutes": 37.5
+    },
     "19282": {
         "hours": 0,
         "minutes": 37.5
+    },
+    "193863": {
+        "hours": 2,
+        "minutes": 34.0
     },
     "19408": {
         "hours": 2,
@@ -1458,6 +2314,10 @@
     "19409": {
         "hours": 0,
         "minutes": 9.0
+    },
+    "19417": {
+        "hours": 0,
+        "minutes": 17.0
     },
     "194356": {
         "hours": 3,
@@ -1471,9 +2331,17 @@
         "hours": 0,
         "minutes": 52.5
     },
+    "194697": {
+        "hours": 0,
+        "minutes": 60
+    },
     "19477": {
         "hours": 0,
         "minutes": 0
+    },
+    "19478": {
+        "hours": 0,
+        "minutes": 30
     },
     "19483": {
         "hours": 0,
@@ -1494,6 +2362,10 @@
     "19555": {
         "hours": 0,
         "minutes": 27.5
+    },
+    "19560": {
+        "hours": 0,
+        "minutes": 55.0
     },
     "195729": {
         "hours": 0,
@@ -1527,6 +2399,10 @@
         "hours": 4,
         "minutes": 0
     },
+    "196892": {
+        "hours": 0,
+        "minutes": 0
+    },
     "19706": {
         "hours": 0,
         "minutes": 2.5
@@ -1551,9 +2427,25 @@
         "hours": 0,
         "minutes": 2.5
     },
+    "198197": {
+        "hours": 0,
+        "minutes": 8.5
+    },
+    "19861": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "19863": {
+        "hours": 0,
+        "minutes": 15.0
+    },
     "198656": {
         "hours": 0,
         "minutes": 30
+    },
+    "198771": {
+        "hours": 0,
+        "minutes": 0
     },
     "19917": {
         "hours": 8,
@@ -1575,8 +2467,16 @@
         "hours": 0,
         "minutes": 0
     },
+    "20004": {
+        "hours": 0,
+        "minutes": 25.5
+    },
     "20025": {
         "hours": 0,
+        "minutes": 0
+    },
+    "20037": {
+        "hours": 4,
         "minutes": 0
     },
     "200374": {
@@ -1595,6 +2495,10 @@
         "hours": 0,
         "minutes": 30
     },
+    "200935": {
+        "hours": 0,
+        "minutes": 29.0
+    },
     "20096": {
         "hours": 0,
         "minutes": 0
@@ -1611,6 +2515,14 @@
         "hours": 0,
         "minutes": 0
     },
+    "20155": {
+        "hours": 0,
+        "minutes": 27
+    },
+    "201724": {
+        "hours": 0,
+        "minutes": 6.5
+    },
     "20177": {
         "hours": 0,
         "minutes": 0
@@ -1622,6 +2534,10 @@
     "20200": {
         "hours": 0,
         "minutes": 42.5
+    },
+    "202023": {
+        "hours": 0,
+        "minutes": 60
     },
     "20207": {
         "hours": 0,
@@ -1635,7 +2551,19 @@
         "hours": 4,
         "minutes": 8
     },
+    "202463": {
+        "hours": 0,
+        "minutes": 15
+    },
     "20247": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "20261": {
+        "hours": 0,
+        "minutes": 45
+    },
+    "202838": {
         "hours": 0,
         "minutes": 0
     },
@@ -1647,9 +2575,17 @@
         "hours": 0,
         "minutes": 37.5
     },
+    "203298": {
+        "hours": 3,
+        "minutes": 55.0
+    },
     "203314": {
         "hours": 0,
         "minutes": 0
+    },
+    "20340": {
+        "hours": 0,
+        "minutes": 17.5
     },
     "20364": {
         "hours": 0,
@@ -1659,11 +2595,35 @@
         "hours": 0,
         "minutes": 56.0
     },
+    "20378": {
+        "hours": 0,
+        "minutes": 18.5
+    },
+    "20382": {
+        "hours": 0,
+        "minutes": 14.0
+    },
+    "20388": {
+        "hours": 3,
+        "minutes": 0
+    },
+    "203947": {
+        "hours": 2,
+        "minutes": 60
+    },
     "20400": {
         "hours": 0,
         "minutes": 0
     },
+    "20408": {
+        "hours": 0,
+        "minutes": 21.0
+    },
     "20427": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "20433": {
         "hours": 0,
         "minutes": 0
     },
@@ -1675,6 +2635,10 @@
         "hours": 0,
         "minutes": 25.0
     },
+    "20467": {
+        "hours": 0,
+        "minutes": 45
+    },
     "20469": {
         "hours": 0,
         "minutes": 5
@@ -1683,9 +2647,17 @@
         "hours": 0,
         "minutes": 0
     },
+    "20475": {
+        "hours": 0,
+        "minutes": 40
+    },
     "20480": {
         "hours": 4,
         "minutes": 30
+    },
+    "20520": {
+        "hours": 0,
+        "minutes": 17.5
     },
     "20538": {
         "hours": 0,
@@ -1719,7 +2691,15 @@
         "hours": 0,
         "minutes": 60.0
     },
+    "20582": {
+        "hours": 0,
+        "minutes": 4.0
+    },
     "20604": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "20636": {
         "hours": 0,
         "minutes": 0
     },
@@ -1727,9 +2707,17 @@
         "hours": 0,
         "minutes": 0
     },
+    "206693": {
+        "hours": 0,
+        "minutes": 45
+    },
     "20675": {
         "hours": 0,
         "minutes": 52.5
+    },
+    "206916": {
+        "hours": 4,
+        "minutes": 0
     },
     "20701": {
         "hours": 0,
@@ -1751,6 +2739,10 @@
         "hours": 0,
         "minutes": 71.5
     },
+    "20816": {
+        "hours": 0,
+        "minutes": 0
+    },
     "20826": {
         "hours": 0,
         "minutes": 0
@@ -1758,6 +2750,10 @@
     "20846": {
         "hours": 0,
         "minutes": 0
+    },
+    "20859": {
+        "hours": 0,
+        "minutes": 30
     },
     "20906": {
         "hours": 0,
@@ -1771,13 +2767,33 @@
         "hours": 0,
         "minutes": 0
     },
+    "20953": {
+        "hours": 0,
+        "minutes": 30
+    },
     "20985": {
         "hours": 0,
         "minutes": 15
     },
+    "209990": {
+        "hours": 0,
+        "minutes": 30
+    },
+    "21007": {
+        "hours": 0,
+        "minutes": 45
+    },
+    "21027": {
+        "hours": 0,
+        "minutes": 45
+    },
     "21036": {
         "hours": 0,
         "minutes": 0
+    },
+    "210477": {
+        "hours": 8,
+        "minutes": 4
     },
     "21048": {
         "hours": 12,
@@ -1787,9 +2803,17 @@
         "hours": 0,
         "minutes": 25
     },
+    "21053": {
+        "hours": 4,
+        "minutes": 10
+    },
     "21076": {
         "hours": 0,
         "minutes": 46.5
+    },
+    "21092": {
+        "hours": 0,
+        "minutes": 10
     },
     "21108": {
         "hours": 0,
@@ -1807,17 +2831,45 @@
         "hours": 0,
         "minutes": 24.0
     },
+    "21229": {
+        "hours": 0,
+        "minutes": 60
+    },
     "212389": {
         "hours": 0,
         "minutes": 3
+    },
+    "21239": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "212390": {
+        "hours": 0,
+        "minutes": 58.0
     },
     "21246": {
         "hours": 0,
         "minutes": 0
     },
+    "212464": {
+        "hours": 0,
+        "minutes": 35.5
+    },
     "212505": {
         "hours": 0,
         "minutes": 0
+    },
+    "212694": {
+        "hours": 0,
+        "minutes": 60
+    },
+    "212737": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "212774": {
+        "hours": 2.5,
+        "minutes": 10
     },
     "212776": {
         "hours": 0,
@@ -1831,9 +2883,25 @@
         "hours": 0,
         "minutes": 0
     },
+    "212900": {
+        "hours": 0,
+        "minutes": 40
+    },
+    "212905": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "212955": {
+        "hours": 0,
+        "minutes": 25
+    },
     "213015": {
         "hours": 16,
         "minutes": 20
+    },
+    "213016": {
+        "hours": 0,
+        "minutes": 34.0
     },
     "213036": {
         "hours": 0,
@@ -1843,17 +2911,49 @@
         "hours": 0,
         "minutes": 13.0
     },
+    "213088": {
+        "hours": 0,
+        "minutes": 23
+    },
+    "213089": {
+        "hours": 0,
+        "minutes": 38.5
+    },
     "213190": {
         "hours": 0,
         "minutes": 13
+    },
+    "213201": {
+        "hours": 2,
+        "minutes": 10
+    },
+    "213223": {
+        "hours": 0,
+        "minutes": 45
+    },
+    "213226": {
+        "hours": 0,
+        "minutes": 18
     },
     "21323": {
         "hours": 0,
         "minutes": 15
     },
+    "213234": {
+        "hours": 0,
+        "minutes": 21.5
+    },
+    "213256": {
+        "hours": 2,
+        "minutes": 80.5
+    },
     "21329": {
         "hours": 0,
         "minutes": 94.0
+    },
+    "213376": {
+        "hours": 0,
+        "minutes": 14
     },
     "213462": {
         "hours": 0,
@@ -1867,6 +2967,14 @@
         "hours": 0,
         "minutes": 17.5
     },
+    "21356": {
+        "hours": 0,
+        "minutes": 30
+    },
+    "213571": {
+        "hours": 0,
+        "minutes": 48
+    },
     "213585": {
         "hours": 0,
         "minutes": 14
@@ -1874,6 +2982,10 @@
     "213608": {
         "hours": 0,
         "minutes": 30
+    },
+    "213614": {
+        "hours": 0,
+        "minutes": 115.0
     },
     "21364": {
         "hours": 0,
@@ -1886,6 +2998,10 @@
     "213676": {
         "hours": 0,
         "minutes": 50
+    },
+    "213682": {
+        "hours": 0,
+        "minutes": 25
     },
     "213699": {
         "hours": 2.5,
@@ -1903,6 +3019,14 @@
         "hours": 0,
         "minutes": 0
     },
+    "213762": {
+        "hours": 6,
+        "minutes": 12.5
+    },
+    "213912": {
+        "hours": 0,
+        "minutes": 45
+    },
     "21392": {
         "hours": 0,
         "minutes": 60
@@ -1911,6 +3035,10 @@
         "hours": 0,
         "minutes": 0
     },
+    "214026": {
+        "hours": 36.0,
+        "minutes": 65.0
+    },
     "214051": {
         "hours": 0,
         "minutes": 15
@@ -1918,6 +3046,10 @@
     "214056": {
         "hours": 0,
         "minutes": 55
+    },
+    "214104": {
+        "hours": 0,
+        "minutes": 67.5
     },
     "214112": {
         "hours": 0,
@@ -1943,6 +3075,10 @@
         "hours": 0,
         "minutes": 10.5
     },
+    "214372": {
+        "hours": 0,
+        "minutes": 27.5
+    },
     "214398": {
         "hours": 0,
         "minutes": 0
@@ -1959,13 +3095,33 @@
         "hours": 0,
         "minutes": 22.5
     },
+    "214607": {
+        "hours": 4,
+        "minutes": 0
+    },
+    "214647": {
+        "hours": 0,
+        "minutes": 25.0
+    },
     "214649": {
         "hours": 0,
         "minutes": 55.0
     },
+    "214697": {
+        "hours": 0,
+        "minutes": 15
+    },
     "214705": {
         "hours": 0,
         "minutes": 76.5
+    },
+    "214707": {
+        "hours": 2.5,
+        "minutes": 9.5
+    },
+    "214709": {
+        "hours": 0,
+        "minutes": 35
     },
     "214724": {
         "hours": 6.5,
@@ -1975,6 +3131,10 @@
         "hours": 0,
         "minutes": 4
     },
+    "21475": {
+        "hours": 0,
+        "minutes": 9.0
+    },
     "214759": {
         "hours": 0,
         "minutes": 3.5
@@ -1982,6 +3142,14 @@
     "214762": {
         "hours": 0,
         "minutes": 9.0
+    },
+    "214765": {
+        "hours": 0,
+        "minutes": 45
+    },
+    "214802": {
+        "hours": 0,
+        "minutes": 0
     },
     "214877": {
         "hours": 8,
@@ -1995,6 +3163,14 @@
         "hours": 0,
         "minutes": 15
     },
+    "214945": {
+        "hours": 0,
+        "minutes": 25
+    },
+    "214947": {
+        "hours": 3.5,
+        "minutes": 5
+    },
     "214961": {
         "hours": 0,
         "minutes": 6.0
@@ -2007,11 +3183,19 @@
         "hours": 0,
         "minutes": 45
     },
+    "215039": {
+        "hours": 0,
+        "minutes": 40
+    },
     "215042": {
         "hours": 0,
         "minutes": 0
     },
     "215044": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "215089": {
         "hours": 0,
         "minutes": 0
     },
@@ -2030,6 +3214,18 @@
     "215184": {
         "hours": 0,
         "minutes": 0
+    },
+    "21519": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "215207": {
+        "hours": 0,
+        "minutes": 23.0
+    },
+    "215278": {
+        "hours": 0,
+        "minutes": 5
     },
     "215283": {
         "hours": 0,
@@ -2050,6 +3246,10 @@
     "215506": {
         "hours": 0,
         "minutes": 2
+    },
+    "215513": {
+        "hours": 0,
+        "minutes": 43.5
     },
     "215562": {
         "hours": 0,
@@ -2075,9 +3275,21 @@
         "hours": 0,
         "minutes": 45
     },
+    "215606": {
+        "hours": 0,
+        "minutes": 17.5
+    },
+    "215619": {
+        "hours": 0,
+        "minutes": 7.0
+    },
     "215625": {
         "hours": 0,
         "minutes": 56
+    },
+    "215627": {
+        "hours": 0,
+        "minutes": 3
     },
     "215666": {
         "hours": 0,
@@ -2111,9 +3323,17 @@
         "hours": 0,
         "minutes": 40.0
     },
+    "215825": {
+        "hours": 0,
+        "minutes": 20
+    },
     "215829": {
         "hours": 0,
         "minutes": 42.5
+    },
+    "215895": {
+        "hours": 0,
+        "minutes": 60
     },
     "215944": {
         "hours": 3,
@@ -2127,12 +3347,24 @@
         "hours": 0,
         "minutes": 95.5
     },
+    "2160916": {
+        "hours": 0,
+        "minutes": 22.5
+    },
+    "216096": {
+        "hours": 0,
+        "minutes": 72.5
+    },
     "216105": {
         "hours": 0,
         "minutes": 30
     },
     "216108": {
         "hours": 7.5,
+        "minutes": 0
+    },
+    "216142": {
+        "hours": 0,
         "minutes": 0
     },
     "216226": {
@@ -2179,6 +3411,10 @@
         "hours": 0,
         "minutes": 15
     },
+    "21663": {
+        "hours": 0,
+        "minutes": 2.5
+    },
     "216656": {
         "hours": 0,
         "minutes": 40
@@ -2195,6 +3431,18 @@
         "hours": 0,
         "minutes": 50.5
     },
+    "216732": {
+        "hours": 0,
+        "minutes": 12.5
+    },
+    "216742": {
+        "hours": 0,
+        "minutes": 60
+    },
+    "216766": {
+        "hours": 0,
+        "minutes": 14.5
+    },
     "216775": {
         "hours": 0,
         "minutes": 35
@@ -2203,6 +3451,10 @@
         "hours": 0,
         "minutes": 0
     },
+    "216871": {
+        "hours": 2,
+        "minutes": 6.5
+    },
     "216980": {
         "hours": 0,
         "minutes": 31.5
@@ -2210,6 +3462,10 @@
     "217000": {
         "hours": 0,
         "minutes": 47.5
+    },
+    "217065": {
+        "hours": 0,
+        "minutes": 40.0
     },
     "217072": {
         "hours": 0,
@@ -2223,11 +3479,27 @@
         "hours": 0,
         "minutes": 20
     },
+    "217125": {
+        "hours": 0,
+        "minutes": 56.0
+    },
     "217183": {
         "hours": 5.5,
         "minutes": 0
     },
     "217225": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "217241": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "217243": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "217278": {
         "hours": 0,
         "minutes": 0
     },
@@ -2255,13 +3527,37 @@
         "hours": 3,
         "minutes": 96
     },
+    "217888": {
+        "hours": 0,
+        "minutes": 65.0
+    },
+    "21793": {
+        "hours": 0,
+        "minutes": 30
+    },
     "217955": {
         "hours": 0,
         "minutes": 35.0
     },
+    "217988": {
+        "hours": 0,
+        "minutes": 73.5
+    },
+    "217993": {
+        "hours": 0,
+        "minutes": 65.0
+    },
     "218026": {
         "hours": 0,
         "minutes": 60
+    },
+    "218031": {
+        "hours": 0,
+        "minutes": 82.5
+    },
+    "218072": {
+        "hours": 0,
+        "minutes": 43.5
     },
     "218073": {
         "hours": 0,
@@ -2270,6 +3566,10 @@
     "218080": {
         "hours": 0,
         "minutes": 11.5
+    },
+    "218085": {
+        "hours": 14.0,
+        "minutes": 5
     },
     "218106": {
         "hours": 0,
@@ -2287,9 +3587,17 @@
         "hours": 0,
         "minutes": 3
     },
+    "218300": {
+        "hours": 0,
+        "minutes": 17.5
+    },
     "218317": {
         "hours": 0,
         "minutes": 13.5
+    },
+    "218320": {
+        "hours": 0,
+        "minutes": 0
     },
     "218327": {
         "hours": 0,
@@ -2307,6 +3615,10 @@
         "hours": 0,
         "minutes": 0
     },
+    "218370": {
+        "hours": 0,
+        "minutes": 10
+    },
     "21838": {
         "hours": 0,
         "minutes": 55
@@ -2314,6 +3626,10 @@
     "218443": {
         "hours": 0,
         "minutes": 2.5
+    },
+    "218460": {
+        "hours": 0,
+        "minutes": 48.0
     },
     "218467": {
         "hours": 0,
@@ -2335,9 +3651,17 @@
         "hours": 0,
         "minutes": 8.5
     },
+    "21853": {
+        "hours": 0,
+        "minutes": 5
+    },
     "218560": {
         "hours": 0,
         "minutes": 20.0
+    },
+    "218584": {
+        "hours": 0,
+        "minutes": 26
     },
     "218620": {
         "hours": 0,
@@ -2347,9 +3671,17 @@
         "hours": 0,
         "minutes": 11.0
     },
+    "218651": {
+        "hours": 0,
+        "minutes": 9
+    },
     "218664": {
         "hours": 0,
         "minutes": 34
+    },
+    "218698": {
+        "hours": 0,
+        "minutes": 27.5
     },
     "218770": {
         "hours": 0,
@@ -2383,6 +3715,10 @@
         "hours": 0,
         "minutes": 60
     },
+    "218952": {
+        "hours": 0,
+        "minutes": 35.0
+    },
     "218953": {
         "hours": 0,
         "minutes": 50
@@ -2394,6 +3730,10 @@
     "219004": {
         "hours": 0,
         "minutes": 75
+    },
+    "219045": {
+        "hours": 0,
+        "minutes": 12.5
     },
     "219053": {
         "hours": 0,
@@ -2411,6 +3751,10 @@
         "hours": 0,
         "minutes": 56
     },
+    "219127": {
+        "hours": 0,
+        "minutes": 13.0
+    },
     "219141": {
         "hours": 0,
         "minutes": 37.5
@@ -2427,6 +3771,18 @@
         "hours": 5.0,
         "minutes": 13.5
     },
+    "219475": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "219490": {
+        "hours": 0,
+        "minutes": 66
+    },
+    "219512": {
+        "hours": 0,
+        "minutes": 30
+    },
     "219630": {
         "hours": 0,
         "minutes": 30.5
@@ -2434,6 +3790,10 @@
     "219636": {
         "hours": 0,
         "minutes": 20
+    },
+    "219643": {
+        "hours": 5.0,
+        "minutes": 1.5
     },
     "219678": {
         "hours": 0,
@@ -2451,9 +3811,21 @@
         "hours": 0,
         "minutes": 50.0
     },
+    "219779": {
+        "hours": 0,
+        "minutes": 45.0
+    },
+    "219811": {
+        "hours": 0,
+        "minutes": 0
+    },
     "219920": {
         "hours": 0,
         "minutes": 10
+    },
+    "219923": {
+        "hours": 0,
+        "minutes": 35
     },
     "219933": {
         "hours": 0,
@@ -2466,6 +3838,10 @@
     "219987": {
         "hours": 0,
         "minutes": 37.5
+    },
+    "219993": {
+        "hours": 0,
+        "minutes": 20
     },
     "220080": {
         "hours": 0,
@@ -2491,9 +3867,25 @@
         "hours": 3,
         "minutes": 22.5
     },
+    "220320": {
+        "hours": 0,
+        "minutes": 23.5
+    },
+    "220390": {
+        "hours": 0,
+        "minutes": 0
+    },
     "220397": {
         "hours": 0,
         "minutes": 60
+    },
+    "220400": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "220406": {
+        "hours": 0,
+        "minutes": 0
     },
     "220449": {
         "hours": 4,
@@ -2510,6 +3902,14 @@
     "220514": {
         "hours": 0,
         "minutes": 0
+    },
+    "220519": {
+        "hours": 0,
+        "minutes": 55.0
+    },
+    "220554": {
+        "hours": 0,
+        "minutes": 4
     },
     "220555": {
         "hours": 7.0,
@@ -2551,13 +3951,29 @@
         "hours": 0,
         "minutes": 52.5
     },
+    "220837": {
+        "hours": 0,
+        "minutes": 20
+    },
+    "220842": {
+        "hours": 0,
+        "minutes": 0
+    },
     "220870": {
         "hours": 8,
         "minutes": 4.0
     },
+    "220915": {
+        "hours": 0,
+        "minutes": 14
+    },
     "220935": {
         "hours": 0,
         "minutes": 30
+    },
+    "221002": {
+        "hours": 13.0,
+        "minutes": 5
     },
     "221005": {
         "hours": 0,
@@ -2579,6 +3995,14 @@
         "hours": 0,
         "minutes": 26.0
     },
+    "221190": {
+        "hours": 0,
+        "minutes": 18
+    },
+    "221206": {
+        "hours": 0,
+        "minutes": 20
+    },
     "221224": {
         "hours": 0,
         "minutes": 30
@@ -2587,9 +4011,21 @@
         "hours": 0,
         "minutes": 35
     },
+    "221280": {
+        "hours": 0,
+        "minutes": 13.5
+    },
+    "221283": {
+        "hours": 0,
+        "minutes": 0
+    },
     "221285": {
         "hours": 0,
         "minutes": 10
+    },
+    "221295": {
+        "hours": 0,
+        "minutes": 9.0
     },
     "221305": {
         "hours": 0,
@@ -2615,6 +4051,10 @@
         "hours": 0,
         "minutes": 2
     },
+    "22172": {
+        "hours": 0,
+        "minutes": 10
+    },
     "22180": {
         "hours": 0,
         "minutes": 0
@@ -2623,11 +4063,39 @@
         "hours": 0,
         "minutes": 10
     },
+    "22189075": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "221951": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "221965": {
+        "hours": 0,
+        "minutes": 14.5
+    },
+    "221981": {
+        "hours": 0,
+        "minutes": 40
+    },
+    "222014": {
+        "hours": 0,
+        "minutes": 43
+    },
     "222056": {
         "hours": 0,
         "minutes": 0
     },
     "222059": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "222070": {
+        "hours": 2,
+        "minutes": 0
+    },
+    "222071": {
         "hours": 0,
         "minutes": 0
     },
@@ -2663,9 +4131,21 @@
         "hours": 0,
         "minutes": 10
     },
+    "222223": {
+        "hours": 0,
+        "minutes": 62.0
+    },
+    "222228": {
+        "hours": 0,
+        "minutes": 37.0
+    },
     "222234": {
         "hours": 2,
         "minutes": 35
+    },
+    "22225": {
+        "hours": 0,
+        "minutes": 40.0
     },
     "222256": {
         "hours": 0,
@@ -2675,6 +4155,10 @@
         "hours": 0,
         "minutes": 57.5
     },
+    "222258": {
+        "hours": 10.0,
+        "minutes": 0
+    },
     "222268": {
         "hours": 0,
         "minutes": 57.5
@@ -2682,6 +4166,10 @@
     "222280": {
         "hours": 0,
         "minutes": 4
+    },
+    "22230": {
+        "hours": 7.0,
+        "minutes": 30
     },
     "222318": {
         "hours": 2,
@@ -2703,6 +4191,10 @@
         "hours": 0,
         "minutes": 27.5
     },
+    "222387": {
+        "hours": 48,
+        "minutes": 0
+    },
     "222391": {
         "hours": 0,
         "minutes": 0
@@ -2719,6 +4211,10 @@
         "hours": 5.0,
         "minutes": 5
     },
+    "222511": {
+        "hours": 0,
+        "minutes": 0
+    },
     "222516": {
         "hours": 0,
         "minutes": 30
@@ -2731,6 +4227,14 @@
         "hours": 0,
         "minutes": 0
     },
+    "222525": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "222544": {
+        "hours": 0,
+        "minutes": 0
+    },
     "22261": {
         "hours": 2,
         "minutes": 45
@@ -2738,6 +4242,10 @@
     "222620": {
         "hours": 0,
         "minutes": 35.0
+    },
+    "222622": {
+        "hours": 0,
+        "minutes": 24.5
     },
     "222660": {
         "hours": 0,
@@ -2747,17 +4255,41 @@
         "hours": 0,
         "minutes": 22.5
     },
+    "222673": {
+        "hours": 0,
+        "minutes": 0
+    },
     "222677": {
         "hours": 0,
         "minutes": 5.5
+    },
+    "222683": {
+        "hours": 0,
+        "minutes": 32.5
     },
     "222709": {
         "hours": 0,
         "minutes": 44
     },
+    "222735": {
+        "hours": 0,
+        "minutes": 52.5
+    },
     "222799": {
         "hours": 0,
         "minutes": 8.5
+    },
+    "22286840": {
+        "hours": 0,
+        "minutes": 35
+    },
+    "222878": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "222880": {
+        "hours": 0,
+        "minutes": 0
     },
     "222888": {
         "hours": 0,
@@ -2783,13 +4315,33 @@
         "hours": 0,
         "minutes": 5
     },
+    "223055": {
+        "hours": 4.5,
+        "minutes": 60.0
+    },
     "22307": {
         "hours": 0,
         "minutes": 5
     },
+    "223107": {
+        "hours": 0,
+        "minutes": 28
+    },
+    "223112": {
+        "hours": 2.5,
+        "minutes": 15
+    },
     "223138": {
         "hours": 0,
         "minutes": 76.5
+    },
+    "223143": {
+        "hours": 0,
+        "minutes": 16.0
+    },
+    "223151": {
+        "hours": 0,
+        "minutes": 3
     },
     "223172": {
         "hours": 8,
@@ -2798,6 +4350,14 @@
     "223175": {
         "hours": 0,
         "minutes": 17.5
+    },
+    "223178": {
+        "hours": 0,
+        "minutes": 10
+    },
+    "223246": {
+        "hours": 0,
+        "minutes": 0
     },
     "223281": {
         "hours": 0,
@@ -2810,6 +4370,10 @@
     "223305": {
         "hours": 0,
         "minutes": 45
+    },
+    "223328": {
+        "hours": 0,
+        "minutes": 86.0
     },
     "223389": {
         "hours": 0,
@@ -2839,6 +4403,22 @@
         "hours": 0,
         "minutes": 30.0
     },
+    "223576": {
+        "hours": 0,
+        "minutes": 42.0
+    },
+    "223582": {
+        "hours": 0,
+        "minutes": 20
+    },
+    "22393": {
+        "hours": 0,
+        "minutes": 45
+    },
+    "22433": {
+        "hours": 0,
+        "minutes": 17.5
+    },
     "22519": {
         "hours": 4,
         "minutes": 0
@@ -2855,9 +4435,21 @@
         "hours": 0,
         "minutes": 150
     },
+    "22631": {
+        "hours": 0,
+        "minutes": 14.0
+    },
+    "22684": {
+        "hours": 0,
+        "minutes": 0
+    },
     "22792": {
         "hours": 0,
         "minutes": 42.5
+    },
+    "22793": {
+        "hours": 0,
+        "minutes": 32.5
     },
     "227989": {
         "hours": 0,
@@ -2871,9 +4463,17 @@
         "hours": 0,
         "minutes": 31.5
     },
+    "228045": {
+        "hours": 0,
+        "minutes": 30.5
+    },
     "22807": {
         "hours": 0,
         "minutes": 14.0
+    },
+    "228100": {
+        "hours": 0,
+        "minutes": 22.5
     },
     "228135": {
         "hours": 0,
@@ -2882,6 +4482,10 @@
     "228214": {
         "hours": 2,
         "minutes": 12
+    },
+    "228215": {
+        "hours": 0,
+        "minutes": 0
     },
     "228236": {
         "hours": 0,
@@ -2895,13 +4499,33 @@
         "hours": 0,
         "minutes": 0
     },
+    "228302": {
+        "hours": 2,
+        "minutes": 0
+    },
+    "22834": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "228349": {
+        "hours": 0,
+        "minutes": 99.5
+    },
     "228355": {
         "hours": 0,
         "minutes": 0
     },
+    "228357": {
+        "hours": 0,
+        "minutes": 8
+    },
     "228384": {
         "hours": 0,
         "minutes": 47.5
+    },
+    "228394": {
+        "hours": 0,
+        "minutes": 0
     },
     "228422": {
         "hours": 0,
@@ -2910,6 +4534,18 @@
     "228433": {
         "hours": 0,
         "minutes": 30
+    },
+    "22849": {
+        "hours": 0,
+        "minutes": 10
+    },
+    "228490": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "228492": {
+        "hours": 0,
+        "minutes": 37.5
     },
     "228514": {
         "hours": 0,
@@ -2927,9 +4563,17 @@
         "hours": 0,
         "minutes": 67.5
     },
+    "228547": {
+        "hours": 0,
+        "minutes": 18
+    },
     "228561": {
         "hours": 0,
         "minutes": 0
+    },
+    "228587": {
+        "hours": 0,
+        "minutes": 57.5
     },
     "228594": {
         "hours": 0,
@@ -2938,6 +4582,10 @@
     "228598": {
         "hours": 0,
         "minutes": 13.5
+    },
+    "228632": {
+        "hours": 0,
+        "minutes": 20
     },
     "228661": {
         "hours": 0,
@@ -2950,6 +4598,18 @@
     "228718": {
         "hours": 0,
         "minutes": 49.0
+    },
+    "228730": {
+        "hours": 0,
+        "minutes": 25.5
+    },
+    "228737": {
+        "hours": 0,
+        "minutes": 27.5
+    },
+    "228770": {
+        "hours": 0,
+        "minutes": 29.0
     },
     "228810": {
         "hours": 24,
@@ -2975,6 +4635,14 @@
         "hours": 0,
         "minutes": 52.5
     },
+    "228939": {
+        "hours": 8,
+        "minutes": 30
+    },
+    "229009": {
+        "hours": 3,
+        "minutes": 0
+    },
     "229030": {
         "hours": 0,
         "minutes": 40
@@ -2987,11 +4655,35 @@
         "hours": 0,
         "minutes": 15
     },
+    "229077": {
+        "hours": 0,
+        "minutes": 5
+    },
     "229081": {
         "hours": 5,
         "minutes": 12.5
     },
+    "22909": {
+        "hours": 2,
+        "minutes": 0
+    },
+    "229136": {
+        "hours": 0,
+        "minutes": 40
+    },
+    "229142": {
+        "hours": 0,
+        "minutes": 0
+    },
     "229221": {
+        "hours": 0,
+        "minutes": 12.5
+    },
+    "22923": {
+        "hours": 0,
+        "minutes": 17
+    },
+    "229234": {
         "hours": 0,
         "minutes": 12.5
     },
@@ -2999,13 +4691,29 @@
         "hours": 2,
         "minutes": 12.5
     },
+    "229322": {
+        "hours": 0,
+        "minutes": 0
+    },
     "229335": {
         "hours": 0,
         "minutes": 20
     },
+    "229342": {
+        "hours": 5.5,
+        "minutes": 45
+    },
+    "229407": {
+        "hours": 4,
+        "minutes": 10
+    },
     "22943": {
         "hours": 0,
         "minutes": 25
+    },
+    "229451": {
+        "hours": 4,
+        "minutes": 33
     },
     "229452": {
         "hours": 6.0,
@@ -3027,13 +4735,41 @@
         "hours": 0,
         "minutes": 27.5
     },
+    "22955": {
+        "hours": 0,
+        "minutes": 25
+    },
+    "229576": {
+        "hours": 0,
+        "minutes": 2
+    },
+    "229605": {
+        "hours": 5.0,
+        "minutes": 18.0
+    },
     "229621": {
         "hours": 0,
         "minutes": 75
     },
+    "229638": {
+        "hours": 0,
+        "minutes": 10
+    },
+    "229654": {
+        "hours": 0,
+        "minutes": 0
+    },
     "229686": {
         "hours": 8,
         "minutes": 16.5
+    },
+    "22972": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "22978": {
+        "hours": 2,
+        "minutes": 0
     },
     "229806": {
         "hours": 0,
@@ -3043,6 +4779,10 @@
         "hours": 0,
         "minutes": 101.0
     },
+    "229868": {
+        "hours": 0,
+        "minutes": 75
+    },
     "229874": {
         "hours": 4,
         "minutes": 0
@@ -3051,9 +4791,25 @@
         "hours": 0,
         "minutes": 54.0
     },
+    "229926": {
+        "hours": 0,
+        "minutes": 30
+    },
+    "229932": {
+        "hours": 0,
+        "minutes": 52.5
+    },
     "229940": {
         "hours": 0,
         "minutes": 12.5
+    },
+    "229949": {
+        "hours": 0,
+        "minutes": 42.5
+    },
+    "229972": {
+        "hours": 0,
+        "minutes": 9.0
     },
     "229979": {
         "hours": 4,
@@ -3067,17 +4823,37 @@
         "hours": 4,
         "minutes": 0
     },
+    "230117": {
+        "hours": 0,
+        "minutes": 53.5
+    },
     "230132": {
         "hours": 0,
         "minutes": 15
+    },
+    "230134": {
+        "hours": 0,
+        "minutes": 0
     },
     "230135": {
         "hours": 0,
         "minutes": 14.0
     },
+    "230137": {
+        "hours": 0,
+        "minutes": 20
+    },
+    "230142": {
+        "hours": 0,
+        "minutes": 59.0
+    },
     "230143": {
         "hours": 0,
         "minutes": 35
+    },
+    "230155": {
+        "hours": 0,
+        "minutes": 25
     },
     "230172": {
         "hours": 0,
@@ -3086,6 +4862,10 @@
     "230179": {
         "hours": 0,
         "minutes": 10.0
+    },
+    "230291": {
+        "hours": 0,
+        "minutes": 0
     },
     "230325": {
         "hours": 0,
@@ -3099,6 +4879,10 @@
         "hours": 0,
         "minutes": 10
     },
+    "230498": {
+        "hours": 0,
+        "minutes": 15
+    },
     "230545": {
         "hours": 0,
         "minutes": 0
@@ -3107,8 +4891,28 @@
         "hours": 0,
         "minutes": 15
     },
+    "230561": {
+        "hours": 0,
+        "minutes": 20
+    },
+    "230565": {
+        "hours": 0,
+        "minutes": 10
+    },
+    "230576": {
+        "hours": 0,
+        "minutes": 35
+    },
+    "230627": {
+        "hours": 0,
+        "minutes": 36.0
+    },
     "230634": {
         "hours": 0,
+        "minutes": 0
+    },
+    "23064": {
+        "hours": 8,
         "minutes": 0
     },
     "230647": {
@@ -3139,9 +4943,21 @@
         "hours": 0,
         "minutes": 5
     },
+    "230818": {
+        "hours": 0,
+        "minutes": 17.0
+    },
     "23083": {
         "hours": 2,
         "minutes": 0
+    },
+    "230866": {
+        "hours": 0,
+        "minutes": 17.5
+    },
+    "230883": {
+        "hours": 0,
+        "minutes": 35.5
     },
     "23089": {
         "hours": 0,
@@ -3171,6 +4987,10 @@
         "hours": 0,
         "minutes": 0
     },
+    "231010": {
+        "hours": 0,
+        "minutes": 10
+    },
     "231067": {
         "hours": 0,
         "minutes": 32.5
@@ -3183,9 +5003,25 @@
         "hours": 0,
         "minutes": 0
     },
+    "23115": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "231173": {
+        "hours": 0,
+        "minutes": 56.5
+    },
+    "231177": {
+        "hours": 8,
+        "minutes": 72.5
+    },
     "23118": {
         "hours": 0,
         "minutes": 39.0
+    },
+    "231180": {
+        "hours": 0,
+        "minutes": 0
     },
     "23122": {
         "hours": 0,
@@ -3194,6 +5030,10 @@
     "231241": {
         "hours": 0,
         "minutes": 0
+    },
+    "231244": {
+        "hours": 0,
+        "minutes": 42.5
     },
     "231269": {
         "hours": 0,
@@ -3211,6 +5051,10 @@
         "hours": 0,
         "minutes": 30
     },
+    "231304": {
+        "hours": 0,
+        "minutes": 10.0
+    },
     "231307": {
         "hours": 2,
         "minutes": 7.5
@@ -3227,9 +5071,25 @@
         "hours": 0,
         "minutes": 20
     },
+    "23139": {
+        "hours": 0,
+        "minutes": 22.5
+    },
+    "231408": {
+        "hours": 0,
+        "minutes": 25.0
+    },
     "231413": {
         "hours": 0,
         "minutes": 17.5
+    },
+    "231444": {
+        "hours": 0,
+        "minutes": 69.5
+    },
+    "231447": {
+        "hours": 2,
+        "minutes": 10
     },
     "231457": {
         "hours": 0,
@@ -3243,9 +5103,21 @@
         "hours": 0,
         "minutes": 39.0
     },
+    "231521": {
+        "hours": 0,
+        "minutes": 33.5
+    },
+    "231580": {
+        "hours": 0,
+        "minutes": 53
+    },
     "231592": {
         "hours": 0,
         "minutes": 9.0
+    },
+    "231599": {
+        "hours": 0,
+        "minutes": 14
     },
     "231660": {
         "hours": 0,
@@ -3279,13 +5151,29 @@
         "hours": 0,
         "minutes": 12.5
     },
+    "231868": {
+        "hours": 0,
+        "minutes": 15.5
+    },
     "231872": {
         "hours": 0,
         "minutes": 15
     },
+    "231875": {
+        "hours": 0,
+        "minutes": 2.5
+    },
     "231932": {
         "hours": 0,
         "minutes": 23.0
+    },
+    "231935": {
+        "hours": 0,
+        "minutes": 85
+    },
+    "231939": {
+        "hours": 0,
+        "minutes": 10
     },
     "231950": {
         "hours": 0,
@@ -3294,6 +5182,10 @@
     "231969": {
         "hours": 0,
         "minutes": 6.0
+    },
+    "231994": {
+        "hours": 0,
+        "minutes": 40.0
     },
     "231995": {
         "hours": 0,
@@ -3315,9 +5207,33 @@
         "hours": 0,
         "minutes": 20
     },
+    "232048": {
+        "hours": 0,
+        "minutes": 40
+    },
     "232052": {
         "hours": 0,
         "minutes": 37.5
+    },
+    "232116": {
+        "hours": 0,
+        "minutes": 47
+    },
+    "232134": {
+        "hours": 0,
+        "minutes": 2
+    },
+    "232172": {
+        "hours": 12,
+        "minutes": 6.5
+    },
+    "232176": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "232251": {
+        "hours": 0,
+        "minutes": 67.5
     },
     "232257": {
         "hours": 0,
@@ -3343,6 +5259,10 @@
         "hours": 0,
         "minutes": 33.5
     },
+    "232356": {
+        "hours": 2,
+        "minutes": 10
+    },
     "232406": {
         "hours": 0,
         "minutes": 65
@@ -3359,13 +5279,25 @@
         "hours": 0,
         "minutes": 0
     },
+    "232522": {
+        "hours": 0,
+        "minutes": 27.5
+    },
     "232534": {
         "hours": 0,
         "minutes": 0
     },
+    "232549": {
+        "hours": 0,
+        "minutes": 14.5
+    },
     "232556": {
         "hours": 2,
         "minutes": 17.5
+    },
+    "232609": {
+        "hours": 6,
+        "minutes": 5
     },
     "232621": {
         "hours": 0,
@@ -3379,9 +5311,25 @@
         "hours": 0,
         "minutes": 30
     },
+    "232678": {
+        "hours": 0,
+        "minutes": 37.5
+    },
     "23268": {
         "hours": 0,
         "minutes": 6
+    },
+    "232689": {
+        "hours": 0,
+        "minutes": 9.0
+    },
+    "232696": {
+        "hours": 0,
+        "minutes": 20
+    },
+    "232755": {
+        "hours": 0,
+        "minutes": 10.5
     },
     "232831": {
         "hours": 0,
@@ -3399,9 +5347,21 @@
         "hours": 0,
         "minutes": 37.5
     },
+    "232962": {
+        "hours": 0,
+        "minutes": 0
+    },
     "232973": {
         "hours": 8,
         "minutes": 40
+    },
+    "233003": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "233015": {
+        "hours": 0,
+        "minutes": 12
     },
     "233027": {
         "hours": 0,
@@ -3431,9 +5391,29 @@
         "hours": 0,
         "minutes": 4.0
     },
+    "233174": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "233248": {
+        "hours": 0,
+        "minutes": 2.5
+    },
+    "233251": {
+        "hours": 0,
+        "minutes": 55
+    },
+    "233263": {
+        "hours": 0,
+        "minutes": 56.5
+    },
     "233276": {
         "hours": 0,
         "minutes": 0
+    },
+    "233308": {
+        "hours": 0,
+        "minutes": 27.5
     },
     "23334": {
         "hours": 0,
@@ -3447,6 +5427,22 @@
         "hours": 2,
         "minutes": 0
     },
+    "233394": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "233411": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "233419": {
+        "hours": 0,
+        "minutes": 15.0
+    },
+    "233427": {
+        "hours": 0,
+        "minutes": 17.5
+    },
     "233458": {
         "hours": 0,
         "minutes": 20
@@ -3454,6 +5450,10 @@
     "233469": {
         "hours": 0,
         "minutes": 0
+    },
+    "233505": {
+        "hours": 12,
+        "minutes": 55.0
     },
     "233522": {
         "hours": 0,
@@ -3479,13 +5479,41 @@
         "hours": 0,
         "minutes": 0
     },
+    "233623": {
+        "hours": 0,
+        "minutes": 22.5
+    },
+    "233679": {
+        "hours": 0,
+        "minutes": 1
+    },
+    "233683": {
+        "hours": 0,
+        "minutes": 22.5
+    },
+    "233726": {
+        "hours": 0,
+        "minutes": 45
+    },
+    "233776": {
+        "hours": 0,
+        "minutes": 23.5
+    },
     "233777": {
         "hours": 0,
         "minutes": 27.5
     },
+    "233829": {
+        "hours": 9,
+        "minutes": 0
+    },
     "23384": {
         "hours": 0,
         "minutes": 30
+    },
+    "233858": {
+        "hours": 0,
+        "minutes": 10.5
     },
     "233887": {
         "hours": 0,
@@ -3507,6 +5535,14 @@
         "hours": 0,
         "minutes": 2
     },
+    "233952": {
+        "hours": 0,
+        "minutes": 18
+    },
+    "233975": {
+        "hours": 0,
+        "minutes": 16.0
+    },
     "233976": {
         "hours": 0,
         "minutes": 0
@@ -3518,6 +5554,26 @@
     "234061": {
         "hours": 0,
         "minutes": 33
+    },
+    "23407": {
+        "hours": 0,
+        "minutes": 11.0
+    },
+    "234100": {
+        "hours": 0,
+        "minutes": 18
+    },
+    "234113": {
+        "hours": 0,
+        "minutes": 20.0
+    },
+    "234119": {
+        "hours": 0,
+        "minutes": 27.5
+    },
+    "234148": {
+        "hours": 0,
+        "minutes": 10
     },
     "234160": {
         "hours": 0,
@@ -3535,6 +5591,10 @@
         "hours": 0,
         "minutes": 46.0
     },
+    "234271": {
+        "hours": 4.5,
+        "minutes": 70
+    },
     "234313": {
         "hours": 0,
         "minutes": 25.0
@@ -3547,6 +5607,30 @@
         "hours": 0,
         "minutes": 0
     },
+    "234348": {
+        "hours": 0,
+        "minutes": 8.5
+    },
+    "234349": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "234424": {
+        "hours": 2,
+        "minutes": 28
+    },
+    "234431": {
+        "hours": 0,
+        "minutes": 13.0
+    },
+    "234445": {
+        "hours": 0,
+        "minutes": 10
+    },
+    "234480": {
+        "hours": 0,
+        "minutes": 22.5
+    },
     "234493": {
         "hours": 8.0,
         "minutes": 8.5
@@ -3555,9 +5639,33 @@
         "hours": 0,
         "minutes": 47.5
     },
+    "234508": {
+        "hours": 0,
+        "minutes": 60.0
+    },
+    "234513": {
+        "hours": 9.5,
+        "minutes": 14.0
+    },
     "234517": {
         "hours": 0,
         "minutes": 0
+    },
+    "234591": {
+        "hours": 0,
+        "minutes": 16.0
+    },
+    "234649": {
+        "hours": 8,
+        "minutes": 109.0
+    },
+    "234672": {
+        "hours": 0,
+        "minutes": 22.5
+    },
+    "234678": {
+        "hours": 0,
+        "minutes": 13.5
     },
     "234681": {
         "hours": 0,
@@ -3591,6 +5699,10 @@
         "hours": 0,
         "minutes": 13.0
     },
+    "234754": {
+        "hours": 0,
+        "minutes": 0
+    },
     "234765": {
         "hours": 6,
         "minutes": 7.0
@@ -3599,6 +5711,10 @@
         "hours": 0,
         "minutes": 20
     },
+    "234795": {
+        "hours": 0,
+        "minutes": 25
+    },
     "234811": {
         "hours": 2,
         "minutes": 0
@@ -3606,6 +5722,10 @@
     "234830": {
         "hours": 0,
         "minutes": 24.0
+    },
+    "234837": {
+        "hours": 0,
+        "minutes": 0
     },
     "234841": {
         "hours": 0,
@@ -3631,17 +5751,33 @@
         "hours": 0,
         "minutes": 12.5
     },
+    "235096": {
+        "hours": 0,
+        "minutes": 13.0
+    },
     "235117": {
         "hours": 0,
         "minutes": 20.0
+    },
+    "235120": {
+        "hours": 0,
+        "minutes": 0
     },
     "235131": {
         "hours": 0,
         "minutes": 45
     },
+    "235144": {
+        "hours": 4,
+        "minutes": 20
+    },
     "235178": {
         "hours": 0,
         "minutes": 25
+    },
+    "235182": {
+        "hours": 0,
+        "minutes": 10
     },
     "235202": {
         "hours": 0,
@@ -3650,6 +5786,10 @@
     "23522": {
         "hours": 0,
         "minutes": 16.5
+    },
+    "235225": {
+        "hours": 0,
+        "minutes": 30
     },
     "235250": {
         "hours": 0,
@@ -3663,11 +5803,19 @@
         "hours": 0,
         "minutes": 64.5
     },
+    "235323": {
+        "hours": 0,
+        "minutes": 60.0
+    },
     "235338": {
         "hours": 0,
         "minutes": 13.0
     },
     "23537": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "23538": {
         "hours": 0,
         "minutes": 0
     },
@@ -3679,6 +5827,18 @@
         "hours": 0,
         "minutes": 5
     },
+    "235427": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "235449": {
+        "hours": 0,
+        "minutes": 18.5
+    },
+    "235554": {
+        "hours": 0,
+        "minutes": 0
+    },
     "23556": {
         "hours": 0,
         "minutes": 10
@@ -3687,9 +5847,21 @@
         "hours": 0,
         "minutes": 27.5
     },
+    "235671": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "235714": {
+        "hours": 0,
+        "minutes": 0
+    },
     "235715": {
         "hours": 0,
         "minutes": 57.5
+    },
+    "235726": {
+        "hours": 0,
+        "minutes": 20
     },
     "235752": {
         "hours": 0,
@@ -3711,9 +5883,29 @@
         "hours": 0,
         "minutes": 19.5
     },
+    "235832": {
+        "hours": 0,
+        "minutes": 9.0
+    },
+    "235849": {
+        "hours": 0,
+        "minutes": 0
+    },
     "235859": {
         "hours": 0,
         "minutes": 35.0
+    },
+    "235870": {
+        "hours": 3,
+        "minutes": 8
+    },
+    "235898": {
+        "hours": 0,
+        "minutes": 40
+    },
+    "235932": {
+        "hours": 0,
+        "minutes": 4.0
     },
     "235964": {
         "hours": 0,
@@ -3722,6 +5914,10 @@
     "235967": {
         "hours": 0,
         "minutes": 0
+    },
+    "235978": {
+        "hours": 0,
+        "minutes": 60
     },
     "235987": {
         "hours": 0,
@@ -3747,13 +5943,37 @@
         "hours": 0,
         "minutes": 5
     },
+    "236168": {
+        "hours": 0,
+        "minutes": 40.0
+    },
+    "236209": {
+        "hours": 0,
+        "minutes": 13.0
+    },
+    "236211": {
+        "hours": 0,
+        "minutes": 3.5
+    },
     "236216": {
         "hours": 0,
         "minutes": 30
     },
+    "236246": {
+        "hours": 0,
+        "minutes": 1
+    },
     "236270": {
         "hours": 0,
         "minutes": 12.5
+    },
+    "23628": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "236280": {
+        "hours": 0,
+        "minutes": 45
     },
     "236282": {
         "hours": 0,
@@ -3771,13 +5991,25 @@
         "hours": 0,
         "minutes": 23.5
     },
+    "236498": {
+        "hours": 0,
+        "minutes": 21.0
+    },
     "236515": {
+        "hours": 0,
+        "minutes": 15
+    },
+    "236518": {
         "hours": 0,
         "minutes": 15
     },
     "236527": {
         "hours": 0,
         "minutes": 15
+    },
+    "236556": {
+        "hours": 0,
+        "minutes": 10.0
     },
     "23657": {
         "hours": 0,
@@ -3791,6 +6023,10 @@
         "hours": 3,
         "minutes": 67.5
     },
+    "236610": {
+        "hours": 2,
+        "minutes": 4.0
+    },
     "236616": {
         "hours": 0,
         "minutes": 26.0
@@ -3803,6 +6039,26 @@
         "hours": 0,
         "minutes": 31.0
     },
+    "236722": {
+        "hours": 0,
+        "minutes": 25
+    },
+    "236724": {
+        "hours": 0,
+        "minutes": 20
+    },
+    "236758": {
+        "hours": 0,
+        "minutes": 6.0
+    },
+    "236798": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "236799": {
+        "hours": 0,
+        "minutes": 35
+    },
     "236850": {
         "hours": 0,
         "minutes": 9.0
@@ -3811,9 +6067,17 @@
         "hours": 0,
         "minutes": 18.5
     },
+    "236902": {
+        "hours": 0,
+        "minutes": 62.5
+    },
     "23691": {
         "hours": 0,
         "minutes": 60
+    },
+    "236944": {
+        "hours": 0,
+        "minutes": 21.5
     },
     "236946": {
         "hours": 0,
@@ -3843,6 +6107,10 @@
         "hours": 0,
         "minutes": 0
     },
+    "237033": {
+        "hours": 0,
+        "minutes": 17.5
+    },
     "237038": {
         "hours": 0,
         "minutes": 12.5
@@ -3854,6 +6122,10 @@
     "2370813": {
         "hours": 0,
         "minutes": 4.0
+    },
+    "237133": {
+        "hours": 3,
+        "minutes": 0
     },
     "237142": {
         "hours": 0,
@@ -3875,13 +6147,25 @@
         "hours": 2,
         "minutes": 35.5
     },
+    "237329": {
+        "hours": 0,
+        "minutes": 34.0
+    },
     "237435": {
         "hours": 4,
         "minutes": 37.5
     },
+    "237447": {
+        "hours": 0,
+        "minutes": 7
+    },
     "237467": {
         "hours": 2,
         "minutes": 24.5
+    },
+    "237476": {
+        "hours": 0,
+        "minutes": 21.5
     },
     "237481": {
         "hours": 0,
@@ -3899,9 +6183,17 @@
         "hours": 0,
         "minutes": 20
     },
+    "237597": {
+        "hours": 8,
+        "minutes": 0
+    },
     "237621": {
         "hours": 0,
         "minutes": 6.0
+    },
+    "237632": {
+        "hours": 0,
+        "minutes": 18
     },
     "237636": {
         "hours": 8,
@@ -3914,6 +6206,14 @@
     "237736": {
         "hours": 0,
         "minutes": 62.5
+    },
+    "237756": {
+        "hours": 0,
+        "minutes": 50.0
+    },
+    "237788": {
+        "hours": 0,
+        "minutes": 0
     },
     "237790": {
         "hours": 0,
@@ -3931,9 +6231,21 @@
         "hours": 0,
         "minutes": 3.0
     },
+    "237919": {
+        "hours": 0,
+        "minutes": 96.0
+    },
     "237921": {
         "hours": 0,
         "minutes": 17
+    },
+    "23793": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "237933": {
+        "hours": 0,
+        "minutes": 9.0
     },
     "237986": {
         "hours": 0,
@@ -3951,6 +6263,18 @@
         "hours": 0,
         "minutes": 3.0
     },
+    "238049": {
+        "hours": 0,
+        "minutes": 55
+    },
+    "238059": {
+        "hours": 0,
+        "minutes": 20
+    },
+    "238063": {
+        "hours": 0,
+        "minutes": 0
+    },
     "238074": {
         "hours": 0,
         "minutes": 31.0
@@ -3962,6 +6286,10 @@
     "238087": {
         "hours": 0,
         "minutes": 55.0
+    },
+    "23810": {
+        "hours": 0,
+        "minutes": 60
     },
     "238111": {
         "hours": 4,
@@ -3979,11 +6307,19 @@
         "hours": 0,
         "minutes": 48
     },
+    "238159": {
+        "hours": 0,
+        "minutes": 50
+    },
     "238168": {
         "hours": 8,
         "minutes": 0
     },
     "238173": {
+        "hours": 0,
+        "minutes": 5
+    },
+    "238175": {
         "hours": 0,
         "minutes": 5
     },
@@ -3999,6 +6335,10 @@
         "hours": 0,
         "minutes": 35.0
     },
+    "238265": {
+        "hours": 0,
+        "minutes": 47.5
+    },
     "238291": {
         "hours": 0,
         "minutes": 7.0
@@ -4007,9 +6347,17 @@
         "hours": 0,
         "minutes": 35.0
     },
+    "23841": {
+        "hours": 0,
+        "minutes": 19.0
+    },
     "238410": {
         "hours": 0,
         "minutes": 0
+    },
+    "23842": {
+        "hours": 0,
+        "minutes": 32
     },
     "238425": {
         "hours": 0,
@@ -4019,9 +6367,21 @@
         "hours": 0,
         "minutes": 30
     },
+    "238470": {
+        "hours": 0,
+        "minutes": 14.5
+    },
     "238506": {
         "hours": 8,
         "minutes": 8.5
+    },
+    "238527": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "238536": {
+        "hours": 0,
+        "minutes": 20
     },
     "23854": {
         "hours": 0,
@@ -4043,13 +6403,29 @@
         "hours": 0,
         "minutes": 24.5
     },
+    "238676": {
+        "hours": 0,
+        "minutes": 28.5
+    },
+    "238751": {
+        "hours": 0,
+        "minutes": 20
+    },
     "238754": {
         "hours": 0,
         "minutes": 42.5
     },
+    "238760": {
+        "hours": 5,
+        "minutes": 13.0
+    },
     "238769": {
         "hours": 0,
         "minutes": 5.5
+    },
+    "238801": {
+        "hours": 0,
+        "minutes": 10
     },
     "23882": {
         "hours": 0,
@@ -4059,9 +6435,29 @@
         "hours": 0,
         "minutes": 40
     },
+    "238963": {
+        "hours": 0,
+        "minutes": 47.5
+    },
     "238979": {
         "hours": 0,
         "minutes": 25
+    },
+    "238995": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "239022": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "239025": {
+        "hours": 0,
+        "minutes": 10
+    },
+    "239100": {
+        "hours": 0,
+        "minutes": 21
     },
     "239109": {
         "hours": 0,
@@ -4075,9 +6471,25 @@
         "hours": 0,
         "minutes": 0
     },
+    "239263": {
+        "hours": 0,
+        "minutes": 72.5
+    },
+    "239265": {
+        "hours": 0,
+        "minutes": 25
+    },
+    "239271": {
+        "hours": 0,
+        "minutes": 15
+    },
     "239276": {
         "hours": 0,
         "minutes": 33.0
+    },
+    "239333": {
+        "hours": 0,
+        "minutes": 0
     },
     "23936": {
         "hours": 0,
@@ -4087,9 +6499,21 @@
         "hours": 0,
         "minutes": 2.5
     },
+    "239383": {
+        "hours": 0,
+        "minutes": 46.0
+    },
     "239404": {
         "hours": 0,
         "minutes": 47
+    },
+    "239408": {
+        "hours": 0,
+        "minutes": 25
+    },
+    "239444": {
+        "hours": 0,
+        "minutes": 15
     },
     "23948": {
         "hours": 0,
@@ -4098,6 +6522,10 @@
     "239503": {
         "hours": 2,
         "minutes": 0
+    },
+    "239544": {
+        "hours": 0,
+        "minutes": 15
     },
     "239545": {
         "hours": 0,
@@ -4110,6 +6538,14 @@
     "239574": {
         "hours": 0,
         "minutes": 6.5
+    },
+    "239576": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "239579": {
+        "hours": 0,
+        "minutes": 0
     },
     "239590": {
         "hours": 0,
@@ -4131,6 +6567,10 @@
         "hours": 0,
         "minutes": 17.5
     },
+    "23963": {
+        "hours": 0,
+        "minutes": 32.5
+    },
     "239683": {
         "hours": 0,
         "minutes": 10
@@ -4138,6 +6578,10 @@
     "239722": {
         "hours": 0,
         "minutes": 25.0
+    },
+    "239765": {
+        "hours": 12,
+        "minutes": 58.5
     },
     "239812": {
         "hours": 0,
@@ -4147,29 +6591,77 @@
         "hours": 0,
         "minutes": 0
     },
+    "239828": {
+        "hours": 0,
+        "minutes": 22.5
+    },
+    "239843": {
+        "hours": 0,
+        "minutes": 0
+    },
     "239853": {
         "hours": 0,
         "minutes": 29.5
+    },
+    "239860": {
+        "hours": 0,
+        "minutes": 70
     },
     "239869": {
         "hours": 0,
         "minutes": 40
     },
+    "239901": {
+        "hours": 0,
+        "minutes": 27
+    },
     "239909": {
         "hours": 0,
         "minutes": 36.0
+    },
+    "239916": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "239921": {
+        "hours": 0,
+        "minutes": 0
     },
     "239934": {
         "hours": 16.0,
         "minutes": 0
     },
+    "23994": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "23997": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "240002": {
+        "hours": 0,
+        "minutes": 45.0
+    },
     "240035": {
         "hours": 0,
         "minutes": 40
     },
+    "240050": {
+        "hours": 0,
+        "minutes": 17.5
+    },
+    "240071": {
+        "hours": 14,
+        "minutes": 92
+    },
     "240099100": {
         "hours": 0,
         "minutes": 0
+    },
+    "240113": {
+        "hours": 0,
+        "minutes": 25
     },
     "240138": {
         "hours": 0,
@@ -4191,6 +6683,14 @@
         "hours": 0,
         "minutes": 10
     },
+    "240253": {
+        "hours": 0,
+        "minutes": 28.0
+    },
+    "240257": {
+        "hours": 2,
+        "minutes": 12.5
+    },
     "240259": {
         "hours": 0,
         "minutes": 7.0
@@ -4198,6 +6698,10 @@
     "240268": {
         "hours": 0,
         "minutes": 80.0
+    },
+    "240274": {
+        "hours": 2,
+        "minutes": 47.5
     },
     "240277": {
         "hours": 0,
@@ -4211,6 +6715,10 @@
         "hours": 0,
         "minutes": 42
     },
+    "240333": {
+        "hours": 0,
+        "minutes": 44.5
+    },
     "240336": {
         "hours": 10.5,
         "minutes": 0
@@ -4218,6 +6726,22 @@
     "240344": {
         "hours": 0,
         "minutes": 10
+    },
+    "240348": {
+        "hours": 0,
+        "minutes": 15
+    },
+    "240364": {
+        "hours": 7.0,
+        "minutes": 0
+    },
+    "240391": {
+        "hours": 0,
+        "minutes": 5
+    },
+    "240399": {
+        "hours": 0,
+        "minutes": 65.0
     },
     "240403": {
         "hours": 3,
@@ -4239,6 +6763,10 @@
         "hours": 0,
         "minutes": 2
     },
+    "240518": {
+        "hours": 3,
+        "minutes": 0
+    },
     "240534": {
         "hours": 0,
         "minutes": 4
@@ -4254,6 +6782,18 @@
     "240552": {
         "hours": 0,
         "minutes": 50.0
+    },
+    "240554": {
+        "hours": 0,
+        "minutes": 30
+    },
+    "240577": {
+        "hours": 0,
+        "minutes": 21.5
+    },
+    "24058": {
+        "hours": 0,
+        "minutes": 0
     },
     "240596": {
         "hours": 0,
@@ -4283,6 +6823,14 @@
         "hours": 0,
         "minutes": 22.5
     },
+    "24078": {
+        "hours": 0,
+        "minutes": 39.0
+    },
+    "240826": {
+        "hours": 0,
+        "minutes": 0
+    },
     "240829": {
         "hours": 0,
         "minutes": 20
@@ -4295,15 +6843,35 @@
         "hours": 6.5,
         "minutes": 0
     },
+    "240996": {
+        "hours": 0,
+        "minutes": 35.0
+    },
     "241052": {
         "hours": 3,
         "minutes": 32.5
+    },
+    "241075": {
+        "hours": 0,
+        "minutes": 6.5
+    },
+    "241086": {
+        "hours": 0,
+        "minutes": 16
     },
     "241109": {
         "hours": 0,
         "minutes": 0
     },
     "241128": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "241152": {
+        "hours": 0,
+        "minutes": 55.5
+    },
+    "241181": {
         "hours": 0,
         "minutes": 0
     },
@@ -4314,6 +6882,26 @@
     "241213": {
         "hours": 0,
         "minutes": 35
+    },
+    "241269": {
+        "hours": 0,
+        "minutes": 25.0
+    },
+    "24133": {
+        "hours": 0,
+        "minutes": 30
+    },
+    "241341": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "241366": {
+        "hours": 2,
+        "minutes": 19.5
+    },
+    "241389": {
+        "hours": 0,
+        "minutes": 10
     },
     "241398": {
         "hours": 5.0,
@@ -4327,13 +6915,37 @@
         "hours": 0,
         "minutes": 4.5
     },
+    "24142": {
+        "hours": 0,
+        "minutes": 40.0
+    },
     "241436": {
         "hours": 0,
         "minutes": 32.5
     },
+    "241443": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "241490": {
+        "hours": 0,
+        "minutes": 0
+    },
     "241491": {
         "hours": 0,
         "minutes": 11
+    },
+    "241499": {
+        "hours": 10.0,
+        "minutes": 13.5
+    },
+    "241503": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "24154": {
+        "hours": 0,
+        "minutes": 30
     },
     "241554": {
         "hours": 0,
@@ -4347,7 +6959,15 @@
         "hours": 0,
         "minutes": 60
     },
+    "241613": {
+        "hours": 0,
+        "minutes": 0
+    },
     "241615": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "241617": {
         "hours": 0,
         "minutes": 0
     },
@@ -4359,6 +6979,10 @@
         "hours": 0,
         "minutes": 51.0
     },
+    "241759": {
+        "hours": 4,
+        "minutes": 8
+    },
     "241780": {
         "hours": 0,
         "minutes": 10
@@ -4366,6 +6990,10 @@
     "241829": {
         "hours": 0,
         "minutes": 0
+    },
+    "241859": {
+        "hours": 0,
+        "minutes": 26.0
     },
     "241862": {
         "hours": 6,
@@ -4387,6 +7015,14 @@
         "hours": 0,
         "minutes": 5
     },
+    "24191": {
+        "hours": 0,
+        "minutes": 13.5
+    },
+    "241928": {
+        "hours": 0,
+        "minutes": 65
+    },
     "241930": {
         "hours": 0,
         "minutes": 10
@@ -4394,6 +7030,10 @@
     "241964": {
         "hours": 0,
         "minutes": 21.5
+    },
+    "24198": {
+        "hours": 0,
+        "minutes": 75.0
     },
     "241987": {
         "hours": 0,
@@ -4403,9 +7043,21 @@
         "hours": 0,
         "minutes": 13.5
     },
+    "242024": {
+        "hours": 8,
+        "minutes": 24
+    },
     "242027": {
         "hours": 0,
         "minutes": 52.5
+    },
+    "24203": {
+        "hours": 4,
+        "minutes": 0
+    },
+    "242050": {
+        "hours": 0,
+        "minutes": 28.5
     },
     "242065": {
         "hours": 0,
@@ -4415,6 +7067,14 @@
         "hours": 0,
         "minutes": 8.0
     },
+    "242105": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "242114": {
+        "hours": 0,
+        "minutes": 25
+    },
     "242156": {
         "hours": 10,
         "minutes": 25
@@ -4422,6 +7082,10 @@
     "242190": {
         "hours": 8,
         "minutes": 15
+    },
+    "242192": {
+        "hours": 0,
+        "minutes": 0
     },
     "242199": {
         "hours": 0,
@@ -4435,6 +7099,10 @@
         "hours": 0,
         "minutes": 50.0
     },
+    "242305": {
+        "hours": 0,
+        "minutes": 15
+    },
     "242309": {
         "hours": 0,
         "minutes": 0
@@ -4447,9 +7115,25 @@
         "hours": 0,
         "minutes": 0
     },
+    "242354": {
+        "hours": 0,
+        "minutes": 14.5
+    },
+    "242362": {
+        "hours": 0,
+        "minutes": 55.0
+    },
     "242380": {
         "hours": 4.0,
         "minutes": 80
+    },
+    "242391": {
+        "hours": 0,
+        "minutes": 10
+    },
+    "242399": {
+        "hours": 4.0,
+        "minutes": 15
     },
     "24240": {
         "hours": 0,
@@ -4463,6 +7147,14 @@
         "hours": 0,
         "minutes": 20
     },
+    "242464": {
+        "hours": 0,
+        "minutes": 2
+    },
+    "242508": {
+        "hours": 0,
+        "minutes": 22.5
+    },
     "24262": {
         "hours": 0,
         "minutes": 0
@@ -4470,6 +7162,10 @@
     "24311": {
         "hours": 0,
         "minutes": 0
+    },
+    "24323": {
+        "hours": 0,
+        "minutes": 45
     },
     "24340": {
         "hours": 0,
@@ -4479,9 +7175,21 @@
         "hours": 0,
         "minutes": 25
     },
+    "24377": {
+        "hours": 18.0,
+        "minutes": 0
+    },
+    "24379": {
+        "hours": 0,
+        "minutes": 14
+    },
     "24380": {
         "hours": 0,
         "minutes": 5
+    },
+    "24393": {
+        "hours": 0,
+        "minutes": 15
     },
     "24396": {
         "hours": 0,
@@ -4495,6 +7203,10 @@
         "hours": 0,
         "minutes": 0
     },
+    "24418": {
+        "hours": 53,
+        "minutes": 119
+    },
     "244182": {
         "hours": 0,
         "minutes": 0
@@ -4503,9 +7215,25 @@
         "hours": 0,
         "minutes": 52.5
     },
+    "24426": {
+        "hours": 0,
+        "minutes": 10
+    },
     "244271": {
         "hours": 0,
         "minutes": 0
+    },
+    "244285": {
+        "hours": 0,
+        "minutes": 35
+    },
+    "244326": {
+        "hours": 2,
+        "minutes": 70
+    },
+    "244327": {
+        "hours": 0,
+        "minutes": 18
     },
     "244341": {
         "hours": 0,
@@ -4531,9 +7259,29 @@
         "hours": 0,
         "minutes": 30
     },
+    "244417": {
+        "hours": 0,
+        "minutes": 12.5
+    },
+    "244448": {
+        "hours": 8,
+        "minutes": 0
+    },
+    "244449": {
+        "hours": 0,
+        "minutes": 4.0
+    },
     "244479": {
         "hours": 0,
         "minutes": 0
+    },
+    "244513": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "244533": {
+        "hours": 8,
+        "minutes": 20
     },
     "244615": {
         "hours": 0,
@@ -4543,9 +7291,25 @@
         "hours": 0,
         "minutes": 27.5
     },
+    "244648": {
+        "hours": 0,
+        "minutes": 47.5
+    },
     "24479": {
         "hours": 0,
         "minutes": 0
+    },
+    "244797": {
+        "hours": 0,
+        "minutes": 9.5
+    },
+    "244800": {
+        "hours": 0,
+        "minutes": 30
+    },
+    "244829": {
+        "hours": 2,
+        "minutes": 8.5
     },
     "244852": {
         "hours": 0,
@@ -4563,6 +7327,14 @@
         "hours": 0,
         "minutes": 50
     },
+    "244917": {
+        "hours": 8,
+        "minutes": 0
+    },
+    "244931": {
+        "hours": 0,
+        "minutes": 22.5
+    },
     "244974": {
         "hours": 0,
         "minutes": 47.0
@@ -4578,6 +7350,14 @@
     "245036": {
         "hours": 0,
         "minutes": 42.0
+    },
+    "245079": {
+        "hours": 0,
+        "minutes": 41.0
+    },
+    "245098": {
+        "hours": 0,
+        "minutes": 39.0
     },
     "24510": {
         "hours": 0,
@@ -4611,6 +7391,10 @@
         "hours": 0,
         "minutes": 45
     },
+    "245193": {
+        "hours": 0,
+        "minutes": 16.0
+    },
     "24527": {
         "hours": 0,
         "minutes": 0
@@ -4626,6 +7410,10 @@
     "245288": {
         "hours": 4,
         "minutes": 6
+    },
+    "245292": {
+        "hours": 0,
+        "minutes": 0
     },
     "245294": {
         "hours": 2,
@@ -4647,13 +7435,29 @@
         "hours": 2,
         "minutes": 30
     },
+    "245366": {
+        "hours": 3.0,
+        "minutes": 0
+    },
     "24537": {
         "hours": 5,
         "minutes": 0
     },
+    "245385": {
+        "hours": 0,
+        "minutes": 55
+    },
+    "245424": {
+        "hours": 0,
+        "minutes": 31.0
+    },
     "245438": {
         "hours": 0,
         "minutes": 7
+    },
+    "245441": {
+        "hours": 0,
+        "minutes": 62.0
     },
     "245478": {
         "hours": 0,
@@ -4663,20 +7467,52 @@
         "hours": 0,
         "minutes": 72.0
     },
+    "245525": {
+        "hours": 0,
+        "minutes": 32.5
+    },
     "245548": {
         "hours": 0,
         "minutes": 60
+    },
+    "245588": {
+        "hours": 0,
+        "minutes": 62.5
+    },
+    "245750": {
+        "hours": 0,
+        "minutes": 15
     },
     "245784": {
         "hours": 0,
         "minutes": 46.0
     },
+    "245812": {
+        "hours": 0,
+        "minutes": 27.5
+    },
     "245825": {
         "hours": 24,
         "minutes": 20
     },
+    "245830": {
+        "hours": 8,
+        "minutes": 0
+    },
+    "245890": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "245903": {
+        "hours": 0,
+        "minutes": 41.5
+    },
     "245909": {
         "hours": 8,
+        "minutes": 0
+    },
+    "24592": {
+        "hours": 0,
         "minutes": 0
     },
     "245926": {
@@ -4695,6 +7531,10 @@
         "hours": 0,
         "minutes": 17
     },
+    "245980": {
+        "hours": 0,
+        "minutes": 39
+    },
     "246002": {
         "hours": 0,
         "minutes": 50
@@ -4707,9 +7547,21 @@
         "hours": 3,
         "minutes": 42.0
     },
+    "246093": {
+        "hours": 0,
+        "minutes": 3.5
+    },
+    "24610": {
+        "hours": 0,
+        "minutes": 3
+    },
     "246106": {
         "hours": 0,
         "minutes": 0
+    },
+    "24612": {
+        "hours": 0,
+        "minutes": 92.5
     },
     "246143": {
         "hours": 12,
@@ -4719,9 +7571,17 @@
         "hours": 0,
         "minutes": 20
     },
+    "246163": {
+        "hours": 0,
+        "minutes": 71.5
+    },
     "24619": {
         "hours": 0,
         "minutes": 11.0
+    },
+    "246206": {
+        "hours": 0,
+        "minutes": 4
     },
     "24625": {
         "hours": 0,
@@ -4735,6 +7595,10 @@
         "hours": 0,
         "minutes": 0
     },
+    "246289": {
+        "hours": 0,
+        "minutes": 39.0
+    },
     "246322": {
         "hours": 0,
         "minutes": 32.0
@@ -4747,13 +7611,25 @@
         "hours": 2,
         "minutes": 20
     },
+    "246431": {
+        "hours": 0,
+        "minutes": 10
+    },
     "246444": {
         "hours": 0,
         "minutes": 75
     },
+    "246462": {
+        "hours": 0,
+        "minutes": 57.5
+    },
     "246478": {
         "hours": 0,
         "minutes": 37.5
+    },
+    "246504": {
+        "hours": 0,
+        "minutes": 0
     },
     "246508": {
         "hours": 0,
@@ -4775,13 +7651,33 @@
         "hours": 0,
         "minutes": 60
     },
+    "246579": {
+        "hours": 0,
+        "minutes": 40
+    },
     "246591": {
         "hours": 0,
         "minutes": 59
     },
+    "246598": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "24660": {
+        "hours": 0,
+        "minutes": 0
+    },
     "246624": {
         "hours": 0,
         "minutes": 15
+    },
+    "246631": {
+        "hours": 0,
+        "minutes": 31.0
+    },
+    "246644": {
+        "hours": 3,
+        "minutes": 97.5
     },
     "246657": {
         "hours": 0,
@@ -4811,6 +7707,22 @@
         "hours": 0,
         "minutes": 45.0
     },
+    "246793": {
+        "hours": 0,
+        "minutes": 19.0
+    },
+    "246830": {
+        "hours": 2.5,
+        "minutes": 54.5
+    },
+    "246835": {
+        "hours": 9.0,
+        "minutes": 0
+    },
+    "246841": {
+        "hours": 0,
+        "minutes": 17
+    },
     "246853": {
         "hours": 0,
         "minutes": 8.0
@@ -4831,6 +7743,10 @@
         "hours": 0,
         "minutes": 9.5
     },
+    "246942": {
+        "hours": 0,
+        "minutes": 14
+    },
     "246955": {
         "hours": 16,
         "minutes": 51.5
@@ -4847,6 +7763,14 @@
         "hours": 0,
         "minutes": 9
     },
+    "247132": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "247172": {
+        "hours": 0,
+        "minutes": 0
+    },
     "247176": {
         "hours": 0,
         "minutes": 0
@@ -4855,9 +7779,21 @@
         "hours": 0,
         "minutes": 0
     },
+    "247179": {
+        "hours": 8,
+        "minutes": 6
+    },
     "247210": {
         "hours": 4,
         "minutes": 13.0
+    },
+    "247211": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "24723": {
+        "hours": 0,
+        "minutes": 0
     },
     "247231": {
         "hours": 0,
@@ -4866,6 +7802,10 @@
     "247239": {
         "hours": 2,
         "minutes": 0
+    },
+    "247244": {
+        "hours": 0,
+        "minutes": 20
     },
     "247292": {
         "hours": 0,
@@ -4895,6 +7835,10 @@
         "hours": 0,
         "minutes": 11.0
     },
+    "247425": {
+        "hours": 0,
+        "minutes": 46.0
+    },
     "247439": {
         "hours": 0,
         "minutes": 33.0
@@ -4907,21 +7851,69 @@
         "hours": 0,
         "minutes": 62.5
     },
+    "247456": {
+        "hours": 0,
+        "minutes": 57.5
+    },
+    "24772": {
+        "hours": 0,
+        "minutes": 0
+    },
     "24784": {
         "hours": 0,
         "minutes": 15
+    },
+    "24810": {
+        "hours": 0,
+        "minutes": 9.0
     },
     "24812": {
         "hours": 0,
         "minutes": 14.0
     },
+    "24813": {
+        "hours": 0,
+        "minutes": 0
+    },
     "24843": {
         "hours": 0,
         "minutes": 75.0
     },
+    "24852": {
+        "hours": 0,
+        "minutes": 45
+    },
+    "24854": {
+        "hours": 3,
+        "minutes": 0
+    },
+    "24858": {
+        "hours": 0,
+        "minutes": 30
+    },
+    "24861": {
+        "hours": 3,
+        "minutes": 90
+    },
+    "24874": {
+        "hours": 2,
+        "minutes": 0
+    },
+    "24904": {
+        "hours": 2,
+        "minutes": 13
+    },
     "24909": {
         "hours": 0,
         "minutes": 0
+    },
+    "24918": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "24943": {
+        "hours": 0,
+        "minutes": 5
     },
     "24946": {
         "hours": 0,
@@ -4931,6 +7923,14 @@
         "hours": 0,
         "minutes": 7
     },
+    "25009": {
+        "hours": 0,
+        "minutes": 48
+    },
+    "25017": {
+        "hours": 0,
+        "minutes": 9.0
+    },
     "25028": {
         "hours": 0,
         "minutes": 36.0
@@ -4938,6 +7938,14 @@
     "25031": {
         "hours": 0,
         "minutes": 25
+    },
+    "25039": {
+        "hours": 0,
+        "minutes": 17.5
+    },
+    "25050": {
+        "hours": 0,
+        "minutes": 22.5
     },
     "25054": {
         "hours": 0,
@@ -4947,6 +7955,10 @@
         "hours": 0,
         "minutes": 26
     },
+    "25086": {
+        "hours": 0,
+        "minutes": 16.0
+    },
     "25087": {
         "hours": 0,
         "minutes": 12.0
@@ -4955,9 +7967,17 @@
         "hours": 0,
         "minutes": 27
     },
+    "25104": {
+        "hours": 2,
+        "minutes": 12.5
+    },
     "25113": {
         "hours": 0,
         "minutes": 27.5
+    },
+    "25124": {
+        "hours": 0,
+        "minutes": 26.0
     },
     "25125": {
         "hours": 0,
@@ -4967,6 +7987,18 @@
         "hours": 0,
         "minutes": 14.0
     },
+    "25129": {
+        "hours": 0,
+        "minutes": 13.5
+    },
+    "25131": {
+        "hours": 0,
+        "minutes": 16.0
+    },
+    "25144": {
+        "hours": 0,
+        "minutes": 0
+    },
     "25156": {
         "hours": 0,
         "minutes": 0
@@ -4975,13 +8007,41 @@
         "hours": 3.0,
         "minutes": 13.5
     },
+    "25182": {
+        "hours": 0,
+        "minutes": 0
+    },
     "25193": {
         "hours": 4,
         "minutes": 0
     },
+    "25201": {
+        "hours": 0,
+        "minutes": 5
+    },
+    "25230": {
+        "hours": 0,
+        "minutes": 30
+    },
+    "25298": {
+        "hours": 0,
+        "minutes": 9.0
+    },
+    "25315": {
+        "hours": 0,
+        "minutes": 20
+    },
     "253151": {
         "hours": 5,
         "minutes": 0
+    },
+    "25351": {
+        "hours": 0,
+        "minutes": 15
+    },
+    "25361": {
+        "hours": 0,
+        "minutes": 30
     },
     "254183": {
         "hours": 12,
@@ -4990,6 +8050,18 @@
     "254184": {
         "hours": 12,
         "minutes": 37.5
+    },
+    "254190": {
+        "hours": 0,
+        "minutes": 45
+    },
+    "254223": {
+        "hours": 0,
+        "minutes": 45.0
+    },
+    "254227": {
+        "hours": 0,
+        "minutes": 37
     },
     "254306": {
         "hours": 0,
@@ -5003,9 +8075,17 @@
         "hours": 0,
         "minutes": 11.0
     },
+    "254365": {
+        "hours": 0,
+        "minutes": 23.0
+    },
     "254412": {
         "hours": 3,
         "minutes": 83
+    },
+    "254417": {
+        "hours": 0,
+        "minutes": 90.0
     },
     "254427": {
         "hours": 2.5,
@@ -5019,6 +8099,10 @@
         "hours": 5,
         "minutes": 14.0
     },
+    "254454": {
+        "hours": 0,
+        "minutes": 0
+    },
     "254469": {
         "hours": 2,
         "minutes": 30
@@ -5026,6 +8110,10 @@
     "254473": {
         "hours": 0,
         "minutes": 0
+    },
+    "254498": {
+        "hours": 0,
+        "minutes": 67.5
     },
     "254512": {
         "hours": 0,
@@ -5035,6 +8123,18 @@
         "hours": 0,
         "minutes": 41.0
     },
+    "254562": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "25469": {
+        "hours": 3,
+        "minutes": 5
+    },
+    "254702": {
+        "hours": 0,
+        "minutes": 175.0
+    },
     "254736": {
         "hours": 4,
         "minutes": 0
@@ -5043,13 +8143,25 @@
         "hours": 2,
         "minutes": 0
     },
+    "254806": {
+        "hours": 0,
+        "minutes": 52.5
+    },
     "254862": {
         "hours": 2,
+        "minutes": 0
+    },
+    "254878": {
+        "hours": 0,
         "minutes": 0
     },
     "254920": {
         "hours": 0,
         "minutes": 21.5
+    },
+    "254922": {
+        "hours": 0,
+        "minutes": 20
     },
     "254927": {
         "hours": 0,
@@ -5071,9 +8183,17 @@
         "hours": 1.5,
         "minutes": 0
     },
+    "254984": {
+        "hours": 0,
+        "minutes": 0
+    },
     "254992": {
         "hours": 7,
         "minutes": 30
+    },
+    "255017": {
+        "hours": 0,
+        "minutes": 0
     },
     "255022": {
         "hours": 3,
@@ -5091,6 +8211,10 @@
         "hours": 0,
         "minutes": 32.5
     },
+    "25506": {
+        "hours": 0,
+        "minutes": 30
+    },
     "255060": {
         "hours": 0,
         "minutes": 53
@@ -5098,6 +8222,10 @@
     "255079": {
         "hours": 2,
         "minutes": 13.5
+    },
+    "255086": {
+        "hours": 4,
+        "minutes": 0
     },
     "255131": {
         "hours": 0,
@@ -5107,6 +8235,10 @@
         "hours": 0,
         "minutes": 10
     },
+    "255223": {
+        "hours": 0,
+        "minutes": 0
+    },
     "25523": {
         "hours": 0,
         "minutes": 0
@@ -5115,17 +8247,33 @@
         "hours": 7.0,
         "minutes": 24.0
     },
+    "255253": {
+        "hours": 0,
+        "minutes": 48.0
+    },
     "255279": {
         "hours": 0,
         "minutes": 0
+    },
+    "255359": {
+        "hours": 0,
+        "minutes": 48
     },
     "25537": {
         "hours": 0,
         "minutes": 20
     },
+    "255373": {
+        "hours": 18.0,
+        "minutes": 12.5
+    },
     "255392": {
         "hours": 0,
         "minutes": 42.0
+    },
+    "255404": {
+        "hours": 0,
+        "minutes": 60
     },
     "255423": {
         "hours": 0,
@@ -5142,6 +8290,10 @@
     "255456": {
         "hours": 0,
         "minutes": 0
+    },
+    "255464": {
+        "hours": 0,
+        "minutes": 24.0
     },
     "255477": {
         "hours": 0,
@@ -5175,9 +8327,17 @@
         "hours": 0,
         "minutes": 74
     },
+    "255670": {
+        "hours": 0,
+        "minutes": 40.5
+    },
     "255719": {
         "hours": 0,
         "minutes": 55
+    },
+    "255826": {
+        "hours": 6,
+        "minutes": 0
     },
     "255855": {
         "hours": 0,
@@ -5186,6 +8346,18 @@
     "255869": {
         "hours": 0,
         "minutes": 42.5
+    },
+    "25590": {
+        "hours": 0,
+        "minutes": 26.5
+    },
+    "255916": {
+        "hours": 0,
+        "minutes": 15
+    },
+    "255936": {
+        "hours": 0,
+        "minutes": 7
     },
     "255974": {
         "hours": 0,
@@ -5200,6 +8372,10 @@
         "minutes": 3
     },
     "25599": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "256000": {
         "hours": 0,
         "minutes": 0
     },
@@ -5223,6 +8399,14 @@
         "hours": 0,
         "minutes": 80.0
     },
+    "256129": {
+        "hours": 0,
+        "minutes": 19.0
+    },
+    "256130": {
+        "hours": 0,
+        "minutes": 69.0
+    },
     "256156": {
         "hours": 8,
         "minutes": 0
@@ -5234,6 +8418,10 @@
     "256217": {
         "hours": 0,
         "minutes": 23
+    },
+    "256265": {
+        "hours": 0,
+        "minutes": 1.5
     },
     "256304": {
         "hours": 0,
@@ -5263,6 +8451,18 @@
         "hours": 0,
         "minutes": 9.0
     },
+    "256412": {
+        "hours": 0,
+        "minutes": 37.5
+    },
+    "256415": {
+        "hours": 3.5,
+        "minutes": 0
+    },
+    "256419": {
+        "hours": 0,
+        "minutes": 12.5
+    },
     "256443": {
         "hours": 0,
         "minutes": 0
@@ -5275,6 +8475,10 @@
         "hours": 0,
         "minutes": 25
     },
+    "256555": {
+        "hours": 0,
+        "minutes": 41.0
+    },
     "256583": {
         "hours": 0,
         "minutes": 14.0
@@ -5283,9 +8487,17 @@
         "hours": 0,
         "minutes": 45
     },
+    "256600": {
+        "hours": 0,
+        "minutes": 0
+    },
     "256624": {
         "hours": 0,
         "minutes": 13
+    },
+    "256629": {
+        "hours": 24,
+        "minutes": 11.5
     },
     "256661": {
         "hours": 0,
@@ -5294,6 +8506,10 @@
     "256686": {
         "hours": 0,
         "minutes": 52.5
+    },
+    "256700": {
+        "hours": 0,
+        "minutes": 0
     },
     "256761": {
         "hours": 0,
@@ -5331,6 +8547,10 @@
         "hours": 0,
         "minutes": 34
     },
+    "257074": {
+        "hours": 0,
+        "minutes": 44.5
+    },
     "257087": {
         "hours": 0,
         "minutes": 25.5
@@ -5338,6 +8558,10 @@
     "257154": {
         "hours": 0,
         "minutes": 84.5
+    },
+    "257212": {
+        "hours": 0,
+        "minutes": 21.0
     },
     "257244": {
         "hours": 0,
@@ -5359,6 +8583,26 @@
         "hours": 0,
         "minutes": 59
     },
+    "257302": {
+        "hours": 0,
+        "minutes": 15
+    },
+    "257321": {
+        "hours": 0,
+        "minutes": 30.0
+    },
+    "257325": {
+        "hours": 0,
+        "minutes": 55
+    },
+    "25736": {
+        "hours": 0,
+        "minutes": 42.5
+    },
+    "257365": {
+        "hours": 0,
+        "minutes": 43.0
+    },
     "257368": {
         "hours": 0,
         "minutes": 8
@@ -5366,6 +8610,10 @@
     "257397": {
         "hours": 0,
         "minutes": 24.0
+    },
+    "257428": {
+        "hours": 0,
+        "minutes": 10
     },
     "257441": {
         "hours": 0,
@@ -5375,7 +8623,15 @@
         "hours": 0,
         "minutes": 12.0
     },
+    "257507": {
+        "hours": 0,
+        "minutes": 30
+    },
     "257544": {
+        "hours": 0,
+        "minutes": 3
+    },
+    "257556": {
         "hours": 0,
         "minutes": 3
     },
@@ -5394,6 +8650,10 @@
     "257655": {
         "hours": 0,
         "minutes": 107.0
+    },
+    "257657": {
+        "hours": 0,
+        "minutes": 20.0
     },
     "257666": {
         "hours": 0,
@@ -5423,9 +8683,21 @@
         "hours": 0,
         "minutes": 6.0
     },
+    "257841": {
+        "hours": 0,
+        "minutes": 0
+    },
     "257842": {
         "hours": 0,
         "minutes": 5
+    },
+    "257850": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "25790": {
+        "hours": 0,
+        "minutes": 13.5
     },
     "257921": {
         "hours": 0,
@@ -5435,9 +8707,21 @@
         "hours": 0,
         "minutes": 14.5
     },
+    "257945": {
+        "hours": 0,
+        "minutes": 1.5
+    },
+    "257964": {
+        "hours": 0,
+        "minutes": 65.5
+    },
     "257976": {
         "hours": 0,
         "minutes": 3
+    },
+    "258007": {
+        "hours": 0,
+        "minutes": 4
     },
     "258019": {
         "hours": 0,
@@ -5447,9 +8731,17 @@
         "hours": 0,
         "minutes": 15.5
     },
+    "258100": {
+        "hours": 0,
+        "minutes": 0
+    },
     "258204": {
         "hours": 0,
         "minutes": 27.5
+    },
+    "258211": {
+        "hours": 5,
+        "minutes": 37
     },
     "258216": {
         "hours": 0,
@@ -5479,6 +8771,10 @@
         "hours": 0,
         "minutes": 8.5
     },
+    "258402": {
+        "hours": 0,
+        "minutes": 4.0
+    },
     "258414": {
         "hours": 3,
         "minutes": 0
@@ -5491,6 +8787,10 @@
         "hours": 0,
         "minutes": 10
     },
+    "258454": {
+        "hours": 0,
+        "minutes": 8.0
+    },
     "25849": {
         "hours": 0,
         "minutes": 0
@@ -5502,6 +8802,10 @@
     "258589": {
         "hours": 2,
         "minutes": 2
+    },
+    "258621": {
+        "hours": 0,
+        "minutes": 45.0
     },
     "258634": {
         "hours": 0,
@@ -5519,9 +8823,17 @@
         "hours": 0,
         "minutes": 0
     },
+    "25869": {
+        "hours": 0,
+        "minutes": 22.5
+    },
     "258704": {
         "hours": 0,
         "minutes": 45
+    },
+    "258711": {
+        "hours": 0,
+        "minutes": 9.0
     },
     "258728": {
         "hours": 0,
@@ -5551,9 +8863,25 @@
         "hours": 2.5,
         "minutes": 0
     },
+    "258876": {
+        "hours": 0,
+        "minutes": 16.0
+    },
     "258918": {
         "hours": 0,
         "minutes": 0
+    },
+    "258940": {
+        "hours": 2,
+        "minutes": 0
+    },
+    "259033": {
+        "hours": 0,
+        "minutes": 16.0
+    },
+    "259034": {
+        "hours": 0,
+        "minutes": 61.5
     },
     "259082": {
         "hours": 0,
@@ -5563,13 +8891,45 @@
         "hours": 0,
         "minutes": 60
     },
+    "259154": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "259164": {
+        "hours": 0,
+        "minutes": 106.0
+    },
+    "259173": {
+        "hours": 0,
+        "minutes": 47.5
+    },
+    "259190": {
+        "hours": 0,
+        "minutes": 50
+    },
+    "259253": {
+        "hours": 0,
+        "minutes": 74.0
+    },
     "259291": {
         "hours": 0,
         "minutes": 34.5
     },
+    "259315": {
+        "hours": 0,
+        "minutes": 31
+    },
     "259345": {
         "hours": 0,
         "minutes": 17
+    },
+    "259348": {
+        "hours": 0,
+        "minutes": 10.0
+    },
+    "259355": {
+        "hours": 0,
+        "minutes": 6.5
     },
     "259439": {
         "hours": 14.0,
@@ -5587,6 +8947,10 @@
         "hours": 0,
         "minutes": 12
     },
+    "259547": {
+        "hours": 0,
+        "minutes": 0
+    },
     "25958": {
         "hours": 6,
         "minutes": 75.0
@@ -5595,9 +8959,25 @@
         "hours": 0,
         "minutes": 0
     },
+    "25966": {
+        "hours": 0,
+        "minutes": 42.5
+    },
+    "259702": {
+        "hours": 0,
+        "minutes": 32.5
+    },
     "259755": {
         "hours": 0,
         "minutes": 42.5
+    },
+    "259756": {
+        "hours": 0,
+        "minutes": 55.0
+    },
+    "259760": {
+        "hours": 0,
+        "minutes": 32.0
     },
     "259778": {
         "hours": 0,
@@ -5607,9 +8987,17 @@
         "hours": 0,
         "minutes": 32
     },
+    "259878": {
+        "hours": 0,
+        "minutes": 64.5
+    },
     "259910": {
         "hours": 24,
         "minutes": 110.0
+    },
+    "259924": {
+        "hours": 0,
+        "minutes": 22
     },
     "25997": {
         "hours": 4,
@@ -5619,6 +9007,10 @@
         "hours": 6,
         "minutes": 0
     },
+    "260031": {
+        "hours": 0,
+        "minutes": 52.0
+    },
     "260045": {
         "hours": 0,
         "minutes": 59
@@ -5627,9 +9019,17 @@
         "hours": 0,
         "minutes": 30.0
     },
+    "260053": {
+        "hours": 0,
+        "minutes": 7
+    },
     "260097": {
         "hours": 0,
         "minutes": 5
+    },
+    "260100": {
+        "hours": 0,
+        "minutes": 15
     },
     "260117": {
         "hours": 0,
@@ -5639,6 +9039,10 @@
         "hours": 0,
         "minutes": 27.0
     },
+    "260135": {
+        "hours": 0,
+        "minutes": 10.0
+    },
     "260146": {
         "hours": 0,
         "minutes": 70
@@ -5647,17 +9051,33 @@
         "hours": 0,
         "minutes": 47
     },
+    "260158": {
+        "hours": 8,
+        "minutes": 93.5
+    },
     "26016": {
         "hours": 0,
         "minutes": 70
+    },
+    "260215": {
+        "hours": 0,
+        "minutes": 10
     },
     "260258": {
         "hours": 2,
         "minutes": 45.5
     },
+    "260304": {
+        "hours": 0,
+        "minutes": 36.5
+    },
     "260313": {
         "hours": 0,
         "minutes": 23
+    },
+    "260335": {
+        "hours": 0,
+        "minutes": 63.5
     },
     "260344": {
         "hours": 0,
@@ -5675,6 +9095,18 @@
         "hours": 0,
         "minutes": 18
     },
+    "26049": {
+        "hours": 0,
+        "minutes": 27.5
+    },
+    "260492": {
+        "hours": 0,
+        "minutes": 19.5
+    },
+    "260513": {
+        "hours": 0,
+        "minutes": 31.5
+    },
     "26057": {
         "hours": 0,
         "minutes": 95.0
@@ -5691,9 +9123,21 @@
         "hours": 0,
         "minutes": 62.5
     },
+    "260664": {
+        "hours": 0,
+        "minutes": 29.0
+    },
     "260704": {
         "hours": 0,
         "minutes": 45.0
+    },
+    "260731": {
+        "hours": 0,
+        "minutes": 39.0
+    },
+    "260744": {
+        "hours": 0,
+        "minutes": 20
     },
     "260788": {
         "hours": 0,
@@ -5703,17 +9147,45 @@
         "hours": 0,
         "minutes": 5
     },
+    "260796": {
+        "hours": 0,
+        "minutes": 32.5
+    },
+    "260801": {
+        "hours": 0,
+        "minutes": 50
+    },
     "260803": {
         "hours": 0,
         "minutes": 8.5
+    },
+    "260809": {
+        "hours": 0,
+        "minutes": 115
+    },
+    "260813": {
+        "hours": 0,
+        "minutes": 55
     },
     "260817": {
         "hours": 0,
         "minutes": 33.0
     },
+    "260837": {
+        "hours": 0,
+        "minutes": 4.0
+    },
+    "260867": {
+        "hours": 0,
+        "minutes": 36
+    },
     "260881": {
         "hours": 0,
         "minutes": 15
+    },
+    "260886": {
+        "hours": 3,
+        "minutes": 70
     },
     "260888": {
         "hours": 0,
@@ -5723,6 +9195,14 @@
         "hours": 0,
         "minutes": 106.5
     },
+    "261011": {
+        "hours": 0,
+        "minutes": 15
+    },
+    "261040": {
+        "hours": 0,
+        "minutes": 28
+    },
     "261102": {
         "hours": 0,
         "minutes": 0
@@ -5730,6 +9210,14 @@
     "261119": {
         "hours": 1.5,
         "minutes": 2.0
+    },
+    "261125": {
+        "hours": 0,
+        "minutes": 52.5
+    },
+    "261224": {
+        "hours": 0,
+        "minutes": 0
     },
     "26123": {
         "hours": 0,
@@ -5747,6 +9235,22 @@
         "hours": 0,
         "minutes": 28
     },
+    "261391": {
+        "hours": 0,
+        "minutes": 14
+    },
+    "261395": {
+        "hours": 0,
+        "minutes": 26.5
+    },
+    "261400": {
+        "hours": 0,
+        "minutes": 38.5
+    },
+    "261450": {
+        "hours": 0,
+        "minutes": 20
+    },
     "261456": {
         "hours": 0,
         "minutes": 19.0
@@ -5754,6 +9258,14 @@
     "261460": {
         "hours": 0,
         "minutes": 25
+    },
+    "261461": {
+        "hours": 0,
+        "minutes": 50
+    },
+    "261466": {
+        "hours": 0,
+        "minutes": 27.5
     },
     "261475": {
         "hours": 0,
@@ -5771,6 +9283,10 @@
         "hours": 0,
         "minutes": 90.0
     },
+    "261533": {
+        "hours": 0,
+        "minutes": 44.0
+    },
     "261548": {
         "hours": 8,
         "minutes": 17
@@ -5778,6 +9294,14 @@
     "261574": {
         "hours": 1.5,
         "minutes": 0
+    },
+    "26160": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "261661": {
+        "hours": 0,
+        "minutes": 19.0
     },
     "26223": {
         "hours": 0,
@@ -5787,9 +9311,29 @@
         "hours": 0,
         "minutes": 0
     },
+    "26266": {
+        "hours": 2,
+        "minutes": 4.0
+    },
+    "26322": {
+        "hours": 0,
+        "minutes": 50
+    },
     "26328": {
         "hours": 0,
         "minutes": 52.5
+    },
+    "26333": {
+        "hours": 0,
+        "minutes": 42.5
+    },
+    "26342": {
+        "hours": 4,
+        "minutes": 0
+    },
+    "26444": {
+        "hours": 5,
+        "minutes": 0
     },
     "26462": {
         "hours": 0,
@@ -5803,9 +9347,33 @@
         "hours": 0,
         "minutes": 20
     },
+    "26633": {
+        "hours": 2,
+        "minutes": 0
+    },
+    "26641": {
+        "hours": 0,
+        "minutes": 20
+    },
     "26665": {
         "hours": 0,
         "minutes": 0
+    },
+    "26703": {
+        "hours": 0,
+        "minutes": 30
+    },
+    "26707": {
+        "hours": 0,
+        "minutes": 3
+    },
+    "26742": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "26825": {
+        "hours": 0,
+        "minutes": 18.5
     },
     "26869": {
         "hours": 0,
@@ -5839,6 +9407,14 @@
         "hours": 0,
         "minutes": 45
     },
+    "29871": {
+        "hours": 0,
+        "minutes": 30
+    },
+    "29884": {
+        "hours": 0,
+        "minutes": 50
+    },
     "29905": {
         "hours": 0,
         "minutes": 0
@@ -5859,6 +9435,14 @@
         "hours": 0,
         "minutes": 30
     },
+    "31109": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "31471": {
+        "hours": 0,
+        "minutes": 35
+    },
     "31772": {
         "hours": 4,
         "minutes": 0
@@ -5866,6 +9450,10 @@
     "31845": {
         "hours": 0,
         "minutes": 1.5
+    },
+    "32007": {
+        "hours": 0,
+        "minutes": 22.5
     },
     "32070": {
         "hours": 0,
@@ -5879,11 +9467,23 @@
         "hours": 0,
         "minutes": 0
     },
+    "32243": {
+        "hours": 0,
+        "minutes": 0
+    },
     "32352": {
         "hours": 0,
         "minutes": 0
     },
+    "32370": {
+        "hours": 2,
+        "minutes": 0
+    },
     "32408": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "32447": {
         "hours": 0,
         "minutes": 0
     },
@@ -5895,11 +9495,19 @@
         "hours": 0,
         "minutes": 0
     },
+    "32599": {
+        "hours": 0,
+        "minutes": 0
+    },
     "32615": {
         "hours": 0,
         "minutes": 0
     },
     "32664": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "32695": {
         "hours": 0,
         "minutes": 0
     },
@@ -5911,6 +9519,14 @@
         "hours": 8,
         "minutes": 0
     },
+    "33472": {
+        "hours": 0,
+        "minutes": 11.0
+    },
+    "33620": {
+        "hours": 0,
+        "minutes": 34.0
+    },
     "33647": {
         "hours": 0,
         "minutes": 0
@@ -5918,6 +9534,10 @@
     "34221": {
         "hours": 0,
         "minutes": 9.0
+    },
+    "34421": {
+        "hours": 0,
+        "minutes": 15
     },
     "34449": {
         "hours": 0,
@@ -5947,6 +9567,10 @@
         "hours": 0,
         "minutes": 62.5
     },
+    "35210": {
+        "hours": 0,
+        "minutes": 30
+    },
     "35633": {
         "hours": 0,
         "minutes": 35
@@ -5959,9 +9583,25 @@
         "hours": 0,
         "minutes": 0
     },
+    "36017": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "36124": {
+        "hours": 0,
+        "minutes": 5.0
+    },
     "36420": {
         "hours": 2,
         "minutes": 0
+    },
+    "36490": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "37026": {
+        "hours": 0,
+        "minutes": 45
     },
     "37067": {
         "hours": 0,
@@ -5983,6 +9623,10 @@
         "hours": 0,
         "minutes": 0
     },
+    "38277": {
+        "hours": 0,
+        "minutes": 37.5
+    },
     "38324": {
         "hours": 0,
         "minutes": 21.5
@@ -6003,6 +9647,10 @@
         "hours": 36,
         "minutes": 0
     },
+    "38734": {
+        "hours": 0,
+        "minutes": 32.5
+    },
     "39600": {
         "hours": 0,
         "minutes": 72.5
@@ -6010,6 +9658,22 @@
     "39642": {
         "hours": 0,
         "minutes": 94.0
+    },
+    "39799": {
+        "hours": 0,
+        "minutes": 75.0
+    },
+    "40043": {
+        "hours": 0,
+        "minutes": 29.0
+    },
+    "40061": {
+        "hours": 0,
+        "minutes": 5
+    },
+    "40203": {
+        "hours": 9,
+        "minutes": 2
     },
     "40303": {
         "hours": 0,
@@ -6023,9 +9687,21 @@
         "hours": 0,
         "minutes": 0
     },
+    "40453": {
+        "hours": 0,
+        "minutes": 70
+    },
     "40575": {
         "hours": 0,
         "minutes": 41.5
+    },
+    "41441": {
+        "hours": 0,
+        "minutes": 20
+    },
+    "41444": {
+        "hours": 6,
+        "minutes": 0
     },
     "41550": {
         "hours": 0,
@@ -6034,6 +9710,10 @@
     "41636": {
         "hours": 6,
         "minutes": 20
+    },
+    "41638": {
+        "hours": 0,
+        "minutes": 3.5
     },
     "41755": {
         "hours": 0,
@@ -6083,6 +9763,18 @@
         "hours": 0,
         "minutes": 0
     },
+    "43641": {
+        "hours": 0,
+        "minutes": 15.0
+    },
+    "43741": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "43743": {
+        "hours": 0,
+        "minutes": 34
+    },
     "43941": {
         "hours": 0,
         "minutes": 31.0
@@ -6090,6 +9782,10 @@
     "44207": {
         "hours": 0,
         "minutes": 30
+    },
+    "44232": {
+        "hours": 0,
+        "minutes": 0
     },
     "44707": {
         "hours": 0,
@@ -6099,6 +9795,10 @@
         "hours": 0,
         "minutes": 10
     },
+    "45006": {
+        "hours": 0,
+        "minutes": 7.5
+    },
     "45118": {
         "hours": 0,
         "minutes": 31.5
@@ -6106,6 +9806,18 @@
     "45138": {
         "hours": 8,
         "minutes": 35
+    },
+    "45212": {
+        "hours": 0,
+        "minutes": 25
+    },
+    "45223": {
+        "hours": 0,
+        "minutes": 5
+    },
+    "45313": {
+        "hours": 0,
+        "minutes": 15
     },
     "45396": {
         "hours": 0,
@@ -6115,9 +9827,17 @@
         "hours": 0,
         "minutes": 45
     },
+    "45514": {
+        "hours": 0,
+        "minutes": 59.0
+    },
     "45558": {
         "hours": 0,
         "minutes": 45
+    },
+    "45611": {
+        "hours": 0,
+        "minutes": 0
     },
     "45837": {
         "hours": 0,
@@ -6127,29 +9847,73 @@
         "hours": 0,
         "minutes": 57.5
     },
+    "46464": {
+        "hours": 0,
+        "minutes": 6.0
+    },
     "46648": {
         "hours": 0,
         "minutes": 20.0
+    },
+    "46664": {
+        "hours": 8,
+        "minutes": 10
+    },
+    "46934": {
+        "hours": 0,
+        "minutes": 42.5
     },
     "47076": {
         "hours": 0,
         "minutes": 6.5
     },
+    "47426": {
+        "hours": 0,
+        "minutes": 50
+    },
     "47688": {
         "hours": 0,
         "minutes": 12
+    },
+    "47822": {
+        "hours": 0,
+        "minutes": 5
+    },
+    "47832": {
+        "hours": 0,
+        "minutes": 0
     },
     "48144": {
         "hours": 0,
         "minutes": 22.5
     },
+    "48390": {
+        "hours": 7.0,
+        "minutes": 0
+    },
     "48959": {
         "hours": 0,
         "minutes": 0
     },
+    "49312": {
+        "hours": 0,
+        "minutes": 22.5
+    },
+    "49353": {
+        "hours": 0,
+        "minutes": 42.5
+    },
     "49821": {
         "hours": 3.5,
         "minutes": 30
+    },
+    "49976": {
+        "hours": 0,
+        "minutes": 42.5
+    },
+    "50036": {
+        "hours": 0,
+        "minutes": 0
     },
     "50042": {
         "hours": 3,
@@ -6163,6 +9927,18 @@
         "hours": 0,
         "minutes": 2.5
     },
+    "50791": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "50801": {
+        "hours": 0,
+        "minutes": 53
+    },
+    "50843": {
+        "hours": 4,
+        "minutes": 0
+    },
     "50939": {
         "hours": 0,
         "minutes": 25
@@ -6171,9 +9947,21 @@
         "hours": 0,
         "minutes": 10
     },
+    "51288": {
+        "hours": 0,
+        "minutes": 18.0
+    },
     "51447": {
         "hours": 0,
         "minutes": 25
+    },
+    "51697": {
+        "hours": 4,
+        "minutes": 0
+    },
+    "52144": {
+        "hours": 0,
+        "minutes": 8.5
     },
     "52197": {
         "hours": 0,
@@ -6190,6 +9978,10 @@
     "52357": {
         "hours": 0,
         "minutes": 55
+    },
+    "52457": {
+        "hours": 0,
+        "minutes": 0
     },
     "52618": {
         "hours": 0,
@@ -6231,9 +10023,25 @@
         "hours": 0,
         "minutes": 54.0
     },
+    "53648": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "53675": {
+        "hours": 0,
+        "minutes": 0
+    },
     "53760": {
         "hours": 0,
         "minutes": 5
+    },
+    "53779": {
+        "hours": 0,
+        "minutes": 20
+    },
+    "54165": {
+        "hours": 0,
+        "minutes": 0
     },
     "54173": {
         "hours": 0,
@@ -6243,9 +10051,21 @@
         "hours": 0,
         "minutes": 52.5
     },
+    "54621": {
+        "hours": 0,
+        "minutes": 9.0
+    },
     "54624": {
         "hours": 0,
         "minutes": 3
+    },
+    "54788": {
+        "hours": 6,
+        "minutes": 15
+    },
+    "54864": {
+        "hours": 0,
+        "minutes": 20
     },
     "54865": {
         "hours": 0,
@@ -6263,6 +10083,10 @@
         "hours": 0,
         "minutes": 15
     },
+    "55420": {
+        "hours": 0,
+        "minutes": 5
+    },
     "55483": {
         "hours": 0,
         "minutes": 0
@@ -6270,6 +10094,10 @@
     "55537": {
         "hours": 0,
         "minutes": 10
+    },
+    "55860": {
+        "hours": 0,
+        "minutes": 30
     },
     "56193": {
         "hours": 0,
@@ -6295,6 +10123,14 @@
         "hours": 0,
         "minutes": 65
     },
+    "57001": {
+        "hours": 0,
+        "minutes": 10
+    },
+    "57014": {
+        "hours": 0,
+        "minutes": 0
+    },
     "57298": {
         "hours": 0,
         "minutes": 10
@@ -6302,6 +10138,10 @@
     "57300": {
         "hours": 0,
         "minutes": 44.5
+    },
+    "57372": {
+        "hours": 3,
+        "minutes": 0
     },
     "57472": {
         "hours": 0,
@@ -6335,17 +10175,41 @@
         "hours": 0,
         "minutes": 0
     },
+    "58942": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "59822": {
+        "hours": 0,
+        "minutes": 45
+    },
     "59878": {
         "hours": 8,
         "minutes": 30
+    },
+    "60153": {
+        "hours": 0,
+        "minutes": 18
     },
     "60308": {
         "hours": 2,
         "minutes": 5
     },
+    "60349": {
+        "hours": 0,
+        "minutes": 46.5
+    },
+    "60928": {
+        "hours": 0,
+        "minutes": 0
+    },
     "61680": {
         "hours": 4,
         "minutes": 32.5
+    },
+    "61791": {
+        "hours": 0,
+        "minutes": 10
     },
     "61824": {
         "hours": 0,
@@ -6355,9 +10219,21 @@
         "hours": 0,
         "minutes": 0
     },
+    "62147": {
+        "hours": 0,
+        "minutes": 9.0
+    },
+    "62352": {
+        "hours": 0,
+        "minutes": 0
+    },
     "62393": {
         "hours": 0,
         "minutes": 60
+    },
+    "62786": {
+        "hours": 0,
+        "minutes": 4
     },
     "62957": {
         "hours": 0,
@@ -6383,9 +10259,17 @@
         "hours": 0,
         "minutes": 0
     },
+    "66428": {
+        "hours": 0,
+        "minutes": 0
+    },
     "66590": {
         "hours": 0,
         "minutes": 29.5
+    },
+    "67001": {
+        "hours": 8,
+        "minutes": 15
     },
     "67061": {
         "hours": 0,
@@ -6394,6 +10278,10 @@
     "67084": {
         "hours": 0,
         "minutes": 0
+    },
+    "6711": {
+        "hours": 2.0,
+        "minutes": 76.5
     },
     "67176": {
         "hours": 0,
@@ -6406,6 +10294,10 @@
     "67562": {
         "hours": 0,
         "minutes": 47.0
+    },
+    "67728": {
+        "hours": 0,
+        "minutes": 25
     },
     "6773": {
         "hours": 0,
@@ -6423,17 +10315,45 @@
         "hours": 0,
         "minutes": 55.0
     },
+    "68474": {
+        "hours": 0,
+        "minutes": 2
+    },
     "6850": {
         "hours": 0,
         "minutes": 55
     },
+    "68560": {
+        "hours": 3,
+        "minutes": 45
+    },
     "68601": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "6864": {
+        "hours": 0,
+        "minutes": 40.0
+    },
+    "68762": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "6880": {
         "hours": 0,
         "minutes": 0
     },
     "68986": {
         "hours": 0,
         "minutes": 2.5
+    },
+    "69098": {
+        "hours": 0,
+        "minutes": 30
+    },
+    "69117": {
+        "hours": 0,
+        "minutes": 12.5
     },
     "6920": {
         "hours": 0,
@@ -6443,9 +10363,17 @@
         "hours": 0,
         "minutes": 10
     },
+    "69414": {
+        "hours": 0,
+        "minutes": 20
+    },
     "69451": {
         "hours": 0,
         "minutes": 30
+    },
+    "69600": {
+        "hours": 0,
+        "minutes": 0
     },
     "6964": {
         "hours": 0,
@@ -6463,9 +10391,21 @@
         "hours": 0,
         "minutes": 27.5
     },
+    "69844": {
+        "hours": 0,
+        "minutes": 34
+    },
+    "69865": {
+        "hours": 0,
+        "minutes": 0
+    },
     "70032": {
         "hours": 0,
         "minutes": 42.5
+    },
+    "70036": {
+        "hours": 0,
+        "minutes": 0
     },
     "70038": {
         "hours": 2,
@@ -6482,6 +10422,10 @@
     "70230": {
         "hours": 0,
         "minutes": 30
+    },
+    "70336": {
+        "hours": 0,
+        "minutes": 42
     },
     "70448": {
         "hours": 0,
@@ -6539,17 +10483,45 @@
         "hours": 0,
         "minutes": 60
     },
+    "71289": {
+        "hours": 0,
+        "minutes": 27.5
+    },
+    "71402": {
+        "hours": 8,
+        "minutes": 45.0
+    },
     "71539": {
         "hours": 0,
         "minutes": 4.5
+    },
+    "71548": {
+        "hours": 0,
+        "minutes": 8
+    },
+    "7159": {
+        "hours": 0,
+        "minutes": 17.5
     },
     "7170": {
         "hours": 0,
         "minutes": 28.5
     },
+    "72092": {
+        "hours": 0,
+        "minutes": 0
+    },
     "72231": {
         "hours": 0,
         "minutes": 12
+    },
+    "72344": {
+        "hours": 0,
+        "minutes": 30
+    },
+    "72376": {
+        "hours": 0,
+        "minutes": 30
     },
     "7242": {
         "hours": 0,
@@ -6558,6 +10530,10 @@
     "72460": {
         "hours": 0,
         "minutes": 20
+    },
+    "7292": {
+        "hours": 0,
+        "minutes": 45
     },
     "72964": {
         "hours": 0,
@@ -6579,6 +10555,10 @@
         "hours": 8,
         "minutes": 45.0
     },
+    "73798": {
+        "hours": 0,
+        "minutes": 23.5
+    },
     "73846": {
         "hours": 6.0,
         "minutes": 40
@@ -6590,6 +10570,14 @@
     "73981": {
         "hours": 0,
         "minutes": 10
+    },
+    "74079": {
+        "hours": 0,
+        "minutes": 11.0
+    },
+    "74151": {
+        "hours": 0,
+        "minutes": 30
     },
     "74203": {
         "hours": 0,
@@ -6603,9 +10591,21 @@
         "hours": 0,
         "minutes": 30
     },
+    "74833": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "74931": {
+        "hours": 0,
+        "minutes": 34
+    },
     "7494": {
         "hours": 0,
         "minutes": 35
+    },
+    "74967": {
+        "hours": 0,
+        "minutes": 37.5
     },
     "75019": {
         "hours": 0,
@@ -6623,9 +10623,25 @@
         "hours": 0,
         "minutes": 20
     },
+    "7546": {
+        "hours": 0,
+        "minutes": 10
+    },
     "75475": {
         "hours": 0,
         "minutes": 72.5
+    },
+    "75659": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "7570": {
+        "hours": 0,
+        "minutes": 32.5
+    },
+    "76001": {
+        "hours": 0,
+        "minutes": 70
     },
     "76012": {
         "hours": 0,
@@ -6634,6 +10650,10 @@
     "76097": {
         "hours": 2,
         "minutes": 0
+    },
+    "76156": {
+        "hours": 0,
+        "minutes": 50
     },
     "76193": {
         "hours": 0,
@@ -6646,6 +10666,18 @@
     "76273": {
         "hours": 0,
         "minutes": 9.0
+    },
+    "7639": {
+        "hours": 8,
+        "minutes": 30
+    },
+    "76394": {
+        "hours": 0,
+        "minutes": 13.5
+    },
+    "76538": {
+        "hours": 0,
+        "minutes": 60
     },
     "76556": {
         "hours": 0,
@@ -6662,6 +10694,10 @@
     "76625": {
         "hours": 0,
         "minutes": 40
+    },
+    "76763": {
+        "hours": 0,
+        "minutes": 25
     },
     "76799": {
         "hours": 0,
@@ -6683,9 +10719,17 @@
         "hours": 0,
         "minutes": 32.5
     },
+    "77757": {
+        "hours": 0,
+        "minutes": 0
+    },
     "7778": {
         "hours": 0,
         "minutes": 25
+    },
+    "77797": {
+        "hours": 0,
+        "minutes": 20
     },
     "78052": {
         "hours": 0,
@@ -6707,9 +10751,29 @@
         "hours": 3,
         "minutes": 0
     },
+    "78402": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "78434": {
+        "hours": 8,
+        "minutes": 15
+    },
+    "78576": {
+        "hours": 0,
+        "minutes": 40
+    },
     "7873": {
         "hours": 0,
         "minutes": 20
+    },
+    "7883": {
+        "hours": 0,
+        "minutes": 66.5
+    },
+    "79017": {
+        "hours": 0,
+        "minutes": 52.5
     },
     "79035": {
         "hours": 0,
@@ -6718,6 +10782,10 @@
     "79152": {
         "hours": 0,
         "minutes": 26
+    },
+    "79249": {
+        "hours": 0,
+        "minutes": 13
     },
     "79437": {
         "hours": 0,
@@ -6735,17 +10803,61 @@
         "hours": 0,
         "minutes": 5
     },
+    "7996": {
+        "hours": 0,
+        "minutes": 30.0
+    },
+    "7998": {
+        "hours": 0,
+        "minutes": 165
+    },
+    "80388": {
+        "hours": 0,
+        "minutes": 20
+    },
+    "8079": {
+        "hours": 0,
+        "minutes": 7
+    },
     "80808": {
         "hours": 2,
         "minutes": 0
+    },
+    "81149": {
+        "hours": 0,
+        "minutes": 25
+    },
+    "81354": {
+        "hours": 0,
+        "minutes": 40
+    },
+    "81579": {
+        "hours": 0,
+        "minutes": 7.5
+    },
+    "81972": {
+        "hours": 0,
+        "minutes": 37.0
+    },
+    "82013": {
+        "hours": 0,
+        "minutes": 15
     },
     "8208": {
         "hours": 0,
         "minutes": 0
     },
+    "82137": {
+        "hours": 0,
+        "minutes": 16.0
+    },
     "82294": {
         "hours": 0,
         "minutes": 15
+    },
+    "82498": {
+        "hours": 0,
+        "minutes": 5
     },
     "82507": {
         "hours": 0,
@@ -6759,6 +10871,14 @@
         "hours": 0,
         "minutes": 15
     },
+    "83275": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "83360": {
+        "hours": 0,
+        "minutes": 3
+    },
     "83387": {
         "hours": 0,
         "minutes": 0
@@ -6766,6 +10886,18 @@
     "83562": {
         "hours": 0,
         "minutes": 0
+    },
+    "83587": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "8378": {
+        "hours": 0,
+        "minutes": 35
+    },
+    "83780": {
+        "hours": 2,
+        "minutes": 35
     },
     "84000": {
         "hours": 2,
@@ -6795,6 +10927,14 @@
         "hours": 3.0,
         "minutes": 0
     },
+    "84737": {
+        "hours": 0,
+        "minutes": 6.5
+    },
+    "84760": {
+        "hours": 0,
+        "minutes": 59
+    },
     "8488": {
         "hours": 0,
         "minutes": 67.5
@@ -6810,6 +10950,14 @@
     "8514": {
         "hours": 0,
         "minutes": 24.0
+    },
+    "85165": {
+        "hours": 0,
+        "minutes": 30
+    },
+    "85275": {
+        "hours": 0,
+        "minutes": 17
     },
     "85453": {
         "hours": 0,
@@ -6827,13 +10975,25 @@
         "hours": 0,
         "minutes": 5
     },
+    "8571": {
+        "hours": 0,
+        "minutes": 10
+    },
     "85736": {
         "hours": 0,
         "minutes": 0
     },
+    "85933": {
+        "hours": 0,
+        "minutes": 9.0
+    },
     "85985": {
         "hours": 0,
         "minutes": 23
+    },
+    "86024": {
+        "hours": 0,
+        "minutes": 0
     },
     "86086": {
         "hours": 0,
@@ -6843,9 +11003,17 @@
         "hours": 0,
         "minutes": 20
     },
+    "86194": {
+        "hours": 8,
+        "minutes": 0
+    },
     "8627": {
         "hours": 0,
         "minutes": 19.5
+    },
+    "86323": {
+        "hours": 0,
+        "minutes": 33
     },
     "86398": {
         "hours": 0,
@@ -6859,6 +11027,10 @@
         "hours": 0,
         "minutes": 25
     },
+    "86587": {
+        "hours": 0,
+        "minutes": 0
+    },
     "8668": {
         "hours": 0,
         "minutes": 9.0
@@ -6867,6 +11039,18 @@
         "hours": 0,
         "minutes": 23
     },
+    "87050": {
+        "hours": 0,
+        "minutes": 15
+    },
+    "87168": {
+        "hours": 0,
+        "minutes": 40
+    },
+    "87201": {
+        "hours": 0,
+        "minutes": 10
+    },
     "87237": {
         "hours": 0,
         "minutes": 34
@@ -6874,6 +11058,10 @@
     "87365": {
         "hours": 0,
         "minutes": 2.5
+    },
+    "87471": {
+        "hours": 0,
+        "minutes": 27.5
     },
     "87483": {
         "hours": 6,
@@ -6919,6 +11107,10 @@
         "hours": 0,
         "minutes": 22.5
     },
+    "8853": {
+        "hours": 0,
+        "minutes": 30
+    },
     "88561": {
         "hours": 0,
         "minutes": 0
@@ -6943,11 +11135,27 @@
         "hours": 0,
         "minutes": 0
     },
+    "89225": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "89236": {
+        "hours": 0,
+        "minutes": 19.5
+    },
+    "89261": {
+        "hours": 0,
+        "minutes": 30
+    },
     "89315": {
         "hours": 0,
         "minutes": 12.5
     },
     "89358": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "89368": {
         "hours": 0,
         "minutes": 0
     },
@@ -6963,6 +11171,34 @@
         "hours": 0,
         "minutes": 4
     },
+    "89577": {
+        "hours": 0,
+        "minutes": 33
+    },
+    "89583": {
+        "hours": 0,
+        "minutes": 85
+    },
+    "89606": {
+        "hours": 0,
+        "minutes": 35
+    },
+    "8978": {
+        "hours": 0,
+        "minutes": 3.5
+    },
+    "89970": {
+        "hours": 0,
+        "minutes": 10
+    },
+    "9000": {
+        "hours": 0,
+        "minutes": 5
+    },
+    "90234": {
+        "hours": 0,
+        "minutes": 0
+    },
     "90294": {
         "hours": 0,
         "minutes": 32.5
@@ -6970,6 +11206,10 @@
     "90310": {
         "hours": 0,
         "minutes": 47.5
+    },
+    "90426": {
+        "hours": 1.5,
+        "minutes": 9.0
     },
     "9044": {
         "hours": 0,
@@ -6983,8 +11223,16 @@
         "hours": 0,
         "minutes": 0
     },
+    "9090": {
+        "hours": 0,
+        "minutes": 50
+    },
     "9125": {
         "hours": 3,
+        "minutes": 37.5
+    },
+    "91769": {
+        "hours": 0,
         "minutes": 37.5
     },
     "91810": {
@@ -7007,6 +11255,14 @@
         "hours": 0,
         "minutes": 0
     },
+    "9298": {
+        "hours": 0,
+        "minutes": 55.0
+    },
+    "92992": {
+        "hours": 11.0,
+        "minutes": 0
+    },
     "9300": {
         "hours": 0,
         "minutes": 15
@@ -7018,6 +11274,10 @@
     "9316": {
         "hours": 0,
         "minutes": 0
+    },
+    "9340": {
+        "hours": 0,
+        "minutes": 29
     },
     "94035": {
         "hours": 0,
@@ -7043,6 +11303,14 @@
         "hours": 3.5,
         "minutes": 0
     },
+    "95355": {
+        "hours": 0,
+        "minutes": 19
+    },
+    "9543": {
+        "hours": 0,
+        "minutes": 35
+    },
     "95492": {
         "hours": 0,
         "minutes": 0
@@ -7054,6 +11322,14 @@
     "95568": {
         "hours": 0,
         "minutes": 0
+    },
+    "9615": {
+        "hours": 0,
+        "minutes": 35
+    },
+    "9668": {
+        "hours": 0,
+        "minutes": 11.0
     },
     "96856": {
         "hours": 0,
@@ -7067,8 +11343,20 @@
         "hours": 3,
         "minutes": 20
     },
+    "98572": {
+        "hours": 0,
+        "minutes": 0
+    },
+    "98843": {
+        "hours": 24,
+        "minutes": 11.0
+    },
     "99392": {
         "hours": 0,
         "minutes": 5
+    },
+    "9999": {
+        "hours": 0,
+        "minutes": 0
     }
 }
