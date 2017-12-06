@@ -39,7 +39,7 @@ class Recipe:
 
 def main():
     
-    i = '79'
+    i = '60'
     jsonDir = sys.argv[1]
     #for filename in os.listdir(jsonDir):
     filename = 'links_{}'.format(i)
@@ -79,21 +79,6 @@ def main():
         id = ''.join(ch for ch in url if ch.isdigit())
         r.id = id
 
-        # Get Tags
-        for tag in line[1:]:
-            r.tags.append(tag)
-
-        # Get ingredients
-        all_ingredients = soup.find_all('ul', 'dropdownwrapper')
-        for ingredients in all_ingredients:
-            for ingredient in ingredients.find_all('span', 'recipe-ingred_txt added'):
-                r.ingredients.append(ingredient.string)
-
-        # Get Instructions
-        instructions = soup.find('ol', 'list-numbers recipe-directions__list')
-        for instruction in instructions.find_all('span', 'recipe-directions__list--item'):
-            r.instructions.append(instruction.string)
-
         # Get Ready In Time
         times = soup.find_all('li', 'prepTime__item')
         for time_option in times:
@@ -118,6 +103,22 @@ def main():
                 r.ready = minutes
         if r.ready == None or r.ready == 0:
             continue
+
+        # Get Tags
+        for tag in line[1:]:
+            r.tags.append(tag)
+
+        # Get ingredients
+        all_ingredients = soup.find_all('ul', 'dropdownwrapper')
+        for ingredients in all_ingredients:
+            for ingredient in ingredients.find_all('span', 'recipe-ingred_txt added'):
+                r.ingredients.append(ingredient.string)
+
+        # Get Instructions
+        instructions = soup.find('ol', 'list-numbers recipe-directions__list')
+        for instruction in instructions.find_all('span', 'recipe-directions__list--item'):
+            r.instructions.append(instruction.string)
+
         recipes[id] = r.to_dict()
 
     output.write(json.dumps(recipes, sort_keys=True, indent=3))
