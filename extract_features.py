@@ -3,6 +3,8 @@ import numpy as np
 from sets import Set
 import code #DEBUG code.interact(local=locals())
 
+stop_words = []
+
 def create_feature(ids, parse_tree):
 	'''
 		INPUT:
@@ -12,15 +14,16 @@ def create_feature(ids, parse_tree):
 	unique_items = []
 	for ID in ids:
 		for item in parse_tree[ID].keys():
-			if item not in unique_items:
+			if item not in unique_items && not in stop_words:
 				unique_items.append(item)
 	#print(unique_items)
 
 	fv = np.zeros((len(ids), len(unique_items)))
 	for i, ID in enumerate(ids):
 		for item in parse_tree[ID].keys():
-			j = unique_items.index(item)
-			fv[i][j] = parse_tree[ID][item]
+			if item not in stop_words:
+				j = unique_items.index(item)
+				fv[i][j] = parse_tree[ID][item]
 
 	return fv
 
@@ -46,6 +49,12 @@ def generate_features(imperatives, ingredients, times, num_instructions, num_ing
 	f4 = f4.reshape(f4.shape[0], 1)
 	f5 = create_feature(ids, instruction_time)
 	x = np.concatenate((f1, f2, f3, f4, f5), axis=1)
+
+	#smoothing
+	x = np.multiply(np.divide(x, 100), 98)
+	x_mask = np.multiply((x < 0.1).astype(int), .02)
+	x = np.add(x, x_mask)
+
 	y = create_time_feature(ids, times)
 
-	return x, y
+	return x, y, np.array(ids)

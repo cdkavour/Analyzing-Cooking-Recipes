@@ -1,5 +1,5 @@
 from sklearn.tree import DecisionTreeRegressor
-from sklearn import svm 
+from sklearn import svm
 from sklearn.neighbors import KNeighborsRegressor
 from sklearn.gaussian_process import GaussianProcessRegressor
 import sys
@@ -15,7 +15,7 @@ import code #DEBUG code.interact(local=locals())
 import math
 
 def get_accuracy(y_test, y_pred):
-	
+
 	diff = np.absolute(np.subtract(y_test, y_pred))
 	percentage = np.divide(diff, y_test)
 
@@ -29,7 +29,7 @@ def get_accuracy(y_test, y_pred):
 
 	return np.average(percentage) * 100
 
-def train_random_forest(train_x, train_y, m, n_clf=10):
+def train_random_forest(train_x, train_y, m, n_clf=1):
 	"""
 	Returns accuracy on the test set test_x with corresponding labels test_y
 	using a random forest classifier with n_clf decision trees trained with
@@ -71,13 +71,14 @@ def test_random_forest(test_x, y_true, forest):
 
 	n_test, d_test = test_x.shape
 	n_clf = len(forest)
+
 	forest_pred = np.zeros((n_clf, n_test))
 
 	for j in range(n_clf):
 		pred = forest[j].predict(test_x)
 		forest_pred[j] = pred
 
-	y_pred = np.average(np.transpose(forest_pred), axis=1)
+	y_pred = np.ceil(np.average(np.transpose(forest_pred), axis=1))
 
 	return get_accuracy(y_true, y_pred)
 
@@ -103,40 +104,58 @@ def main():
 		if times[recipeID] > 24*60: del times[recipeID]
 
 
-	x, y = extract_features.generate_features(imperatives, ingredients, times, num_instructions, num_ingredients, instruction_times)
+	x, y, ids = extract_features.generate_features(imperatives, ingredients, times, num_instructions, num_ingredients, instruction_times)
 	s = np.arange(len(x))
 	np.random.shuffle(s)
 	x = x[s]
 	y = y[s]
+	ids = ids[s]
 
 	m = 200
 	#f_range = (np.arange(10)+1)*5
 	#f_range = np.power((np.arange(10)+1), math.e).astype(int)
 	f = 3
-	c_range = [0.001, 0.01, 0.1, 1, 10, 100, 1000] #C = 100 / 1000
-	n_n_range = [3, 6, 9, 12, 15, 18, 21] 
-	alpha_range = [1e-12, 1e-11, 1e-10, 1e-9, 1e-8]
+
+	#c_range = [0.001, 0.01, 0.1, 1, 10, 100, 1000] #C = 100 / 1000
+	#n_n_range = [3, 6, 9, 12, 15, 18, 21]
+	#alpha_range = [1e-12, 1e-11, 1e-10, 1e-9, 1e-8]
 
 	train_split = int(len(x))/10*7
 	train_x, train_y = x[:train_split], y[:train_split]
 	test_x, test_y = x[train_split:], y[train_split:]
+	train_ids, test_ids = ids[train_split:], ids[train_split:]
 	baseline(train_y)
 
 	c = 100
-	forest = train_random_forest(train_x, train_y, c, f)
-	accuracy = test_random_forest(test_x, test_y, forest)
-	print(accuracy)
+	best_forest = []
+	best_accuracy = 0
+
+	k = int(math.ceil(train_split/5.0))
+	train_x_folds = [train_x[1:k], train_x[k:2*k], train_x[2*k:3*k], train_x[3*k:4*k], train_x[4*k:]]
+	train_y_folds = [train_y[1:k], train_y[k:2*k], train_y[2*k:3*k], train_y[3*k:4*k], train_y[4*k:]]
+
+	for fold in range(5):
+		train_x_current = [train_x[0]]
+		train_y_current = [train_y[0]]
+
+		for i in range(5):
+			if fold != i:
+				train_x_current = np.concatenate((train_x_current, train_x_folds[i]))
+				train_y_current = np.concatenate((train_y_current, train_y_folds[i]))
+
+		forest = train_random_forest(train_x_current, train_y_current, c, f)
+		accuracy = test_random_forest(train_x_folds[fold], train_y_folds[fold], forest)
+		print("FOLD # " + str(fold+1) + " " + str(accuracy))
+
+		if accuracy > best_accuracy:
+			best_accuracy = accuracy
+			best_forest = forest
+
+	final_acc = test_random_forest(test_x, test_y, best_forest)
+	print("TEST: " + str(final_acc))
+
 	#print("C = {0}: {1}".format(alpha, np.average(acc)))
 
 
 if __name__ == '__main__':
 	main()
-
-'''
-SVM
-SGD
-NeaNei
-Gauss
-
-Voting
-'''
