@@ -41,7 +41,7 @@ def get_imperatives(jsonDir):
 
 						raw_clause = re.sub(reg,' ', raw_clause)
 						
-						clause = 'They {}'.format(raw_clause.rstrip('.'))
+						clause = 'You {}'.format(raw_clause.rstrip('.'))
 						words = nltk.word_tokenize(clause)
 						
 						if len(words) == 1:
@@ -55,7 +55,7 @@ def get_imperatives(jsonDir):
 							if label[1] == 'VBP':
 								imperatives[label[0].lower()] += 1
 						
-						
+
 						#TODO: Strictly pick verbs related to 'They' as the subject
 
 				imperative_map[recipe_id] = imperatives

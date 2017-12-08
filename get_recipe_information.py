@@ -39,7 +39,7 @@ class Recipe:
 
 def main():
     
-    i = '75'
+    i = '51'
     jsonDir = sys.argv[1]
     #for filename in os.listdir(jsonDir):
     filename = 'links_{}'.format(i)

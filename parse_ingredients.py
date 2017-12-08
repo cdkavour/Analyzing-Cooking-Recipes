@@ -24,6 +24,7 @@ def save_cook_nouns(jsonDir):
 	reg = re.compile('[^\x00-\x7F]+')
 
 	id_map = {}
+	allIngCount = collections.Counter()
 
 	for filename in os.listdir(jsonDir):
 		if filename.endswith('.json'):
@@ -52,7 +53,9 @@ def save_cook_nouns(jsonDir):
 						ingCount[entry['name'].lower()] += 1
 
 				id_map[recipe_id] = ingCount
+				allIngCount += ingCount
 
+	print(allIngCount.most_common(20))
 
 	filename = 'processed/ingredients.json'
 	with open(filename, 'w') as fp:
