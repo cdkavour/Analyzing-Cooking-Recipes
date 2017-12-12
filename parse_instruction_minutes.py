@@ -15,7 +15,6 @@ import nltk
 import collections
 from sets import Set
 import re
-import code #DEBUG code.interact(local=locals())
 
 #Returns map from recipeIDs -> imperatives -> counts
 def get_instruction_time_words(jsonDir):

@@ -1,24 +1,23 @@
 """
-Usage:
-	python parse_ingredients.py DIR
+parse_ingredients.py
 
-	DIR - a directory containing the scraped data from allrecipes in JSON format (get_recipe_information.py)
+Usage:
+	python parse_ingredients.py jsonDir
+
+	jsonDir - a directory containing the scraped data from allrecipes in JSON format (get_recipe_information.py)
 
 Function:
 	Generates processed/ingredients.json, which maps recipeID to counts of its ingredients
-
-**Relies on the NYTimes ingredient tagger being installed**
-
+	** Relies on the NYTimes ingredient tagger being installed **
 """
 
 import os, sys
 import json
 import collections
 import re
-import code #DEBUG code.interact(local=locals())
 
-def save_cook_nouns(jsonDir):
-
+def main():
+	jsonDir = sys.argv[1]
 	relPath = '../ingredient-phrase-tagger-master/ingredient-phrase-tagger-master/bin/'
 
 	reg = re.compile('[^\x00-\x7F]+')
@@ -62,5 +61,4 @@ def save_cook_nouns(jsonDir):
 		json.dump(id_map, fp, sort_keys=True, indent=4, separators=(',', ': '))
 
 if __name__ == '__main__':
-	inDir = sys.argv[1]
-	save_cook_nouns(inDir)
+	main()

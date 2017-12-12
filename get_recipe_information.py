@@ -1,3 +1,18 @@
+'''
+get_recipe_information.py
+
+Module Description: Main function parses a list of URL links to recipes on allrecipes.com,
+                    and creates a JSON file representing those recipes and all data
+                    associated with them in json format. JSON file for the ith list of 
+                    link is stored in the recipes/ directory as recipes_i.json
+
+Classes:
+    Recipe: Stores relevant scraped information about a given recipe
+            Overloaded function __str__ for convinient printing of recipe info
+            The recipe.to_dict() function allows for easy creation of a dictionary
+                object from the recipe's info
+'''
+
 from urllib2 import urlopen
 from bs4 import BeautifulSoup
 from collections import defaultdict
@@ -5,6 +20,8 @@ import json
 import time
 import sys, os
 
+# Global variable i identifies which set of URL links we want to scrape - CHANGE THIS AS NEEDED
+i = '51'
 
 class Recipe:
     def __init__(self):
@@ -38,33 +55,32 @@ class Recipe:
 
 
 def main():
-    
-    i = '51'
-    jsonDir = sys.argv[1]
-    #for filename in os.listdir(jsonDir):
-    filename = 'links_{}'.format(i)
-
     print('Processing link file {}'.format(i))
 
+    # Argument to the script is the name of the directory containing the URL links to be parsed
+    jsonDir = sys.argv[1]
+    filename = 'links_{}'.format(i)
+
+    # Get list of URL links
     URLS = open(os.path.join(jsonDir, filename)).read().splitlines()
 
+    # Initialize empty dictionary for storing recipe information
     recipes = defaultdict(dict)
 
+    # Create and open our output file for writing to
     output = open('recipes/recipes_{}.json'.format(i), 'w')
 
-    # TODO -- Verify Uniqueness across link files
-    totLen = len(URLS)
-    curUrl = 0.
-    for idx, line in enumerate(URLS):
+    # Loop though the URLs; scrape each from allrecipes.com using Beautiful Soup
+    for url_idx, line in enumerate(URLS):
 
-        if (curUrl % 6) == 0:
-            print('\t {}%'.format((curUrl/totLen) * 100))
+        # Print out % of URLs parsed every once in a while as a sanity check
+        if (url_idx % 6) == 0:
+            print('\t {}%'.format((curUrl/len(URLS)) * 100))
 
-        curUrl += 1
-
+        # Create Recipe object r for our current recipe
         r = Recipe()
 
-        # Make soup for this recipe
+        # Make Soup object for this recipe, for scraping data
         line = line.split()
         url = line[0]
         time.sleep(0)
@@ -72,14 +88,14 @@ def main():
             bytes = urlopen(url).read()
             soup = BeautifulSoup(bytes, 'lxml')
         except:
-            print(':(')
+            print('Error accessing URL -- may have been blocked from allrecipes.com')
             continue
 
-        # Get ID
+        # Get ID for this recipe (directly form the URL)
         id = ''.join(ch for ch in url if ch.isdigit())
         r.id = id
 
-        # Get Ready In Time
+        # Scrape the Ready In Time for this recipe
         times = soup.find_all('li', 'prepTime__item')
         for time_option in times:
             time_type = time_option.find('p', 'prepTime__item--type')
@@ -101,31 +117,32 @@ def main():
                 if 'M' in T:
                     minutes += int(T.partition('M')[0])
                 r.ready = minutes
+
+        # Continue if the Ready In Time is zero for this recipe
         if r.ready == None or r.ready == 0:
             continue
 
-        # Get Tags
+        # Get category tags assciated from this recipe (directly from the URL)
         for tag in line[1:]:
             r.tags.append(tag)
 
-        # Get ingredients
+        # Scrape the ingredients for this recipe
         all_ingredients = soup.find_all('ul', 'dropdownwrapper')
         for ingredients in all_ingredients:
             for ingredient in ingredients.find_all('span', 'recipe-ingred_txt added'):
                 r.ingredients.append(ingredient.string)
 
-        # Get Instructions
+        # Scrape the instructions for this recipe
         instructions = soup.find('ol', 'list-numbers recipe-directions__list')
         for instruction in instructions.find_all('span', 'recipe-directions__list--item'):
             r.instructions.append(instruction.string)
 
+        # Create dictionary object from the scraped recipe data
         recipes[id] = r.to_dict()
 
+    # Write dictionary object for this recipe to our output JSON file
     output.write(json.dumps(recipes, sort_keys=True, indent=3))
-
     output.close()
-
-    #i += 1
 
 if __name__ == '__main__':
     main()

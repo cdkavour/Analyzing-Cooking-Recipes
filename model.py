@@ -1,3 +1,11 @@
+'''
+model.py
+
+Module Description: This module defines the machine learning model(s) used to predict recipe
+					Ready In Time, and executes it/them on the recipe feature data parsed by the 
+					parsing scripts from the scraped input recipe data.
+'''
+
 from sklearn.tree import DecisionTreeRegressor
 from sklearn import svm
 from sklearn.neighbors import KNeighborsRegressor
@@ -10,24 +18,46 @@ import extra_functions
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
-import code #DEBUG code.interact(local=locals())
-#import ipdb
 import math
 
-def get_accuracy(y_test, y_pred):
+############################# HELPER FUNCTIONS ################################
 
+def get_accuracy(y_test, y_pred):
+	'''
+		INPUT:
+			y_test: true labels of recipe times
+			y_pred: predicted labels of recipe times
+
+		OUTPUT:
+			acc: accuracy of your predictions
+	'''
+
+	# Calculate vector of the time errors (absolute value of (predicted time - true time) ) for each prediction
 	diff = np.absolute(np.subtract(y_test, y_pred))
+
+	# Calculate vector of the percent errors for each prediction
 	percentage = np.divide(diff, y_test)
 
-	#Plotting
+	''' Plot Results '''
+	# Create scatter plot of our predicted times against true times
 	fig = plt.figure()
 	plt.scatter(y_test, y_pred)
+
+	# Include line indicating the median prep time across all labels
 	plt.plot(np.full(y_test.shape, np.median(y_test)), color='red')
+
+	# Include line indicating perfect preditions (y = x)
 	plt.plot(np.arange(np.max(y_test)))
+
+	# Show plot
 	plt.show()
+
+	# Save plot
 	fig.savefig('accuracy.png')
 
-	return np.average(percentage) * 100
+	# Return the average percent error across all predictions
+	acc = np.average(percentage) * 100
+	return acc
 
 def train_random_forest(train_x, train_y, m, n_clf=1):
 	"""
@@ -51,11 +81,10 @@ def train_random_forest(train_x, train_y, m, n_clf=1):
 	forest = []
 
 	for i in range(n_clf):
-		#select features
 		#forest.append(DecisionTreeRegressor(max_features=m))
-		forest.append(svm.SVR(C=m))
 		#forest.append(KNeighborsRegressor(n_neighbors=m))
 		#forest.append(GaussianProcessRegressor(alpha=m))
+		forest.append(svm.SVR(C=m))
 		x_train_sample, y_train_sample = resample(train_x, train_y, n_samples=n)
 		forest[i].fit(x_train_sample, y_train_sample)
 
@@ -84,26 +113,30 @@ def test_random_forest(test_x, y_true, forest):
 
 def baseline(truths):
 	median = np.median(truths)
-	#print(median)
-
 	acc = get_accuracy( truths, np.full(truths.shape, median))
-
 	print('Baseline: {}'.format(acc))
+
+############################# MAIN ################################
 
 def main():
 	print("Getting training data")
+
+	# Get parsed json data as dictionary objects for inputs to the model
 	imperatives = extra_functions.json_to_dict("processed/instructions.json")
 	ingredients = extra_functions.json_to_dict("processed/ingredients.json")
-	times = extra_functions.json_to_dict("processed/times.json")
 	num_instructions = extra_functions.json_to_dict("processed/num_instructions.json")
 	num_ingredients = extra_functions.json_to_dict("processed/num_ingredients.json")
 	instruction_times = extra_functions.json_to_dict("processed/instruction_time.json")
+	times = extra_functions.json_to_dict("processed/times.json")
 
+	# Get ordered list of recipe ids
 	recipeIDs = times.keys()
+
+	# Exclude recipes who's true Ready-In Times are greater than 24 hours
 	for recipeID in recipeIDs:
 		if times[recipeID] > 24*60: del times[recipeID]
 
-
+	# Get feature matrix x, and true label vector y
 	x, y, ids = extract_features.generate_features(imperatives, ingredients, times, num_instructions, num_ingredients, instruction_times)
 	s = np.arange(len(x))
 	np.random.shuffle(s)
@@ -115,10 +148,6 @@ def main():
 	#f_range = (np.arange(10)+1)*5
 	#f_range = np.power((np.arange(10)+1), math.e).astype(int)
 	f = 3
-
-	#c_range = [0.001, 0.01, 0.1, 1, 10, 100, 1000] #C = 100 / 1000
-	#n_n_range = [3, 6, 9, 12, 15, 18, 21]
-	#alpha_range = [1e-12, 1e-11, 1e-10, 1e-9, 1e-8]
 
 	train_split = int(len(x))/10*7
 	train_x, train_y = x[:train_split], y[:train_split]
@@ -153,8 +182,6 @@ def main():
 
 	final_acc = test_random_forest(test_x, test_y, best_forest)
 	print("TEST: " + str(final_acc))
-
-	#print("C = {0}: {1}".format(alpha, np.average(acc)))
 
 
 if __name__ == '__main__':
