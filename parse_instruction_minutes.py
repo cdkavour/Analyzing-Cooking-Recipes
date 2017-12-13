@@ -88,7 +88,7 @@ def main():
 				time_map[recipe_id] = times
 
 	# Write the full processed JSON data to its permanent location processed/instruction_time.json
-	filename = 'processed/instruction_time.json'
+	filename = 'processed/instruction_minutes.json'
 	with open(filename, 'w') as fp:
 		json.dump(time_map, fp, sort_keys=True, indent=4, separators=(',', ': '))
 

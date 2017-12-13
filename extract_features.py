@@ -37,7 +37,7 @@ def create_feature(ids, nested_dct):
 	unique_items = []
 	for ID in ids:
 		for item in nested_dct[ID].keys():
-			if item not in unique_items && not in stop_words:
+			if (item not in unique_items) and (item not in stop_words):
 				unique_items.append(item)
 
 	fm = np.zeros((len(ids), len(unique_items)))

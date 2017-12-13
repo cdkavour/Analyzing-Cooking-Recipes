@@ -8,7 +8,7 @@ Module function:
 	Parse allrecipes.com to get all categories.
 '''
 
-from urllib.request import urlopen
+from urllib2 import urlopen
 from bs4 import BeautifulSoup
 
 # Url for main page on allrecipes.com, which contains urls for category pages

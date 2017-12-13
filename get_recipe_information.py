@@ -79,8 +79,8 @@ def main():
     for url_idx, line in enumerate(URLS):
 
         # Print out % of URLs parsed every once in a while as a sanity check
-        if (url_idx % 6) == 0:
-            print('\t {}%'.format((url_idx/len(URLS)) * 100))
+        #if (url_idx % (int(len(URLS)) / int(100) )) == 0:
+            #print('\t {}%'.format((url_idx/len(URLS)) * 100))
 
         # Create Recipe object r for our current recipe
         r = Recipe()

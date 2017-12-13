@@ -8,7 +8,7 @@ Module function:
     Parse allrecipes.com to get all recipes associated with category URLs
     from scraper_get_categories
 '''
-from urllib.request import urlopen
+from urllib import urlopen
 from bs4 import BeautifulSoup
 from collections import defaultdict
 import time
@@ -61,7 +61,7 @@ def main():
                     page_found = False
 
         # Write output to recipe_urls directory
-        output = open("recipe_urls/Recipe_urls_" + str(count) + ".txt", 'w')
+        output = open("links/links_" + str(count), 'w')
         for recipe in recipe_tags.keys():
             recipe_out = 'http://allrecipes.com' + recipe
             for tag in recipe_tags[recipe]:
