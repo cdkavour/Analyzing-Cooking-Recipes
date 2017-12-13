@@ -10,8 +10,6 @@ import extra_functions
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
-import code #DEBUG code.interact(local=locals())
-#import ipdb
 import math
 
 def create_feature(ids, parse_tree):
