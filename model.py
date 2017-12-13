@@ -59,10 +59,10 @@ def get_accuracy(y_test, y_pred):
 	acc = np.average(percentage) * 100
 	return acc
 
-def train_random_forest(train_x, train_y, m, n_clf=1):
+def train_model(train_x, train_y, m, n_clf=1):
 	"""
 	Returns accuracy on the test set test_x with corresponding labels test_y
-	using a random forest classifier with n_clf decision trees trained with
+	using a model of our choice, trained with
 	training examples train_x and training labels train_y
 
 	Input:
@@ -77,21 +77,20 @@ def train_random_forest(train_x, train_y, m, n_clf=1):
 	"""
 
 	n, d = train_x.shape
-
-	forest = []
+	model = []
 
 	for i in range(n_clf):
-		#forest.append(DecisionTreeRegressor(max_features=m))
-		#forest.append(KNeighborsRegressor(n_neighbors=m))
-		#forest.append(GaussianProcessRegressor(alpha=m))
-		forest.append(svm.SVR(C=m))
+		#model.append(DecisionTreeRegressor(max_features=m))
+		#model.append(KNeighborsRegressor(n_neighbors=m))
+		#model.append(GaussianProcessRegressor(alpha=m))
+		model.append(svm.SVR(C=m))
 		x_train_sample, y_train_sample = resample(train_x, train_y, n_samples=n)
-		forest[i].fit(x_train_sample, y_train_sample)
+		model[i].fit(x_train_sample, y_train_sample)
 
-	return forest
+	return model
 
 
-def test_random_forest(test_x, y_true, forest):
+def test_model(test_x, y_true, model):
 	"""
 	Input:
 		test_x : np.array (n_test, d) - array of testing feature vectors
@@ -99,15 +98,15 @@ def test_random_forest(test_x, y_true, forest):
 	"""
 
 	n_test, d_test = test_x.shape
-	n_clf = len(forest)
+	n_clf = len(model)
 
-	forest_pred = np.zeros((n_clf, n_test))
+	model_pred = np.zeros((n_clf, n_test))
 
 	for j in range(n_clf):
-		pred = forest[j].predict(test_x)
-		forest_pred[j] = pred
+		pred = model[j].predict(test_x)
+		model_pred[j] = pred
 
-	y_pred = np.ceil(np.average(np.transpose(forest_pred), axis=1))
+	y_pred = np.ceil(np.average(np.transpose(model_pred), axis=1))
 
 	return get_accuracy(y_true, y_pred)
 
@@ -144,43 +143,48 @@ def main():
 	y = y[s]
 	ids = ids[s]
 
-	m = 200
-	#f_range = (np.arange(10)+1)*5
-	#f_range = np.power((np.arange(10)+1), math.e).astype(int)
-	f = 3
-
+	# Split data into train, test data (70% train data)
 	train_split = int(len(x))/10*7
 	train_x, train_y = x[:train_split], y[:train_split]
 	test_x, test_y = x[train_split:], y[train_split:]
 	train_ids, test_ids = ids[train_split:], ids[train_split:]
+
+	# Get the baseline ready-in time prediction (median across the training data)
 	baseline(train_y)
 
-	c = 100
-	best_forest = []
-	best_accuracy = 0
+	# Set hyper-parameters which we deemed best (results of test_hyperparameters.py script)
+	c = 100 # regularization parameter
+	m = 200 # number o
+	f = 3 # number of individual models used for our overarching model, which averages over the results of each
 
+	# Create 5-folds for cross validation
 	k = int(math.ceil(train_split/5.0))
 	train_x_folds = [train_x[1:k], train_x[k:2*k], train_x[2*k:3*k], train_x[3*k:4*k], train_x[4*k:]]
 	train_y_folds = [train_y[1:k], train_y[k:2*k], train_y[2*k:3*k], train_y[3*k:4*k], train_y[4*k:]]
 
+	# Run model on each fold
+	best_forest = []
+	best_accuracy = 0
 	for fold in range(5):
 		train_x_current = [train_x[0]]
 		train_y_current = [train_y[0]]
+
 
 		for i in range(5):
 			if fold != i:
 				train_x_current = np.concatenate((train_x_current, train_x_folds[i]))
 				train_y_current = np.concatenate((train_y_current, train_y_folds[i]))
 
-		forest = train_random_forest(train_x_current, train_y_current, c, f)
-		accuracy = test_random_forest(train_x_folds[fold], train_y_folds[fold], forest)
+
+		model = train_model(train_x_current, train_y_current, c, f)
+		accuracy = test_model(train_x_folds[fold], train_y_folds[fold], model)
 		print("FOLD # " + str(fold+1) + " " + str(accuracy))
 
 		if accuracy > best_accuracy:
 			best_accuracy = accuracy
-			best_forest = forest
+			best_model = forest
 
-	final_acc = test_random_forest(test_x, test_y, best_forest)
+	final_acc = test_model(test_x, test_y, best_forest)
 	print("TEST: " + str(final_acc))
 
 

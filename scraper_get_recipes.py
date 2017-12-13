@@ -7,7 +7,10 @@ from collections import defaultdict
 import time
 
 def main():
+
+    # Get list of URLs for each category identified by scraper_get_categories.py script
     URLS = open("Category_urls.txt").read().splitlines()
+
     count = 20
     for line in URLS:
         count += 1
@@ -15,7 +18,9 @@ def main():
 
         line = line.split()
         print(line)
-        page_found = True        # Get Ready In Time
+        page_found = True
+
+        # Get Ready In Time
         times = soup.find_all('li', 'prepTime__item')
         for time_option in times:
             time_type = time_option.find('p', 'prepTime__item--type')
