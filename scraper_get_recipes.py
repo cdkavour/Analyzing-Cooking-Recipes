@@ -1,6 +1,13 @@
-# Parse allrecipes.com to get all categories.
-# Ingredients category manually removed
+'''
+scraper_get_recipes.py
 
+Usage:
+    python scraper_get_recipes.py
+
+Module function:
+    Parse allrecipes.com to get all recipes associated with category URLs
+    from scraper_get_categories
+'''
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 from collections import defaultdict
@@ -42,17 +49,27 @@ def main():
                 if 'M' in T:
                     minutes += int(T.partition('M')[0])
                 r.ready = minutes
+
+        # Skip if Ready-In time is zero
         if r.ready == None or r.ready == 0:
             continue
+
+
         i = 1
         miss = 0
         while page_found:
             print(i)
-            # Create soup for each category page
+
+            # URL for this category page
             url = line[0] + '?page=' + str(i) + '#' + str(i)
+
+            # Try to access this category page
             try:
+                # Create soup
                 bytes = urlopen(url).read()
                 soup = BeautifulSoup(bytes, 'lxml')
+
+                # For each recipe found, append the recipe URL
                 page_found = False
                 for recipe in soup.find_all('article', 'fixed-recipe-card'):
                     x = recipe.find('a', 'fixed-recipe-card__title-link')
@@ -61,13 +78,18 @@ def main():
                         page_found = True
                 miss = 0
                 i += 1
+
+            # If failed to access this category page, note this
             except:
                 print("exception")
                 time.sleep(1)
                 miss += 1
+
+                # If this is the third failed attempt, move on
                 if miss >= 3:
                     page_found = False
 
+        # Write output to recipe_urls directory
         output = open("recipe_urls/Recipe_urls_" + str(count) + ".txt", 'w')
         for recipe in recipe_tags.keys():
             recipe_out = 'http://allrecipes.com' + recipe

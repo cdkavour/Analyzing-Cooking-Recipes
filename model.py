@@ -59,34 +59,38 @@ def get_accuracy(y_test, y_pred):
 	acc = np.average(percentage) * 100
 	return acc
 
-def train_model(train_x, train_y, m, n_clf=1):
+def train_model(train_x, train_y, c, n_clf=1):
 	"""
 	Returns accuracy on the test set test_x with corresponding labels test_y
-	using a model of our choice, trained with
-	training examples train_x and training labels train_y
+	using a model of our choice, trained with training examples train_x and
+	training labels train_y
 
 	Input:
 		train_x : np.array (n_train, d) - array of training feature vectors
 		train_y : np.array (n_train) = array of labels corresponding to train_x samples
 
-		m : int - number of features to consider when splitting
-		n_clf : int - number of decision tree classifiers in the random forest, default is 10
+		c: int - regularization hyperparameter
+		n_clf : int - number of classifiers we average over, default is 1
 
 	Returns:
-		accracy : float - accuracy of random forest classifier on test_x samples
+		model : list of our trained classifiers to be used as our model
 	"""
 
+	# Number of training recipes, Number of features
 	n, d = train_x.shape
+
+	# Model is made up of a list of classifiers
 	model = []
 
+	# Loop through each classifier in our model
 	for i in range(n_clf):
-		#model.append(DecisionTreeRegressor(max_features=m))
-		#model.append(KNeighborsRegressor(n_neighbors=m))
-		#model.append(GaussianProcessRegressor(alpha=m))
-		model.append(svm.SVR(C=m))
+
+		# Train and append a new SVM classifier to our model (resampled on the training data)
+		model.append(svm.SVR(C=c))
 		x_train_sample, y_train_sample = resample(train_x, train_y, n_samples=n)
 		model[i].fit(x_train_sample, y_train_sample)
 
+	# Return our list of classifiers
 	return model
 
 
@@ -95,23 +99,39 @@ def test_model(test_x, y_true, model):
 	Input:
 		test_x : np.array (n_test, d) - array of testing feature vectors
 		test_y : np.array (n_test) - array of labels corresponding to test_x samples
+
+	Output:
+		accracy : float - accuracy of our model prediction on test_x samples
 	"""
 
+	# Number of training recipes, Number of features
 	n_test, d_test = test_x.shape
+
+	# Number of classifiers used for our model
 	n_clf = len(model)
 
+	# ndarry for storing our model predictions
 	model_pred = np.zeros((n_clf, n_test))
 
+	# Loop through each classifier in our model
 	for j in range(n_clf):
+
+		# Predict using current classifier, store predictions
 		pred = model[j].predict(test_x)
 		model_pred[j] = pred
 
+	# Get the average classifier prediction as our model prediction
 	y_pred = np.ceil(np.average(np.transpose(model_pred), axis=1))
 
-	return get_accuracy(y_true, y_pred)
+	# Return the accuracy of our model prediction
+	acc = get_accuracy(y_true, y_pred)
+	return acc
 
 def baseline(truths):
+	# Get median across truth values
 	median = np.median(truths)
+
+	# Print accuracy using baseline (median) prediction
 	acc = get_accuracy( truths, np.full(truths.shape, median))
 	print('Baseline: {}'.format(acc))
 
@@ -137,6 +157,8 @@ def main():
 
 	# Get feature matrix x, and true label vector y
 	x, y, ids = extract_features.generate_features(imperatives, ingredients, times, num_instructions, num_ingredients, instruction_times)
+	
+	# Shuffle the data
 	s = np.arange(len(x))
 	np.random.shuffle(s)
 	x = x[s]
@@ -152,10 +174,15 @@ def main():
 	# Get the baseline ready-in time prediction (median across the training data)
 	baseline(train_y)
 
-	# Set hyper-parameters which we deemed best (results of test_hyperparameters.py script)
-	c = 100 # regularization parameter
-	m = 200 # number o
-	f = 3 # number of individual models used for our overarching model, which averages over the results of each
+	''' Hyper-parameters which we deemed best (results of test_hyperparameters.py script) '''
+
+	# Regularization parameter for SVM
+	c = 100
+	# Number of max tree splits for decision tree classifier
+	m = 200
+	# Number of individual classifiers used for our overarching model,
+	# which averages over the results of each classifier
+	f = 3
 
 	# Create 5-folds for cross validation
 	k = int(math.ceil(train_split/5.0))
@@ -163,30 +190,35 @@ def main():
 	train_y_folds = [train_y[1:k], train_y[k:2*k], train_y[2*k:3*k], train_y[3*k:4*k], train_y[4*k:]]
 
 	# Run model on each fold
-	best_forest = []
-	best_accuracy = 0
+	best_fold_model = []
+	best_fold_accuracy = 0
 	for fold in range(5):
+
+		# Use other folds as training data, current fold as validation data
 		train_x_current = [train_x[0]]
 		train_y_current = [train_y[0]]
-
-
 		for i in range(5):
 			if fold != i:
 				train_x_current = np.concatenate((train_x_current, train_x_folds[i]))
 				train_y_current = np.concatenate((train_y_current, train_y_folds[i]))
 
-
+		# Train model on training data
 		model = train_model(train_x_current, train_y_current, c, f)
+
+		# Get accuracy based on this fold
 		accuracy = test_model(train_x_folds[fold], train_y_folds[fold], model)
+
+		# Print accuracy for this fold
 		print("FOLD # " + str(fold+1) + " " + str(accuracy))
 
-		if accuracy > best_accuracy:
-			best_accuracy = accuracy
-			best_model = forest
 
-	final_acc = test_model(test_x, test_y, best_forest)
+		if accuracy > best_fold_accuracy:
+			best_fold_accuracy = accuracy
+			best_fold_model = model
+
+	# Print final accuracy of our model based on the best fold
+	final_acc = test_model(test_x, test_y, best_fold_model)
 	print("TEST: " + str(final_acc))
-
 
 if __name__ == '__main__':
 	main()

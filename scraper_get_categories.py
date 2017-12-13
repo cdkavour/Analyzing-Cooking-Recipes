@@ -1,9 +1,12 @@
 '''
 scraper_get_categories.py
 
-'''
+Usage:
+	python scraper_get_categories.py
 
-# Parse allrecipes.com to get all categories.
+Module function:
+	Parse allrecipes.com to get all categories.
+'''
 
 from urllib.request import urlopen
 from bs4 import BeautifulSoup

@@ -1,6 +1,11 @@
 '''
 get_recipe_information.py
 
+Usage:
+    python get_recipe_information.py jsonDir
+    
+    jsonDir - a directory containing the scraped data from allrecipes in JSON format (get_recipe_information.py)
+
 Module Description: Main function parses a list of URL links to recipes on allrecipes.com,
                     and creates a JSON file representing those recipes and all data
                     associated with them in json format. JSON file for the ith list of 
