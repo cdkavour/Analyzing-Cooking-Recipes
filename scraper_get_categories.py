@@ -13,11 +13,11 @@ from bs4 import BeautifulSoup
 
 # Url for main page on allrecipes.com, which contains urls for category pages
 # Each category page has the recipe URLs for recipes of that category
-url = 'http://allrecipes.com/recipes/?grouping=all'
+main_url = 'http://allrecipes.com/recipes/?grouping=all'
 
 def main():
 	# Create Soup over all categories
-	bytes = urlopen(url).read()
+	bytes = urlopen(main_url).read()
 	soup = BeautifulSoup(bytes, 'lxml')
 
 	# Loop over the categories

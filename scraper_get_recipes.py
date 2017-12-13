@@ -26,35 +26,6 @@ def main():
         line = line.split()
         print(line)
         page_found = True
-
-        # Get Ready In Time
-        times = soup.find_all('li', 'prepTime__item')
-        for time_option in times:
-            time_type = time_option.find('p', 'prepTime__item--type')
-            if time_type and time_type.string == 'Ready In':
-                T = time_option.find('time')['datetime'][2:]
-                minutes = 0
-                if 'Days' in T:
-                    days = T.partition('Days')
-                    minutes += 24 * 60 * int(days[0])
-                    T = days[2]
-                elif 'Day' in T:
-                    days = T.partition('Day')
-                    minutes += 24 * 60 * int(days[0])
-                    T = days[2]
-                if 'H' in T:
-                    hours = T.partition('H')
-                    minutes += 60 * int(hours[0])
-                    T = hours[2]
-                if 'M' in T:
-                    minutes += int(T.partition('M')[0])
-                r.ready = minutes
-
-        # Skip if Ready-In time is zero
-        if r.ready == None or r.ready == 0:
-            continue
-
-
         i = 1
         miss = 0
         while page_found:

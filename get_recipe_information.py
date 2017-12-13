@@ -3,7 +3,7 @@ get_recipe_information.py
 
 Usage:
     python get_recipe_information.py jsonDir
-    
+
     jsonDir - a directory containing the scraped data from allrecipes in JSON format (get_recipe_information.py)
 
 Module Description: Main function parses a list of URL links to recipes on allrecipes.com,
@@ -80,7 +80,7 @@ def main():
 
         # Print out % of URLs parsed every once in a while as a sanity check
         if (url_idx % 6) == 0:
-            print('\t {}%'.format((curUrl/len(URLS)) * 100))
+            print('\t {}%'.format((url_idx/len(URLS)) * 100))
 
         # Create Recipe object r for our current recipe
         r = Recipe()
