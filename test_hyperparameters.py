@@ -1,3 +1,10 @@
+'''
+test_hyperparameters.py
+
+Module Description: This module is similar to model.py, but was used 
+					specifically for tuning hyperparameters
+'''
+
 from sklearn.tree import DecisionTreeRegressor
 from sklearn.linear_model import LogisticRegression
 from sklearn import svm
@@ -11,18 +18,23 @@ import extra_functions
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
-import code #DEBUG code.interact(local=locals())
-#import ipdb
 import math
+
+############################# HELPER FUNCTIONS ################################
 
 def get_accuracy(y_test, y_pred):
 
+	# Calculate vector of the time errors (absolute value of (predicted time - true time) ) for each prediction
 	diff = np.absolute(np.subtract(y_test, y_pred))
+
+	# Calculate vector of the percent errors for each prediction
 	percentage = np.divide(diff, y_test)
 
-	return np.average(percentage) * 100
+	# Return the average percent error across all predictions
+	acc = np.average(percentage) * 100
+	return acc
 
-def train_random_forest(train_x, train_y, c, n_clf=1):
+def train_model(train_x, train_y, c, n_clf=1):
 	"""
 	Returns accuracy on the test set test_x with corresponding labels test_y
 	using a random forest classifier with n_clf decision trees trained with
@@ -41,21 +53,21 @@ def train_random_forest(train_x, train_y, c, n_clf=1):
 
 	n, d = train_x.shape
 
-	forest = []
+	model = []
 
 	for i in range(n_clf):
 		#select features
-		#forest.append(DecisionTreeRegressor(max_features=m))
+		#model.append(DecisionTreeRegressor(max_features=m))
 		forest.append(svm.SVR(C=c))
-		#forest.append(KNeighborsRegressor(n_neighbors=m))
-		#forest.append(GaussianProcessRegressor(alpha=m))
+		#model.append(KNeighborsRegressor(n_neighbors=m))
+		#model.append(GaussianProcessRegressor(alpha=m))
 		x_train_sample, y_train_sample = resample(train_x, train_y, n_samples=n)
-		forest[i].fit(x_train_sample, y_train_sample)
+		model[i].fit(x_train_sample, y_train_sample)
 
-	return forest
+	return model
 
 
-def test_random_forest(test_x, y_true, forest):
+def test_model(test_x, y_true, model):
 	"""
 	Input:
 		test_x : np.array (n_test, d) - array of testing feature vectors
@@ -63,27 +75,27 @@ def test_random_forest(test_x, y_true, forest):
 	"""
 
 	n_test, d_test = test_x.shape
-	n_clf = len(forest)
+	n_clf = len(model)
 
-	forest_pred = np.zeros((n_clf, n_test))
+	model_pred = np.zeros((n_clf, n_test))
 
 	for j in range(n_clf):
-		pred = forest[j].predict(test_x)
-		forest_pred[j] = pred
+		pred = model[j].predict(test_x)
+		model_pred[j] = pred
 
-	y_pred = np.ceil(np.average(np.transpose(forest_pred), axis=1))
+	y_pred = np.ceil(np.average(np.transpose(model_pred), axis=1))
 
 	return get_accuracy(y_true, y_pred)
 
 def baseline(truths):
 	median = np.median(truths)
-	#print(median)
-
 	acc = get_accuracy( truths, np.full(truths.shape, median))
-
+	print('Baseline: {}'.format(acc))
 
 def main():
 	print("Getting training data")
+
+	# Get parsed json data as dictionary objects for inputs to the model
 	imperatives = extra_functions.json_to_dict("processed/instructions.json")
 	ingredients = extra_functions.json_to_dict("processed/ingredients.json")
 	times = extra_functions.json_to_dict("processed/times.json")
@@ -91,10 +103,14 @@ def main():
 	num_ingredients = extra_functions.json_to_dict("processed/num_ingredients.json")
 	instruction_times = extra_functions.json_to_dict("processed/instruction_time.json")
 
+	# Get ordered list of recipe ids
 	recipeIDs = times.keys()
+
+	# Exclude recipes who's true Ready-In Times are greater than 24 hours
 	for recipeID in recipeIDs:
 		if times[recipeID] > 24*60: del times[recipeID]
 
+	# Get feature matrix x, and true label vector y
 	x, y, ids = extract_features.generate_features(imperatives, ingredients, times, num_instructions, num_ingredients, instruction_times)
 	final_acc = []
 	c_range = [0.001, 0.01, 0.1, 1, 10, 100, 1000]

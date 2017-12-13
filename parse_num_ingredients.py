@@ -1,33 +1,43 @@
 """
-Usage:
-	python parse_num_ingredients.py DIR
+parse_num_ingredients.py
 
-	DIR - a directory containing the scraped data from allrecipes in JSON format (get_recipe_information.py)
+Usage:
+	python parse_num_ingredients.py jsonDir
+
+	jsonDir - a directory containing the scraped data from allrecipes in JSON format (get_recipe_information.py)
 
 Function:
 	Generates processed/num_ingredients.json, which maps recipeID to ready times
 """
 import os, sys
 import json
-import code #DEBUG code.interact(local=locals())
 
-#Returns map from recipeIDs -> imperatives -> counts
-def get_num_ingredients(jsonDir):
+# Returns map from recipeIDs -> imperatives -> counts
+def main():
 
+	# Get name of directory containing scraped JSON data
+	jsonDir = sys.argv[1]
+
+	# Initialize empty dict: {recipe id -> num_ingredients}
 	count_map = {}
 
+	# Loop over each file containing recipe data
 	for filename in os.listdir(jsonDir):
 		if filename.endswith('.json'):
+
+			# Get all dict of all recipes' JSON data from this file
 			data = json.load(open(os.path.join(jsonDir, filename)))
 
+			# Loop through each recipe from the current file
 			for recipe_id, recipe in data.iteritems():
+
+				# Get num ingredients for this recipe
 				count_map[recipe_id] = len(recipe['ingredients'])
 
+	# Write the full processed JSON data to its permanent location processed/num_ingredients.json
 	filename = 'processed/num_ingredients.json'
 	with open(filename, 'w') as fp:
 		json.dump(count_map, fp, sort_keys=True, indent=4, separators=(',', ': '))
 
-
 if __name__ == '__main__':
-	inDir = sys.argv[1]
-	get_num_ingredients(inDir)
+	main()
